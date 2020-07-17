@@ -1,0 +1,36 @@
+---
+title: Interactieve e-mailinhoud definiëren met AMP
+description: In deze video wordt uitgelegd hoe u de e-mailinhoud van Adobe Campaign Classic (ACC) configureert in AMP-indeling.
+feature: Email Channel
+topics: Create and Send Email Deliveries
+kt: 3475
+doc-type: feature video
+activity: set-up
+team: TM
+translation-type: tm+mt
+source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
+workflow-type: tm+mt
+source-wordcount: '142'
+ht-degree: 1%
+
+---
+
+
+# Interactieve e-mailinhoud definiëren met AMP
+
+AMP for Email is een nieuwe open-source-indeling waarmee ontwikkelaars dynamische en interactieve e-mails kunnen maken. Met de moderne toepassingsfunctionaliteit die direct beschikbaar is in e-mails, kunnen ontvangers dynamisch communiceren met de inhoud van het bericht zelf.
+
+Momenteel wordt het ondersteund door twee e-mailproviders: Gmail en Outlook.
+
+>[!NOTE]
+>
+> Als u AMP-e-mails wilt kunnen verzenden, moet u het e-mailadres registreren dat u verzendt via [Google](https://developers.google.com/gmail/ampemail/register) en [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+
+In de onderstaande video wordt uitgelegd hoe u AMP kunt activeren in Adobe Campaign Classic en hoe u het gebruik kunt demonstreren.
+
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+
+## Aanvullende bronnen
+
+* [Documentatie](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
+* [AMP-editor](https://playground.amp.dev/)
