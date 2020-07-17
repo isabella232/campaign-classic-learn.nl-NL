@@ -1,0 +1,38 @@
+---
+title: Eigenschappen van leveringssjablonen instellen in Adobe Campaign Classic
+description: In de volgende video ziet u hoe u de eigenschappen van de leveringssjabloon instelt in Adobe Campaign Classic en wordt elke eigenschap in detail uitgelegd.
+feature: Delivery Templates
+topics: Templates
+kt: 1981
+thumbnail: 24067.jpg
+doc-type: feature video
+activity: use
+team: TM
+translation-type: tm+mt
+source-git-commit: 3f5e338450f2d240569cd3d3ed9e782b1db0c385
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 1%
+
+---
+
+
+# Eigenschappen van leveringssjablonen instellen {#setting-the-delivery-template-properties}
+
+In de volgende video ziet u hoe u de eigenschappen van de leveringssjabloon instelt en wordt elke eigenschap in detail uitgelegd.
+
+>[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
+
+## Aanvullende bronnen {#additional-resources}
+
+Hoe kan ik-video&#39;s
+
+* [Een leveringssjabloon configureren](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+* [Een ad-hocsjabloon voor e-maillevering implementeren](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+
+Documentatie:
+
+* [Informatie over sjablonen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
+* [Een leveringssjabloon maken](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
+* [Een doeltoewijzing selecteren](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
+* [Een levering maken via een sjabloon](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
