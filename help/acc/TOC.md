@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentatie
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
@@ -30,8 +30,10 @@ ht-degree: 2%
    + [Een lijst met ontvangers maken](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [Een workflow maken](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Een doelworkflow maken](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Profielen importeren](/help/acc/data-management/importing-profiles.md)
    + [Zaden en proefdrukken in een e-mail beheren](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profielbeheer {#profile-management}
+   + [Profielen maken en beheren](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [Profielen importeren](/help/acc/data-management/importing-profiles.md)
 + Berichten verzenden{#sending-messages}
    + E-mailkanaal{#email-channel}
       + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
