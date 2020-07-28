@@ -1,6 +1,6 @@
 ---
 title: Landingspagina's configureren in Adobe Campaign Classic
-description: Met Adobe Campaign Classic kunt u allerlei verschillende webpagina's ontwerpen en hosten op de server, waaronder online enquêtes, voorkeurscentra en afmeldingspagina's. In deze video ziet u hoe u door de webtoepassingseditor van Adobe Campaign kunt navigeren door een voorkeurscentrum te maken.
+description: Met Adobe Campaign Classic kunt u allerlei verschillende webpagina's ontwerpen en hosten op de server, waaronder online enquêtes, voorkeurscentra en het afmelden van pagina's. In deze video ziet u hoe u door de webtoepassingseditor van Adobe Campaign kunt navigeren door een voorkeurscentrum te maken.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Landingspagina&#39;s configureren
 
-Met Adobe Campaign Classic kunt u allerlei verschillende webpagina&#39;s ontwerpen en hosten op de server, waaronder online enquêtes, voorkeurscentra en afmeldingspagina&#39;s.
+Met Adobe Campaign Classic kunt u allerlei verschillende webpagina&#39;s ontwerpen en hosten op de server, waaronder online enquêtes, voorkeurscentra en het afmelden van pagina&#39;s.
 
 In deze video ziet u hoe u door de webtoepassingseditor van Adobe Campaign kunt navigeren door een voorkeurscentrum te maken.
 
