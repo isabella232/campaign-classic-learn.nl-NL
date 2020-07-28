@@ -1,24 +1,24 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Klassieke zelfstudies
+user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Zelfstudies
+tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentatie
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Campaign Klassieke zelfstudies {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Overzicht](/help/acc/overview.md)
 + Aan de slag {#getting-started}
@@ -28,9 +28,8 @@ ht-degree: 2%
    + [Een marketingplan, -programma&#39;s en -campagnes maken](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Een lijst met ontvangers maken](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Een workflow maken](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Een doelworkflow maken](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Zaden en proefdrukken in een e-mail beheren](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Een workflow maken](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Doelprofielen in een workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 2%
    + E-mailkanaal{#email-channel}
       + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Zaden en proefdrukken in een e-mail beheren](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [E-mails personaliseren met gebruik van dynamische inhoudsblokken](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [E-mailberichten aanpassen met het veld voor personalisatie](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/acc/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailinhoud definiëren met AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-kanaal {#push-channel}
@@ -64,7 +65,7 @@ ht-degree: 2%
    + [Workflow Heatmap](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audittrail](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + Integreren {#integrating}
-   + [Dynamiek 365 integreren met Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
+   + [Hoe te om Dynamiek 365 met Adobe Campaign Classic te integreren](/help/acc/integrations/dynamics365-integration.md)
 + Beheer {#administrating}
    + Configuratiescherm {#control-panel-acc}
       + [Overzicht van het regelpaneel](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
@@ -84,5 +85,5 @@ ht-degree: 2%
          + [Gegevens decoderen](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Problemen met het Configuratiescherm oplossen](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Toegang tot een externe database (FDA) {#fda}
-      + [Groot gegevensbeheer op [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Groot gegevensbeheer op Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
