@@ -1,6 +1,6 @@
 ---
-title: Dynamiek 365 integreren met Adobe Campaign Classic
-description: Deze video laat zien hoe u Dynamics 365 kunt integreren met Adobe Campaign Classic.
+title: Hoe te om Dynamiek 365 met Adobe Campaign Classic te integreren
+description: In deze video ziet u hoe u Dynamics 365 kunt integreren met Adobe Campaign Classic.
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft Dynamics 365 Connector
 topics: Configure
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Dynamiek 365 integreren met Adobe Campaign Classic
+# Hoe te om Dynamiek 365 met Adobe Campaign Classic te integreren
 
-Deze video laat zien hoe u Dynamics 365 kunt integreren met Adobe Campaign Classic.
+In deze video ziet u hoe u Dynamics 365 kunt integreren met Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12)
