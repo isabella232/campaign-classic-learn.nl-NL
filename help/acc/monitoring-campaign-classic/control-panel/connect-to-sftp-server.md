@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Ga naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: Campagne > **Control Panel** card > **SFTP** card
 
    of
 * Rechtstreeks via de URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
