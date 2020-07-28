@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Ga voor toegang tot de [!UICONTROL subdomain management] insteekmodule naar [!UICONTROL Control Panel]:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** Kaart > **[!UICONTROL Subdomains & Certificates]** Kaart
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: Campagne > **Control Panel** card > **Subdomeinen &amp; Certificates** card
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
