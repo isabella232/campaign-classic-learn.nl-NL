@@ -1,6 +1,6 @@
 ---
 title: Hoe te om verrijkingsactiviteiten te vormen
-seo-title: Hoe te om verrijkingsactiviteiten in Adobe Campaign Classic te vormen
+seo-title: Verrijkingsactiviteiten in Adobe Campaign Classic configureren
 description: Een verrijkingsactiviteit is een werkschemavoorwerp dat de gebruiker toestaat om gegevens aan de het werk lijst toe te voegen. Met een verrijking, kunt u kolommen aan die lijst toevoegen om extra gegevens te houden OF nieuwe verbindingen van die het werken lijst aan andere bestaande gegevens te bepalen.  Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
 seo-description: Een verrijkingsactiviteit is een werkschemavoorwerp dat de gebruiker toestaat om gegevens aan de het werk lijst toe te voegen. Met een verrijking, kunt u kolommen aan die lijst toevoegen om extra gegevens te houden OF nieuwe verbindingen van die het werken lijst aan andere bestaande gegevens te bepalen.   Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
