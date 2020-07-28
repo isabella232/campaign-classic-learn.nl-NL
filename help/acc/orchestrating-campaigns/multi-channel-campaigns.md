@@ -1,28 +1,29 @@
 ---
-title: Campagnes met meerdere kanalen maken in Adobe Campaign Classic (ACC)
-description: In deze video ziet u hoe u een multikanaalcampagne kunt maken in Adobe Campaign Classic. U zult ook leren hoe te om een e-mail, een SMS, en een directe postlevering te vormen.
+title: Multikanaalcampagnes maken in Adobe Campaign Classic (ACC)
+description: Leer hoe u een multikanaalscampagne kunt maken met gebruik van e-mail, SMS en een direct mailbericht.
 feature: Workflows
-topics: Multi Channel
+topics: null
 kt: 1563
+thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
 
-# Campagnes met meerdere kanalen maken
+# Multikanaalcampagnes maken
 
-In een campagne met meerdere kanalen gebruikt één marketingmededeling meerdere kanalen om een groter doelpubliek te bereiken op basis van het voorkeurskanaal voor ontvangers.
+In een multikanaalcampagne gebruikt één marketingcommunicatie meerdere kanalen om een groter doelpubliek te bereiken op basis van het voorkeurskanaal voor ontvangers.
 
-Multikanaalleveringen worden ontworpen en uitgevoerd in één workflow.
+Leveringen met meerdere kanalen worden ontworpen en uitgevoerd in één workflow.
 
-In deze video ziet u hoe u een multikanaalcampagne kunt maken in Adobe Campaign Classic. U zult ook leren hoe te om een e-mail, een SMS, en een directe postlevering te vormen.
+Leer hoe u een multikanaalscampagne kunt maken met gebruik van e-mail, SMS en een direct mailbericht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
