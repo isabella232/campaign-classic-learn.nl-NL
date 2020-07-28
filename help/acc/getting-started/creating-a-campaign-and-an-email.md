@@ -1,6 +1,6 @@
 ---
 title: 'Een campagne en een e-mail maken '
-description: In deze video wordt uitgelegd hoe u een campagne en een e-mail maakt in Adobe Campaign Classic.
+description: In deze video wordt uitgelegd hoe u een campagne en een e-mail kunt maken in Adobe Campaign Classic.
 feature: Email
 topics: Getting started
 kt: 2172
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Een campagne en een e-mail maken
 
-In deze video wordt uitgelegd hoe u een campagne en een e-mail maakt in Adobe Campaign Classic.
+In deze video wordt uitgelegd hoe u een campagne en een e-mail kunt maken in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
