@@ -1,6 +1,6 @@
 ---
 title: Terugkerende en doorlopende e-mailcampagnes instellen
-description: In deze zelfstudie wordt uitgelegd hoe u een terugkerende en continue levering instelt en hoe de twee benaderingen in Adobe Campaign Classic (ACC) verschillen.
+description: In deze zelfstudie wordt uitgelegd hoe u een terugkerende en continue levering instelt en hoe de verschillen tussen de twee benaderingen in Adobe Campaign Classic (ACC) zijn.
 feature: workflows
 topics: channel activities
 kt: 1560
