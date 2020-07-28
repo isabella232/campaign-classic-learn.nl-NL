@@ -1,6 +1,6 @@
 ---
 title: Groot gegevensbeheer op Snowflake
-description: In deze zelfstudie wordt uitgelegd hoe u de Snowflake-connector in Adobe Campaign Classic kunt gebruiken
+description: In deze zelfstudie wordt uitgelegd hoe u de Snowflake-aansluiting in Adobe Campaign Classic kunt benutten
 feature: Snowflake
 topics: FDA
 kt: 4450
@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
@@ -18,10 +18,10 @@ ht-degree: 1%
 
 # Groot gegevensbeheer op Snowflake
 
-In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake] connector in Adobe Campaign Classic kunt benutten.
+In deze zelfstudie wordt uitgelegd hoe u de Snowflake-connector in Adobe Campaign Classic kunt gebruiken.
 U leert hoe u
 
-* Verbinden met Sneeuwvlok
+* Verbinden met Snowflake
 * Een schema maken dat is gekoppeld aan Snowflake
 * Het schema uitbreiden en uw gegevens voorbereiden
 * Workflows en query&#39;s maken
