@@ -24,7 +24,7 @@ Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en be
 
 Ga naar [!UICONTROL Control Panel]om toegang te krijgen tot Subdomain Management in:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** Kaart > **[!UICONTROL Subdomains & Certificates]** Kaart
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** Kaart > **[!UICONTROL Subdomains & Certificates]** Kaart
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
