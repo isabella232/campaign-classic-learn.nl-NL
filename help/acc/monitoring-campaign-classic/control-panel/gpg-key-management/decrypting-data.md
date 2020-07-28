@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # Gegevens decoderen
 
 Met het Configuratiescherm kunt u externe gegevens die in Adobe Campaign-instanties komen, decoderen met behulp van een sleutelpaar voor openbare en persoonlijke toepassingen.
-Leer hoe u een openbare sleutel maakt en importeert en installeert op een [!DNL Campaign] instantie voor het decoderen van binnenkomende gegevens.
+Leer hoe u een openbare sleutel maakt en importeert en installeert op een Campagne-instantie voor het decoderen van binnenkomende gegevens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
