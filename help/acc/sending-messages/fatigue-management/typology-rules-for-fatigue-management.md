@@ -1,6 +1,6 @@
 ---
-title: Hoe stelt u vermoeidheidsbeheer in met behulp van typologische regels in Adobe Campaign Classic
-description: Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overbevraging van ontvangers en wordt vaak toegepast gebruikend een typologieregel. In deze video wordt uitgelegd hoe u vermoeidheidsbeheer kunt implementeren in Adobe Campaign Classic door gebruik te maken van typologische regels.
+title: Procedure voor het instellen van vermoeidheidsbeheer met behulp van typologische regels in Adobe Campaign Classic
+description: Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overbevraging van ontvangers en wordt vaak toegepast gebruikend een typologieregel. In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classic kunt implementeren door gebruik te maken van typologische regels.
 feature: Fatigue Management
 topics: null
 kt: 1564
@@ -26,7 +26,7 @@ Gewoonlijk wordt een reeks *typologische regels* gegroepeerd binnen een *typolog
 
 Dit elimineert extra stappen wanneer het creëren van verschillende campagnes en werkschema&#39;s, allen terwijl het verzekeren dat u constant de juiste bevolking op het juiste ogenblik richt.
 
-In deze video wordt uitgelegd hoe u vermoeidheidsbeheer kunt implementeren in Adobe Campaign Classic door gebruik te maken van typologische regels.
+In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classic kunt implementeren door gebruik te maken van typologische regels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
