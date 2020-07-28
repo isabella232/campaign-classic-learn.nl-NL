@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## Aanmelding en startpagina
 
-### Symptoom: Aanmelden bij Experience Cloud is niet mogelijk
+### Symptoom: Kan niet aanmelden bij Experience Cloud
 
 **Wat moet u doen:**
 De gebruiker moet de IMS Org-id (xxx) zoeken. De beheerder moet de gebruiker aan het Profiel van het Product &quot;Campagne-xxx-Admins&quot;voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als gebruikers.
@@ -28,18 +28,18 @@ De gebruiker moet de IMS Org-id (xxx) zoeken. De beheerder moet de gebruiker aan
 ### Symptoom: Koppelingen in de Experience Cloud Home voor toegang worden [!UICONTROL Control Panel] niet weergegeven voor een gebruiker
 
 **Oorzaak:**
-Gebruikers zien de koppelingen pas wanneer ze als gebruikers zijn toegevoegd aan de _campagne voor productprofielen xxx-beheerders/Admin_.
+Gebruikers zien de koppelingen pas als ze als gebruikers zijn toegevoegd aan het productprofiel &quot;Campagne-xxx-beheerders/Admin&quot;
 
 **Wat moet u doen:**
-De beheerder moet de gebruiker aan de Campagne-xxx-Admins __ van het Profiel van het Product voor elke instantie toevoegen die zij zouden willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als &quot;gebruikers.
+De beheerder moet de gebruiker aan het Profiel van het Product &quot;Campagne-xxx-Admins&quot;voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als &quot;gebruikers.
 
 ### Symptoom: Een instantie wordt niet vermeld in het dialoogvenster [!UICONTROL Control Panel]
 
 **Oorzaak:**
-De meest waarschijnlijke gebruiker moet worden toegevoegd als &quot;gebruiker&quot;Campagne-xxx- _Beheerders/Admin_ van het Profiel van het Product voor de instantie die mist
+De meest waarschijnlijke gebruiker moet als &quot;gebruiker&quot;Profiel van het Product &quot;Campaign-xxx-Beheerders/Admin&quot;voor de instantie worden toegevoegd die mist
 
 **Wat moet u doen:**
-De beheerder moet de gebruiker aan de Campagne-xxx-Admins __ van het Profiel van het Product voor elke instantie toevoegen die zij zouden willen beheren. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als &quot;gebruikers&quot;.
+De beheerder moet de gebruiker aan het Profiel van het Product &quot;Campagne-xxx-Admins&quot;voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is zouden zij nog kunnen moeten toevoegen als &quot;gebruikers&quot;.
 
 ### Nuttige video&#39;s
 
