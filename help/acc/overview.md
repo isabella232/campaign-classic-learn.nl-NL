@@ -1,12 +1,12 @@
 ---
-title: Klassieke Adobe Campaign-zelfstudies - Overzicht
+title: Adobe Campaign Classic Tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 * **[GPG-sleutelbeheer](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde[!UICONTROL Campaign]instantie voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
+   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde instantie van de Campagne voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
 
 * **[Subdomeinen delegeren (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 * **[Interactieve e-mailinhoud definiëren met AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Leer hoe u de e-mailinhoud in de AMP-indeling Adobe Campaign Classic (ACC) configureert.*
+   *Leer hoe u de e-mailinhoud Adobe Campaign Classic (ACC) configureert in AMP-indeling.*
 
 ## Personeelspictogrammen
 
@@ -61,11 +61,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="E-mails personaliseren met gebruik van dynamische inhoudsblokken (video)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>E-mails personaliseren met gebruik van dynamische inhoudsblokken</strong>
     </a>
     </div>
