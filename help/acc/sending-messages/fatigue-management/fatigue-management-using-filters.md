@@ -1,6 +1,6 @@
 ---
 title: Vermoediging van het op de markt brengen met drukregels beheren
-description: Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overdrijving van ontvangers. Als u niet de module van de campagnoptimalisering in uw campagneinstantie hebt, kunt u een vooraf bepaald filter vormen dat de doelbevolking door het aantal ontvangen berichten zal filtreren.   In deze video wordt uitgelegd hoe u moeheidsbeheer in Adobe Campaign Classic implementeert met behulp van filters.
+description: Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overdrijving van ontvangers. Als u niet de module van de campagnoptimalisering in uw campagneinstantie hebt, kunt u een vooraf bepaald filter vormen dat de doelbevolking door het aantal ontvangen berichten zal filtreren.   In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classic kunt implementeren met behulp van filters.
 feature: Fatigue Management
 topics: null
 kt: 2148
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overdrijving van ontvangers. Als u niet de module van de campagnoptimalisering in uw campagneinstantie hebt, kunt u een vooraf bepaald filter vormen dat de doelbevolking door het aantal ontvangen berichten zal filtreren.
 
-In deze video wordt uitgelegd hoe u moeheidsbeheer in Adobe Campaign Classic implementeert met behulp van filters.
+In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classic kunt implementeren met behulp van filters.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
