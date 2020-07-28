@@ -1,6 +1,6 @@
 ---
 title: Een doelworkflow maken
-description: Adobe Campaign Classic gebruikt workflows voor het uitvoeren van gerichte campagnes, het maken van campagnes of het uitvoeren van technische Adobe Campaign-processen. In deze video zullen we ons richten op workflows die als doel hebben. Met doelgerichte workflows kunt u verschillende leveringsdoelen maken.
+description: Adobe Campaign Classic maakt gebruik van workflows voor het uitvoeren van gerichte campagnes, het maken van campagnes of het uitvoeren van technische Adobe Campaign-processen. In deze video zullen we ons richten op workflows die als doel hebben. Met doelgerichte workflows kunt u verschillende leveringsdoelen maken.
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
