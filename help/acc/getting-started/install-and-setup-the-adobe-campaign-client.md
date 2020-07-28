@@ -27,4 +27,4 @@ In de volgende video wordt uitgelegd hoe u de Adobe Campaign Client Console kunt
 
 * [Compatibiliteitsmatrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html)
 * [De clientconsole installeren](https://docs.adobe.com/content/help/en/campaign-classic/using/installing-campaign-classic/installing-campaign-in-windows-/installing-the-client-console.html)
-* [Handleiding voor Campaign Classic-implementatie](https://helpx.adobe.com/campaign/kb/acc-implementation.html)
+* [Campaign Classic Implementatiehandleiding](https://helpx.adobe.com/campaign/kb/acc-implementation.html)
