@@ -1,6 +1,6 @@
 ---
 title: Profielen importeren
-description: In deze video wordt uitgelegd hoe u profielen importeert in Adobe Campaign Classic
+description: In deze video wordt uitgelegd hoe u profielen kunt importeren in Adobe Campaign Classic
 feature: Profile Management
 topics: Data Import and Export
 kt: 2176
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Profielen importeren
 
-In deze video wordt uitgelegd hoe u profielen importeert in Adobe Campaign Classic.
+In deze video wordt uitgelegd hoe u profielen in Adobe Campaign Classic kunt importeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
