@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Voordat het marketingteam goedkeuringsstappen kan uitvoeren, moet het afzonderli
 
 ## Goedkeuringen voor campagnes configureren  {#configuring-approvals-for-campaigns}
 
-Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, gebruikt u de [!DNL Campaign] goedkeuringsfuncties. Door goedkeuringen en revisoren op campagnereniveau in te stellen, worden de goedkeuringstaken en controleurs naar elke leveringsactiviteit van uw werkstroom verschoven zodra de werkstroom wordt uitgevoerd.
+Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, gebruikt u de goedkeuringsfuncties voor campagnes. Door goedkeuringen en revisoren op campagnereniveau in te stellen, worden de goedkeuringstaken en controleurs naar elke leveringsactiviteit van uw werkstroom verschoven zodra de werkstroom wordt uitgevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
