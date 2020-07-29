@@ -4,9 +4,9 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaa
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 
 * **[GPG-sleutelbeheer](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde instantie van de Campagne voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
+   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde[!UICONTROL Campaign]instantie voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
 
 * **[Subdomeinen delegeren (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
