@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentatie
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 2%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 2%
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketing-campagnes beheren](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Een marketingplan, -programma&#39;s en -campagnes maken](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [Een lijst met ontvangers maken](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Een workflow maken](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Een campagne en een e-mail maken](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [Doelprofielen in een workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/acc/data-management/importing-profiles.md)
+   + [Een lijst met ontvangers maken](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [Een lijst met ontvangers maken met een workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Berichten verzenden{#sending-messages}
    + E-mailkanaal{#email-channel}
       + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 2%
          + [Gegevens decoderen](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Problemen met het Configuratiescherm oplossen](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Toegang tot een externe database (FDA) {#fda}
-      + [Groot gegevensbeheer op Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Groot gegevensbeheer op [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
