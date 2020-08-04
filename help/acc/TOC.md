@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentatie
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 # Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Overzicht](/help/acc/overview.md)
-+ Aan de slag {#getting-started}
++ Getting Started {#getting-started}
    + [Inleiding tot Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketing-campagnes beheren](/help/acc/getting-started/managing-marketing-campaigns.md)
@@ -34,7 +34,7 @@ ht-degree: 2%
    + [Een lijst met ontvangers maken](/help/acc/profile-management/creating-a-list-of-recipients.md)
    + [Een lijst met ontvangers maken met een workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Berichten verzenden{#sending-messages}
-   + E-mailkanaal{#email-channel}
+   + Email Channel{#email-channel}
       + [Een campagne en een e-mail maken](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Zaden en proefdrukken in een e-mail beheren](/help/acc/sending-messages/managing-seed-and-proofs.md)
       + [E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -60,7 +60,7 @@ ht-degree: 2%
    + [Een doelworkflow maken](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Doelen verfijnen door queryresultaten te combineren](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Doelen verfijnen door queryresultaten uit te sluiten](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [Lijsten maken met een workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [De activiteit van de updatelijst gebruiken om een lijst met een werkschema tot stand te brengen](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [Workflows voor validatie configureren](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [Verrijkingsactiviteiten configureren](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [Gegevenssegmentatie](/help/acc/data-management/data-segmentation.md)
