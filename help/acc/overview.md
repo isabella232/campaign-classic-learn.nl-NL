@@ -4,9 +4,9 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaa
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Audittrail (video)" src="./assets/acc-audit-trail.png" />
+      <img alt="Audittrail (video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Audittrail</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Leg een uitgebreide lijst met acties en gebeurtenissen in Adobe Campaign vast.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="E-mails personaliseren met gebruik van dynamische inhoudsblokken (video)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Interactieve e-mailinhoud definiëren met AMP (video)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>E-mails personaliseren met gebruik van dynamische inhoudsblokken</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Interactieve e-mailinhoud definiëren met AMP</strong>
     </a>
     </div>
     <p>
-    <em>Berichten personaliseren aan de hand van criteria van ontvangende profielen. </em>
+    <em>Leer hoe u AMP activeert en gebruikt in Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
