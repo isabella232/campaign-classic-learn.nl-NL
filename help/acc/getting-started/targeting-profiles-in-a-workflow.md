@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 582f04026f6db0823f3de1e3e0cf57c642c2e84f
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,12 @@ ht-degree: 1%
 Begrijp het gebruik van campagneworkflows en leer hoe u een workflow en doelprofielen maakt in een workflow met filtervoorwaarden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+
+## Volgende Tutorials om te controleren
+
+* [Doelen verfijnen door queryresultaten te combineren](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Doelen verfijnen door queryresultaten uit te sluiten](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Lijsten maken met een workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
 
 ## Aanvullende bronnen
 
@@ -35,5 +41,3 @@ Tutorials:
 
 * [Profielen maken en beheren](/help/acc/profile-management/create-and-manage-profiles.md)
 * [Profielen importeren](/help/acc/data-management/importing-profiles.md)
-* [Een lijst met ontvangers maken](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [Een lijst met ontvangers maken met een workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
