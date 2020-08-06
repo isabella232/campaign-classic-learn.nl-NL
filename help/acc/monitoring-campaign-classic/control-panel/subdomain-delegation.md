@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: ce29e5dc91fad713ac0d19752dd8f84f9889df38
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 11%
+ht-degree: 36%
 
 ---
 
@@ -19,15 +19,14 @@ ht-degree: 11%
 # Subdomeinen delegeren
 
 >[!NOTE]
-
-> Subdomein-delegatie van de [!UICONTROL Control Panel] subdomein bevindt zich in bètaversie en is onderworpen aan
-> regelmatige updates en wijzigingen zonder kennisgeving.
+>
+> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
-## Toegang tot [!UICONTROL Control Panel] subdomeinbeheer
+## Toegang tot [!UICONTROL Control Panel] Subdomeinbeheer
 
-Ga naar [!UICONTROL Control Panel]om toegang te krijgen tot Subdomain Management in:
+Ga voor toegang tot Subdomeinbeheer in het [!UICONTROL Control Panel] naar:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** Kaart > **Subdomeinen &amp; Certificaten** Kaart of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
