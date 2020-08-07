@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentatie
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
@@ -48,12 +48,12 @@ ht-degree: 2%
       + [Een leveringssjabloon configureren](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Vermogensbeheer{#fatigue-management}
+   + Vermoeidheidsbeheer{#fatigue-management}
       + [Typologische regels gebruiken](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
    + [Multikanaalcampagnes maken](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
-+ Rapportage {#reporting}
++ Rapporten {#reporting}
    + [Een beschrijvend analyserapport genereren](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
    + [Een workflow maken](/help/acc/automating-with-workflows/creating-a-workflow.md)
@@ -73,21 +73,20 @@ ht-degree: 2%
    + [Hoe te om Dynamiek 365 met Adobe Campaign Classic te integreren](/help/acc/integrations/dynamics365-integration.md)
 + Beheer {#administrating}
    + Configuratiescherm {#control-panel-acc}
-      + [Overzicht van het regelpaneel](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Servercapaciteit controleren, IP-adressen vermelden en SSH-sleutels toevoegen](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Overzicht van het Configuratiescherm](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [Servercapaciteit controleren, IP-adressen op lijsten van gewenste adressen plaatsen en SSH-sleutels toevoegen](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Een SSH-sleutel genereren](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Verbinding maken met een SFTP-server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Subdomeinen delegeren](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL-certificaten toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [SSL-certificaten beheren](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
       + [URL-machtigingen toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [IP staat lijst van de Toegang van de Instantie toe](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Beheer van Google-TXT-records](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG-sleutelbeheer {#gpg-key-management}
          + [GPG-sleutelbeheer - overzicht](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [GPG-sleutels voor gegevenscodering genereren en installeren](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Gegevens versleutelen met een GPG-sleutel](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Gegevens decoderen](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
+         + [GPG-sleutels voor datacodering genereren en installeren](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Een GPG-sleutel gebruiken om data te coderen](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Data decoderen](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Problemen met het Configuratiescherm oplossen](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Toegang tot een externe database (FDA) {#fda}
       + [Groot gegevensbeheer op [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
