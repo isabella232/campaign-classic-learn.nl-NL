@@ -1,46 +1,46 @@
 ---
-title: Adobe Campaign Classic Tutorials - Overzicht
-description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Standard.
+title: Adobe Campaign Classic-tutorials - Overzicht
+description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 1%
+ht-degree: 92%
 
 ---
 
 
 # Overzicht
 
-Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen voor klanten en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de vele functies en mogelijkheden van Adobe Campaign Classic.
+Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic.
 
 ## Nieuwe functies
 
 * **[GPG-sleutelbeheer](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Leer hoe te om een openbare/privé zeer belangrijke paar op een gespecificeerde[!UICONTROL Campaign]instantie voor de encryptie van uitgaande gegevens te produceren en te installeren, evenals een openbare sleutel op een instantie van de Campagne voor de decryptie van binnenkomende gegevens in te voeren en te installeren.*
+   *Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van[!UICONTROL Campaign]voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens.*
 
 * **[Subdomeinen delegeren (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.*
+   *Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.*
 
-* **[Interactieve e-mailinhoud definiëren met AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[Interactieve e-mailcontent definiëren met AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Leer hoe u de e-mailinhoud Adobe Campaign Classic (ACC) configureert in AMP-indeling.*
+   *Ontdek hoe u de e-mailcontent van Adobe Campaign Classic (ACC) configureert in AMP-indeling.*
 
-## Personeelspictogrammen
+## Personeelsselectie
 
 <table>
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Workflowheaders (video)" src="./assets/workflow-heatmap.png"/>
+      <img alt="Workflow-heatmaps (video)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Workflowheaders</strong>
+    <strong>Workflow-heatmaps</strong>
     </a>
     </div>
     <p>
@@ -66,7 +66,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>Interactieve e-mailinhoud definiëren met AMP</strong>
+    <strong>Interactieve e-mailcontent definiëren met AMP</strong>
     </a>
     </div>
     <p>
@@ -76,6 +76,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van interkanaalervaringen v
 </tr>
 </table>
 
-## Aanvullende bronnen
+## Aanvullende resources
 
-* [Documentatie](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Documentatie](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
