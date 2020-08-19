@@ -10,21 +10,21 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 
 # SSL-certificaten toevoegen
 
-In het Configuratiescherm van Adobe Campaign kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
+In het [!UICONTROL Control Panel] van Adobe Campaign kunt u SSL-certificaten toevoegen om uw subdomeinen te beveiligen.
 
 ## Toegang tot subdomeinbeheer in het Configuratiescherm
 
-Ga naar:
+Om toegang te krijgen tot subdomeinbeheer in het Configuratiescherm gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: Campagne > **Control Panel** card > **Subdomeinen &amp; Certificates** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **[!UICONTROL Control Panel]** > kaart **[!UICONTROL Subdomains & Certificates]**
 
    of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -35,7 +35,7 @@ Voor het toevoegen van SSL-certificaten zijn drie stappen vereist:
 
 ### 1. Aanvragen voor certificaatondertekening genereren
 
-De CSR (Certificate Signing Request) is vereist voor de aanschaf van een SSL-certificaat. Ik moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
+De CSR (Certificate Signing Request of aanvraag voor certificaatondertekening) is vereist voor de aanschaf van een SSL-certificaat. Het moet worden gegenereerd voor de instantie en de subdomeinen die u wilt beveiligen.
 
 In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatondertekening kunt genereren in het Configuratiescherm.
 
@@ -44,18 +44,18 @@ In de onderstaande video wordt beschreven hoe u een aanvraag voor certificaatond
 
 ### 2. SSL-certificaat aanschaffen
 
-Nadat u de CSR hebt verkregen, moet u het SSL-certificaat aanschaffen bij een certificeringsinstantie die is goedgekeurd door uw organisatie.
+Nadat u de aanvraag voor certificaatondertekening hebt verkregen, moet u het SSL-certificaat aanschaffen bij een certificeringsinstantie die is goedgekeurd door uw organisatie.
 
 ### 3. SSL-certificaten installeren
 
 Nadat u het SSL-certificaat hebt verkregen, moet dit worden geïnstalleerd voor de subdomeinen die u wilt beveiligen.
 
-In de onderstaande video wordt uitgelegd hoe u SSL-certificaten kunt installeren in het Configuratiescherm.
+In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *SSL-certificaten installeren (01:25 min)*
 
-## Aanvullende bronnen
+## Aanvullende resources
 
 * [Subdomeinen delegeren](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
 * [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
