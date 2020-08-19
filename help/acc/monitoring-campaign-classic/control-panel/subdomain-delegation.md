@@ -1,6 +1,6 @@
 ---
 title: Subdomeinen delegeren
-description: Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
+description: Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: e40441c242af138f9686d291bb804fae46b4f62d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 49%
+ht-degree: 85%
 
 ---
 
@@ -22,23 +22,24 @@ ht-degree: 49%
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Met het [!UICONTROL Control Panel] van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign.
 
-## Toegang tot [!UICONTROL Control Panel] Subdomeinbeheer
+## Toegang tot subdomeinbeheer op het [!UICONTROL Control Panel]
 
-Ga voor toegang tot Subdomeinbeheer in het [!UICONTROL Control Panel] naar:
+Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** Kaart > **Subdomeinen &amp; Certificaten** Kaart of
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **[!UICONTROL Control Panel]** > kaart **Subdomeinen en certificaten**
+of
 * Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Hoe te om subdomeinen te delegeren
+## Subdomeinen delegeren
 
 In de onderstaande video ziet u hoe u subdomeinen kunt delegeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*Delegatie subdomein (05:07 min)*
+*Subdomeindelegatie (05:07 min)*
 
-## Aanvullende bronnen
+## Aanvullende resources
 
-* [SSL-gecertificeerd toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [SSL-certificaten toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [Subdomeinen en certificaten](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
