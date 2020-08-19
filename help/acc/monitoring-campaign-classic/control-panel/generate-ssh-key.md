@@ -1,6 +1,6 @@
 ---
 title: Een SSH-sleutel genereren
-description: U moet een SSH-sleutel kunnen genereren om deze aan het Adobe Campaign-configuratiescherm toe te voegen. De video hieronder verklaart hoe te om een sleutel van SSH te produceren gebruikend een terminal.
+description: U moet een SSH-sleutel kunnen genereren om deze aan het Adobe Campaign-configuratiescherm toe te voegen. In de video hieronder wordt uitgelegd hoe u een SSH-sleutel kunt genereren met behulp van een terminal.
 feature: SSH Key
 topics: Control Panel
 kt: 2923
@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -22,16 +22,16 @@ U moet een SSH-sleutel kunnen genereren om deze aan het Configuratiescherm toe t
 
 ## Toegang tot SFTP-beheer in het Configuratiescherm
 
-Ga naar:
+Om toegang te krijgen tot SFTP-beheer in het Configuratiescherm gaat u naar:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: Campagne > **Control Panel** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Oplossingskiezer: **[!DNL Campaign]** > kaart **Configuratiescherm** > kaart **SFTP**
 
    of
 * Rechtstreeks via de URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## Hoe te om een sleutel van SSH te produceren
+## Een SSH-sleutel genereren
 
-De video hieronder verklaart hoe te om een sleutel van SSH te produceren gebruikend een terminal.
+In de video hieronder wordt uitgelegd hoe u een SSH-sleutel kunt genereren met behulp van een terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*Een SSH-toets maken (2:16 min)*
+*Een SSH-sleutel maken (2:16 min)*
