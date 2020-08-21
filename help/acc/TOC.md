@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
+source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 77%
+source-wordcount: '356'
+ht-degree: 76%
 
 ---
 
@@ -48,6 +48,8 @@ ht-degree: 77%
       + [Een leveringssjabloon configureren](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+   + Direct mail {#direct-mail}
+      + [Direct-mailleveringen maken](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Beheer van moeheidsregels{#fatigue-management}
       + [Typologieregels gebruiken](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
