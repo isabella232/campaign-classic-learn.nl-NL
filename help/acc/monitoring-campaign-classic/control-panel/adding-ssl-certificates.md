@@ -4,14 +4,15 @@ description: In het Configuratiescherm van Adobe Campaign kunt u SSL-certificate
 feature: SSL Certificates
 topics: Control Panel
 kt: 4219
+thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 18179ec5c97d82e435087d96416ee46468119256
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
