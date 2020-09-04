@@ -11,10 +11,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 74%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [Subdomeinen delegeren](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL-certificaten toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL-machtigingen toevoegen](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [IP-adressen toevoegen aan de lijst van toegestane IP-adressen voor instantietoegang](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [IP-adressen toevoegen aan lijsten van gewenste personen](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Beheer van Google-TXT-records](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG-sleutelbeheer {#gpg-key-management}
          + [GPG-sleutelbeheer - Overzicht](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
