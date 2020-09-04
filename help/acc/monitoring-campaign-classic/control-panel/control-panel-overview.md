@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -81,7 +81,7 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 
    *Ontdek hoe u enkele externe URL’s kunt toevoegen aan de lijst met geautoriseerde URL’s, zodat uw instantie er verbinding mee kan maken.*
 
-* **[IP-adressen toevoegen aan de lijst van toegestane IP-adressen voor instantietoegang](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[IP-adressen toevoegen aan lijsten van gewenste personen](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Ontdek hoe u nieuwe verbindingen kunt instellen voor uw instanties door IP-adresbereiken te[!UICONTROL allow listing].*
 
