@@ -4,15 +4,15 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
+source-git-commit: 49a02cd20248dbba49663bb9be380ab44e8b5062
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 92%
 
 ---
 
 
-# Overzicht
+# Adobe Campaign Classic-tutorials - Overzicht
 
 Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic.
 
