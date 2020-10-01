@@ -1,7 +1,7 @@
 ---
 title: Configuratiescherm
 seo-title: Configuratiescherm
-description: Het Controlebord staat de beheerders van Adobe Campaign toe om zeer belangrijke activa te controleren en administratieve taken uit te voeren, zoals het beheren van de opslag SFTP door instantie of lijst van gewenste personen IP adressen.
+description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of het lijsten van gewenste personen van IP-adressen.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 5e240cfde96c38f646b9915fe143239b16ef97ea
+source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 85%
