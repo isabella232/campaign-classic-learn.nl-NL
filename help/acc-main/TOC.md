@@ -13,7 +13,7 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 74%
@@ -95,4 +95,3 @@ ht-degree: 74%
       + [Problemen met het Configuratiescherm oplossen](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-
