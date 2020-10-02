@@ -1,7 +1,7 @@
 ---
-title: Configuratiescherm
+title: Configuratiescherm - Overzicht
 seo-title: Configuratiescherm
-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of het lijsten van gewenste personen van IP-adressen.
+description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 85%
+source-wordcount: '197'
+ht-degree: 72%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] Overzicht
 
 >[!NOTE]
 >
->De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allow list]’ en ‘[!UICONTROL block list]’ in de documentatie van Adobe Campaign.
->Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
+>De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
 
-Met het [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of [!UICONTROL allow list] IP-adressen.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Toegang tot het [!UICONTROL Control Panel]
 
@@ -53,7 +52,7 @@ U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!
 ### Beheerdersrechten
 
 Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Control Panel].
-De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen
+De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
