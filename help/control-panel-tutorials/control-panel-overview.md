@@ -1,7 +1,6 @@
 ---
 title: Configuratiescherm - Overzicht
-seo-title: Configuratiescherm
-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
+description: Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,52 +8,76 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
+source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# Deelvenster Beheer - Overzicht
 
-# [!UICONTROL Control Panel] Overzicht
+Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 
->[!NOTE]
->
->De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
+## Nieuwe functies
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## Toegang tot het [!UICONTROL Control Panel]
+   *Leer hoe u een openbare/persoonlijke GPG-sleutelpaar genereert en de openbare sleutel installeert om gegevens te kunnen versleutelen voordat u deze vanuit uw instantie verzendt.[!UICONTROL Control Panel]*
 
-Ga naar Experience Cloud Home voor toegang tot het Configuratiescherm: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+* **[Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+   *Leer hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd op[!UICONTROL Control Panel].*
 
-   of
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kaart **[!UICONTROL Control Panel]**
+* **[Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   of
+   *Ontdek hoe u een openbare sleutel maakt en hoe u deze kunt importeren en installeren op een[!UICONTROL Campaign]-instantie voor het ontsleutelen van gegevens.*
 
-* Rechtstreeks via de URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## Personeelsselectie
 
-## Vereisten
-
-Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
-
-### [!DNL IMS Org ID] bevestigen
-
-U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*[!DNL IMS Org ID]controleren (00:26 min)*
-
-### Beheerdersrechten
-
-Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Control Panel].
-De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen.
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="Subdomeinen delegeren naar Adobe Campaign (video)" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>Subdomeinen delegeren naar Adobe Campaign (video)</strong>
+    </a>
+    </div>
+    <p>
+    <em>Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Google TXT-recordbeheer (video's)" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Google TXT-recordbeheer(video's)</strong>
+    </a>
+    </div>
+    <p>
+    <em> Leer hoe u verificatieverslagen van de Google TXT-site kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar GMAIL-adressen te verzenden via het Configuratiescherm van de Campagne.</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="Verbinding maken met een SFTP-server" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>Verbinding maken met een SFTP-server</strong>
+    </a>
+    </div>
+    <p>
+    <em>Leer hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-toepassing met de sleutels die u hebt opgeslagen in het Configuratiescherm. </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Aanvullende resources
 
