@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 98%
@@ -49,6 +49,7 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *[!DNL IMS Org ID]controleren (00:26 min)*
 
 ### Beheerdersrechten
@@ -57,6 +58,7 @@ Beheerdersrechten zijn vereist voor toegang tot het [!UICONTROL Control Panel].
 De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt toevoegen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Een beheerder toevoegen aan het productprofiel[!UICONTROL Administrators]om[!UICONTROL Control Panel]te kunnen gebruiken (01:03 min)*
 
 ## [!UICONTROL Control Panel]-tutorials
