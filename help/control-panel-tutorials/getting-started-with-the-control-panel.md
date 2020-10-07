@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 68%
@@ -47,7 +47,8 @@ Voordat u aan de slag gaat, moet u aan de volgende voorwaarden voldoen:
 U dient uw [!DNL IMS org ID] te weten. De volgende video beschrijft waar u de [!DNL IMS org ID] van uw instantie kunt zoeken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Controleer[!DNL IMS Org ID](00:26 min)*
+
+*[!DNL IMS Org ID]controleren (00:26 min)*
 
 ### Beheerdersrechten
 
