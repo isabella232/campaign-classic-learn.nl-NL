@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -44,9 +44,11 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 ### Nuttige video’s
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *IMS-organisatie-id controleren (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Een beheerder toevoegen aan het productprofiel voor beheerders om[!UICONTROL Control panel]te kunnen gebruiken (01:03 min)*
 
 ### Nuttige documentatie
