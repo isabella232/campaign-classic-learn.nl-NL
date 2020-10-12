@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutorials in het regelpaneel van Adobe Campaign
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag via instantie of lijst van gewenste personen IP-adressen.
+breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
+source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 80%
+source-wordcount: '158'
+ht-degree: 60%
 
 ---
 
@@ -26,9 +26,11 @@ ht-degree: 80%
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-beheer {#sftp-management}
+   + SFTP-beheer {#sftp-management}
+   + [Servercapaciteit controleren](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [Een IP-bereik toevoegen aan de lijst van gewenste personen](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [Servercapaciteit controleren, IP-adressen op de acceptatielijst plaatsen en SSH-sleutels toevoegen](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
    + [Subdomeinen delegeren](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
