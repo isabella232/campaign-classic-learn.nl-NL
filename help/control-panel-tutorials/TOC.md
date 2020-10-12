@@ -13,9 +13,9 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 60%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 60%
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-beheer {#sftp-management}
-   + SFTP-beheer {#sftp-management}
    + [Servercapaciteit controleren](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Een IP-bereik toevoegen aan de lijst van gewenste personen](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
