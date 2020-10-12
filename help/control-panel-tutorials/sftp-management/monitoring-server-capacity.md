@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '93'
+ht-degree: 66%
 
 ---
 
@@ -33,25 +33,6 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 ## Servercapaciteit controleren, IP-adressen [!UICONTROL allow list] en SSH-sleutels toevoegen
 
-In deze video wordt uitgelegd hoe u toegang krijgt tot de server [!UICONTROL Adobe Campaign Control Panel] en waar u de opslag van SFTP-servers kunt controleren.
+Leer hoe u de opslagcapaciteit van uw SFTP-servers kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Interfacebeschrijvingen
-
-**Instanties:** Alleen de instanties waarvoor u beheerdersrechten hebt, worden weergegeven.
-
-**Taaklogboeken:** Alleen taken die in de [!UICONTROL Control Panel] zijn uitgevoerd, worden weergegeven. De taken die buiten [!UICONTROL Control Panel] zijn uitgevoerd, zijn niet inbegrepen (bijvoorbeeld workflows die worden uitgevoerd, enz.)
-
-De logboeken omvatten alleen de taken die door de beheerders van uw organisatie worden uitgevoerd. Als er verscheidene organisaties zijn, zult u niet de logboeken van andere organisaties in de taaklogboeken zien
-
-**Tabblad Opslag:** De koptekst toont de drie meest gebruikte servers. Als u meer dan drie servers hebt, kunt u de rest op het tabblad [!UICONTROL Storage] zien.
-
-**Waarschuwingsbericht:**
-
-* Oranje - de server wordt voor 80% gebruikt
-* Rood - server wordt voor 90% gebruikt
-
-## Aanvullende bronnen
-
-* [Een SSH-sleutel genereren](./generate-ssh-key.md)
