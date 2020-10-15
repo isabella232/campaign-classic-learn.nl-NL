@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutorials in het regelpaneel van Adobe Campaign
+user-guide-title: Adobe Campaign-configuratiescherm - tutorials
 user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag via instantie of lijst van gewenste personen IP-adressen.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,12 +16,12 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 60%
+ht-degree: 75%
 
 ---
 
 
-# Adobe Campaign-configuratiescherm - Tutorials {#control-panel}
+# Adobe Campaign-configuratiescherm - tutorials {#control-panel}
 
 + [Overzicht van het Configuratiescherm](/help/control-panel-tutorials/control-panel-overview.md)
 + [Aan de slag met het Configuratiescherm](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -35,7 +35,7 @@ ht-degree: 60%
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
-   + [IP-adressen toevoegen aan lijsten van gewenste personen](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [IP-adressen toevoegen aan lijsten met gewenste adressen](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [URL-machtigingen toevoegen](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + GPG-sleutelbeheer {#gpg-key-management}
       + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
