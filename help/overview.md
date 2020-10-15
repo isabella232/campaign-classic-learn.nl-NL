@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 * **[GPG-sleutelbeheer](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van[!UICONTROL Campaign]voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens.*
+   *Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van [!UICONTROL Campaign] voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens.*
 
 * **[Subdomeinen delegeren (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -62,7 +62,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="Interactieve e-mailinhoud definiëren met AMP (video)" src="./assets/29940.png" />
+      <img alt="Interactieve e-mailcontent definiëren met AMP (Video)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
@@ -70,7 +70,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
     </a>
     </div>
     <p>
-    <em>Leer hoe u AMP activeert en gebruikt in Adobe Campaign Classic </em>
+    <em>Informatie over het activeren en gebruiken van AMP in Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
