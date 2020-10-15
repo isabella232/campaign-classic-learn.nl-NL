@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -49,7 +49,7 @@ De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Een beheerder toevoegen aan het productprofiel voor beheerders om[!UICONTROL Control panel]te kunnen gebruiken (01:03 min)*
+*Een beheerder toevoegen aan het productprofiel voor beheerders om [!UICONTROL Control panel] te kunnen gebruiken (01:03 min)*
 
 ### Nuttige documentatie
 
@@ -64,7 +64,7 @@ Voor verbinding met SFTP-servers is het volgende vereist:
 * Privé/openbaar sleutelpaar dat bij Adobe Campaign moet worden geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
-### Nuttige documentatie
+### Nuttige documentatie {#helpful-docs}
 
 * [Aanmelden bij uw SFTP-server](https://helpx.adobe.com/nl/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
