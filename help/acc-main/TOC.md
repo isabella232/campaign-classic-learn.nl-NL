@@ -12,11 +12,11 @@ tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 74%
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
    + [Een marketingplan, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Een campagne en een e-mail maken](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [Doelprofielen in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-+ Profile Management {#profile-management}
+   + [Een campagne en een e-mail maken](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
++ Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/data-management/importing-profiles.md)
    + [Een lijst met ontvangers maken](/help/profile-management/creating-a-list-of-recipients.md)
@@ -40,9 +40,9 @@ ht-degree: 74%
    + E-mailkanaal{#email-channel}
       + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/managing-seed-and-proofs.md)
-      + [E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [E-mailberichten aanpassen met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Pushkanaal {#push-channel}
@@ -58,14 +58,14 @@ ht-degree: 74%
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Campagnes orkestreren {#orchestration}
    + [Campagnes voor meerdere kanalen maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-+ Rapportage {#reporting}
++ Rapporten {#reporting}
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
    + [Een workflow maken](/help/automating-with-workflows/creating-a-workflow.md)
    + [Een doelworkflow maken](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Doelen verfijnen door queryresultaten te combineren](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [Doelen verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [De activiteit van de updatelijst gebruiken om een lijst met een werkschema tot stand te brengen](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [Targets verfijnen door queryresultaten te combineren](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Targets verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Validatieworkflows configureren](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Verrijkingsactiviteiten configureren](/help/automating-with-workflows/enrichment-activity.md)
    + [Gegevenssegmentatie](/help/data-management/data-segmentation.md)
@@ -85,7 +85,7 @@ ht-degree: 74%
       + [Subdomeinen delegeren](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL-certificaten toevoegen](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL-machtigingen toevoegen](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [IP-adressen toevoegen aan lijsten van gewenste personen](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [IP-adressen toevoegen aan lijsten met gewenste adressen](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Beheer van Google-TXT-records](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG-sleutelbeheer {#gpg-key-management}
          + [GPG-sleutelbeheer - Overzicht](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
