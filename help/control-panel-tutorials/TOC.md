@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 75%
+source-wordcount: '163'
+ht-degree: 71%
 
 ---
 
@@ -31,7 +31,8 @@ ht-degree: 75%
    + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
-   + [Subdomeinen delegeren](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Volledige subdomeindelegatie (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Subdomeinen delegeren met gebruik van CNAME (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
