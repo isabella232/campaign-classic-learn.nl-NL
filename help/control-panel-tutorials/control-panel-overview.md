@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 29%
+source-wordcount: '197'
+ht-degree: 18%
 
 ---
 
@@ -21,17 +21,9 @@ Met het Adobe Campaign Control Panel kunnen Adobe Campaign-beheerders belangrijk
 
 ## Nieuwe functies
 
-* **[GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Leer hoe u een openbare/persoonlijke GPG-sleutelpaar genereert en de openbare sleutel installeert om gegevens te kunnen versleutelen voordat u deze vanuit uw instantie verzendt.[!UICONTROL Control Panel]*
-
-* **[Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *Leer hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd op[!UICONTROL Control Panel].*
-
-* **[Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Ontdek hoe u een openbare sleutel maakt en hoe u deze kunt importeren en installeren op een[!UICONTROL Campaign]-instantie voor het ontsleutelen van gegevens.*
+   *Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.*
 
 ## Personeelsselectie
 
