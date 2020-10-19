@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 96%
 
 ---
 
@@ -60,5 +60,5 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 
 ## Aanvullende resources
 
-* [Subdomeinen delegeren](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [Subdomeinen en certificaten - Documentatie](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Volledige subdomeindelegatie (video)](./subdomain-delegation.md)
+* [Subdomeinen en certificaten (documentatie)](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
