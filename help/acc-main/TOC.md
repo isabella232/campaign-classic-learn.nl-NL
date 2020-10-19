@@ -13,10 +13,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 92%
+source-wordcount: '324'
+ht-degree: 88%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 92%
 + Integreren {#integrating}
    + [Dynamics 365 integreren met Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Beheer {#administrating}
-   + Configuratiescherm {#control-panel-acc}
-      + [Overzicht van het Configuratiescherm](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Servercapaciteit controleren, IP-adressen op de acceptatielijst plaatsen en SSH-sleutels toevoegen](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Een SSH-sleutel genereren](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [Verbinding maken met een SFTP-server](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [Subdomeinen delegeren](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [SSL-certificaten toevoegen](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [URL-machtigingen toevoegen](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [IP-adressen toevoegen aan lijsten met gewenste adressen](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Beheer van Google-TXT-records](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG-sleutelbeheer {#gpg-key-management}
-         + [GPG-sleutelbeheer - Overzicht](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Gegevens versleutelen met een GPG-sleutel](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Gegevens ontsleutelen](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [Problemen met het Configuratiescherm oplossen](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [Configuratiescherm](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
