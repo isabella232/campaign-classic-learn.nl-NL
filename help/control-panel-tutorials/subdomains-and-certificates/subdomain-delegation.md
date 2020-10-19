@@ -1,5 +1,5 @@
 ---
-title: Subdomeinen delegeren
+title: Volledige subdomeindelegatie
 description: Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
 feature: Subdomain Delegation
 topics: Control Panel
@@ -8,17 +8,17 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '112'
 ht-degree: 85%
 
 ---
 
 
-# Subdomeinen delegeren
+# Volledige subdomeindelegatie
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
@@ -42,5 +42,5 @@ In de onderstaande video ziet u hoe u subdomeinen kunt delegeren.
 
 ## Aanvullende resources
 
-* [SSL-certificaten toevoegen](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Subdomeinen en certificaten](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
