@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '250'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[GPG-sleutelbeheer](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Subdomeinen delegeren met gebruik van CNAME (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van [!UICONTROL Campaign] voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens.*
-
-* **[Subdomeinen delegeren (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.*
-
-* **[Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *Ontdek hoe u de e-mailcontent van Adobe Campaign Classic (ACC) configureert in AMP-indeling.*
+   *Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.*
 
 ## Personeelsselectie
 
