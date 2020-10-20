@@ -26,7 +26,7 @@ In deze video wordt ook uitgelegd of Adobe Campaign Classic voldoet aan de Gener
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 **Documentatie:**
 
