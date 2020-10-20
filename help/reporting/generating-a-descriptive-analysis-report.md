@@ -24,7 +24,7 @@ Leer hoe u een [!UICONTROL descriptive analysis report] workflow genereert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 **Documentatie:**
 
