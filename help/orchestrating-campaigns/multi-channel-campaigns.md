@@ -27,7 +27,7 @@ Leer hoe u een multikanaalscampagne kunt maken met gebruik van e-mail, SMS en ee
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [E-mailcampagnes ontwerpen en ordenen in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
 
