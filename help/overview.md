@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-tutorials - Overzicht
 description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[Subdomeinen delegeren met gebruik van CNAME (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Subdomeinen delegeren met CNAME-records (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Leer hoe u een subdomein instelt en verzendt met gebruik van CNAME&#39;s in het Configuratiescherm.*
+   *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
 ## Personeelsselectie
 
