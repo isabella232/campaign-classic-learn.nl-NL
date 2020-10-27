@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign-configuratiescherm - tutorials
-user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag via instantie of lijst van gewenste personen IP-adressen.
+user-guide-title: Adobe Campaign Configuratiescherm - tutorials
+user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of de lijst van gewenste IP-adressen.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -12,11 +12,11 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 71%
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
    + [Volledige subdomeindelegatie (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Subdomeinen delegeren met gebruik van CNAME (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Subdomeinen delegeren met CNAME-records (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
