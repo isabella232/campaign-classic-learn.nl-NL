@@ -2,8 +2,8 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic-tutorials
-user-guide-description: Adobe Campaign Classic staat marketers toe om klanten over het kanaal ervaringen te ontwerpen en verstrekt een milieu voor visuele campagneorchestratie, interactiebeheer in real time, en kanaaluitvoering.
-breadcrumb-title: Campaign Classic Tutorials
+user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
+breadcrumb-title: Campaign Classic-tutorials
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +77,6 @@ ht-degree: 88%
 + Integreren {#integrating}
    + [Dynamics 365 integreren met Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Beheer {#administrating}
-   + [Configuratiescherm](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
