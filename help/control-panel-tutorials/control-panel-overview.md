@@ -1,5 +1,5 @@
 ---
-title: Configuratiescherm  - Overzicht
+title: Overzicht van het Configuratiescherm
 description: Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 feature: Control Panel
 topics: Control Panel
@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 100%
 Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
 
 ## Nieuwe functies
+
+* **[Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Leer hoe u het databasegebruik van uw instanties kunt controleren.*
 
 * **[Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
