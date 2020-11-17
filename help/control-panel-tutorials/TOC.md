@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Adobe Campaign Configuratiescherm - tutorials
 user-guide-description: Met het Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie of de lijst van gewenste IP-adressen.
 breadcrumb-title: Tutorials voor het Configuratiescherm
@@ -12,10 +12,10 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,5 +43,5 @@ ht-degree: 98%
       + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Prestatiebewaking {#performance-monitoring}
-   + [Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Problemen met het Configuratiescherm oplossen](/help/control-panel-tutorials/trouble-shooting.md)
