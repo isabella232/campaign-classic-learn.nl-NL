@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Voordat u kunt beginnen, moet u aan de volgende voorwaarden voldoen
 
    U moet het pakket met het kanaal van de mobiele app op uw exemplaar installeren. In de volgende video wordt uitgelegd hoe u kunt controleren of het mobiele App-kanaal op uw instantie is geïnstalleerd en, als dat niet het geval is, hoe u het kanaal kunt installeren.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Zelfstudie
 
