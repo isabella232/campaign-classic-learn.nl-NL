@@ -1,6 +1,6 @@
 ---
 product: adobe campaign classic
-user-guide-title: 'Zelfstudie: Aan de slag met pushmeldingen voor Android'
+user-guide-title: Aan de slag met pushmeldingen voor Android
 user-guide-description: Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign naar een Android-app.
 breadcrumb-title: Aan de slag met pushmeldingen voor Android
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
@@ -8,10 +8,10 @@ solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 index: true
 translation-type: tm+mt
-source-git-commit: bee5502630a8255d280c6529c5742edcc985eee4
+source-git-commit: 8817155a628be5549fc232f7a3328133c1913ad7
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 13%
+source-wordcount: '78'
+ht-degree: 14%
 
 ---
 
