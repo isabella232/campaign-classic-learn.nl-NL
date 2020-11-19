@@ -1,5 +1,5 @@
 ---
-title: Zelfstudie
+title: Aan de slag met pushmeldingen voor Android - Inleiding
 description: Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
 feature: push
 topics: mobile channels
@@ -8,15 +8,15 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
 
-# Zelfstudie
+# Aan de slag met pushmeldingen voor Android - Inleiding
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van [!DNL push] berichten van Adobe Campaign naar een [!DNL Android] app.
 
