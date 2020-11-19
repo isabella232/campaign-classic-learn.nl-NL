@@ -1,5 +1,5 @@
 ---
-title: Zelfstudie Aan de slag met pushmeldingen voor Android - Inleiding
+title: Zelfstudie
 description: Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
 feature: push
 topics: mobile channels
@@ -8,49 +8,53 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 0%
+source-wordcount: '353'
+ht-degree: 2%
 
 ---
 
 
-# Zelfstudie Aan de slag met pushmeldingen voor Android - Inleiding
+# Zelfstudie
 
-Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android ]mobile devices.
-
-Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van [!DNL push] berichten van Adobe Campaign naar een [!DNL Android] app.
+Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van [!DNL push] berichten van Adobe Campaign naar een [!DNL Android] app.
 
 ## Vereisten
 
-Voordat u kunt beginnen, moet u aan de volgende voorwaarden voldoen
+Voordat u kunt beginnen, hebt u het volgende nodig:
 
-1) Mobiele toepassingDeze zelfstudie behandelt niet de gedetailleerde stappen die nodig zijn om de mobiele toepassing in te stellen. U moet beschikken over een **[!DNL Android]mobiele toepassing met de[!DNL Campaign SDK]** geïntegreerde.
+1) **Android Mobile-toepassing**
 
-   * U vindt een gedetailleerde beschrijving van de vereiste stappen in de [integrating Campagne SDK in de mobiele toepassing](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html).
+   Deze zelfstudie behandelt niet de gedetailleerde stappen die nodig zijn om de mobiele toepassing in te stellen. U moet beschikken over een **[!DNL Android]mobiele toepassing met de [!DNL Campaign SDK] geïntegreerde**.
 
-   * U kunt ook de Experience Platform Mobile SDK gebruiken. Voor meer informatie bekijk de [Configure het Kanaal van de Duw gebruikend de Experience Platform Mobiele SDK](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html) zelfstudie video.
+   U vindt een gedetailleerde beschrijving van de vereiste stappen in de productdocumentatie:
 
-2) Mobiel App Channel-pakket geïnstalleerd
+   [De Campaign-SDK integreren in de mobiele applicatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html)
 
-   U moet het pakket met het kanaal van de mobiele app op uw exemplaar installeren. In de volgende video wordt uitgelegd hoe u kunt controleren of het mobiele App-kanaal op uw instantie is geïnstalleerd en, als dat niet het geval is, hoe u het kanaal kunt installeren.
+   U kunt ook de Experience Platform Mobile SDK gebruiken. Bekijk de videozelfstudie voor meer informatie:
+
+   [Het pushkanaal configureren met de Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html)
+
+2) **[!DNL Mobile App channel]pakket geïnstalleerd**
+
+   Het [!DNL Mobile App channel] pakket moet op uw [!DNL Campaign] instantie worden geïnstalleerd. In de volgende video wordt uitgelegd hoe u kunt controleren of het programma op uw exemplaar [!DNL Mobile App channel] is geïnstalleerd en, indien dit niet het geval is, hoe u het programma kunt installeren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
-## Zelfstudie
+## Overzicht van zelfstudie
 
-We willen een persoonlijke pushmelding sturen naar de abonnees van de [!DNL Android] mobiele app Neotrip. De Neotrip-app is geconfigureerd met de Campagne SDK en we hebben ervoor gezorgd dat het Mobile App-kanaal is geactiveerd op onze Campagne-instantie.
+We willen graag een persoonlijke promotiekennisgeving sturen [!DNL push] naar de abonnees van de [!DNL Neotrip] [!DNL Android] mobiele app. De [!DNL Neotrip] app is geconfigureerd met de [!DNL Campaign SDK] en we hebben ervoor gezorgd dat de app [!DNL Mobile App channel] op ons [!DNL Campaign] exemplaar wordt geactiveerd.
 
 De volgende configuratiestappen worden vereist:
 
-### Stap 1: Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen
+### Stap 1: Het schema voor app-abonnementen uitbreiden om [!DNL push] meldingen aan te passen
 
-Aangezien wij de pushmelding willen personaliseren, zullen wij eerst het schema [van het toepassingsabonnement](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) uitbreiden om de verpersoonlijkingswaarden op te slaan die wij van app ontvangen wanneer de gebruiker zich op de dienst abonneert.
+Aangezien wij de [!DNL push] kennisgeving willen personaliseren, zullen wij eerst het schema [van het toepassingsabonnement](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) uitbreiden om de verpersoonlijkingswaarden op te slaan die wij van app ontvangen wanneer de gebruiker aan de dienst abonneert.
 
-### Stap 2: De Android-service configureren en de mobiele app-toepassing maken in Campagne
+### Stap 2: De Android-service configureren en de mobiele toepassing maken in Campagne
 
-Vervolgens moeten we de Android-service [configureren en de mobiele app-toepassing maken in Campagne](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). In deze stap definiëren we de Neotrip-app als het doel voor de pushmelding.
+Vervolgens moeten we de Android-service [configureren en de mobiele toepassing maken in Campagne](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). In deze stap definiëren we de [!DNL Neotrip] app als het doel voor de pushmelding.
 
 ### Stap 3: De pushmelding configureren en verzenden
 
@@ -58,4 +62,4 @@ Dan zijn wij bereid om het dupbericht [te](/help/tutorial-getting-started-with-p
 
 ## Zelfstudie starten
 
-**[Stap 1: Het schema voor app-abonnementen uitbreiden](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)**
+Stap 1: [Het schema voor app-abonnementen uitbreiden](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
