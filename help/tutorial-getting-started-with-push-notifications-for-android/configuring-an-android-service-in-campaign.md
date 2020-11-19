@@ -9,23 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
 
-# Een Android-service configureren en een mobiele Android-toepassing maken in Campagne
+# Een [!DNL Android] service configureren en een [!DNL Android] mobiele toepassing maken in Campagne
 
-Leer hoe u Android Services configureert en een mobiele Android-toepassing maakt in Campagne. Deze stap is vereist om de doel-app voor een pushmelding te kunnen definiëren.
+Leer hoe u een [!DNL Android] service configureert en een [!DNL Android] mobiele toepassing maakt in Campagne. Deze stap is vereist, zodat u de mobiele doeltoepassing voor de pushmelding kunt definiëren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## Volgende te bekijken
+**Vorige stap**
 
-**[Pushmeldingen configureren en verzenden](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+Stap 1: [Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+**Volgende stap**
+
+Stap 3: [Pushmeldingen configureren en verzenden](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## Aanvullende bronnen
 
