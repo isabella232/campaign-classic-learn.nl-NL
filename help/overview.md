@@ -4,10 +4,10 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -18,13 +18,18 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
+* **[Aan de slag met pushmeldingen voor Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *Deze zelfstudie begeleidt u door de stappen die nodig zijn voor het verzenden van pushberichten van Adobe Campaign naar een Android-app.*
+
+
 * **[Subdomeinen delegeren met CNAME-records (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
-* **[Controledatabases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Leer hoe u het databasegebruik van uw instanties kunt controleren.*
+   *Ontdek hoe u het databasegebruik van uw instanties kunt bewaken.*
 
 ## Personeelsselectie
 
