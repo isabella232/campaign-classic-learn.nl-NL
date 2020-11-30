@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=nl&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 94%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 94%
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
    + [Een marketingplan, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Een campagne en een e-mail maken](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Een campagne en een e-mail maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 94%
 + Integreren {#integrating}
    + [Dynamics 365 integreren met Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Beheer {#administrating}
-   + [Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
