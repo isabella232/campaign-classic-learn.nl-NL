@@ -1,6 +1,7 @@
 ---
 title: Profielen maken en beheren
 description: Begrijp het concept van profielen in Adobe Campaign Classic. Leer hoe u toegang krijgt tot profielgegevens, profielen kunt sorteren en filteren en profielen handmatig kunt maken en beheren. In deze video wordt ook uitgelegd of Adobe Campaign Classic voldoet aan de General Data Protection Regulation (GDPR) en de California Consumer Privacy Act (CCPA).
+landing-page-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
 topics: null
 kt: 5081
@@ -10,7 +11,7 @@ activity: use
 team: WWFRE
 role: user
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 84471810b84c7ec49ff5a827036f5bc548b88a6f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 19%
