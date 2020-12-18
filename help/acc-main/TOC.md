@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=nl&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
    + [Een marketingplan, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Een campagne en een e-mail maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [Een campagne en een e-mail maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=nl)
    + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
@@ -46,9 +46,9 @@ ht-degree: 90%
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Pushkanaal {#push-channel}
-      + [Het mobiele App-kanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Aan de slag met pushmeldingen voor Android (zelfstudie)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Aan de slag met pushmeldingen voor Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=nl)
    + Leveringssjablonen gebruiken{#using-delivery-templates}
       + [Een leveringssjabloon configureren](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
