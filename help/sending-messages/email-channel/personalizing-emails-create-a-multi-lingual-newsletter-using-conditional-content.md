@@ -1,5 +1,5 @@
 ---
-title: E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud
+title: E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content
 description: Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbeeld van een meertalige nieuwsbrief.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud
+# E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content
 
 Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personalisatie tot stand brengen. Volledige tekstblokken en/of afbeeldingen worden vervangen wanneer aan een bepaalde voorwaarde wordt voldaan.
 
@@ -25,7 +25,7 @@ Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbee
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 Documentatie:
 
@@ -34,5 +34,5 @@ Documentatie:
 
 Video-Tutorials:
 
-* [E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [E-mailberichten aanpassen met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
