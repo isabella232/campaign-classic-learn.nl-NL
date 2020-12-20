@@ -23,7 +23,7 @@ In de volgende video ziet u hoe u de eigenschappen van de leveringssjabloon inst
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
-## Aanvullende resources {#additional-resources}
+## Aanvullende bronnen {#additional-resources}
 
 Instructievideo’s
 
