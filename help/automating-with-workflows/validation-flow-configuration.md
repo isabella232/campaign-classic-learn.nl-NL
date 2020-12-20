@@ -30,25 +30,25 @@ In deze zelfstudie wordt uitgelegd hoe u verschillende workflows voor goedkeurin
 
 Voordat het marketingteam goedkeuringsstappen kan uitvoeren, moet het afzonderlijke controleurs definiëren:
 
-* De rol van Adobe Campaign-revisor binnen een goedkeuringsactiviteit kan één revisor (operator) of een groep revisoren (rol van operator) zijn.
+* De Adobe Campaign-revisorrol binnen een goedkeuringsactiviteit kan één revisor (operator) of een groep revisoren (operatorrol) zijn.
 * De revisoren en revisorgroepen moeten eerder in Adobe Campaign zijn geconfigureerd met een beheerdersrol. Op deze manier kunnen ontwikkelaars van campagnes de controleurs selecteren als fiatteurs in een campagne of levering.
 
-## Goedkeuringen voor campagnes configureren  {#configuring-approvals-for-campaigns}
+## Goedkeuringen voor campagnes configureren {#configuring-approvals-for-campaigns}
 
-Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, gebruikt u de [!DNL Campaign] goedkeuringsfuncties. Door goedkeuringen en revisoren op campagnereniveau in te stellen, worden de goedkeuringstaken en controleurs naar elke leveringsactiviteit van uw werkstroom verschoven zodra de werkstroom wordt uitgevoerd.
+Als u dezelfde set controleurs voor alle leveringen in uw campagneworkflow hebt, gebruikt u de goedkeuringsfuncties [!DNL Campaign]. Door goedkeuringen en revisoren op campagnereniveau in te stellen, worden de goedkeuringstaken en controleurs naar elke leveringsactiviteit van uw werkstroom verschoven zodra de werkstroom wordt uitgevoerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
-## Goedkeuringen voor leveringen configureren  {#configuring-approvals-for-deliveries}
+## Goedkeuringen voor leveringen configureren {#configuring-approvals-for-deliveries}
 
 U kunt goedkeuringen ook instellen op leveringsniveau. Als de stappen voor de goedkeuring van de levering en de controleurs afwijken van de stappen voor de goedkeuring van de campagne en de controleurs, hebben de leveringsinstellingen voorrang op de instellingen voor de campagne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## Een goedkeuringsactiviteit configureren  {#configuring-an-approval-activity}
+## Een goedkeuringsactiviteit {#configuring-an-approval-activity} configureren
 
 In tegenstelling tot de levering of campagnegoedkeuringen, staat de goedkeuringsactiviteit toe om een goedkeuringsproces binnen een werkschema tot stand te brengen. Op deze manier kan de doelgerichte selectielogica worden goedgekeurd voordat de levering wordt gestart. Het staat ook goedkeuring op veelvoudige niveaus binnen het werkschema toe, indien nodig.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-For more information, refer to the [Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+Raadpleeg voor meer informatie de [goedkeuringsdocumentatie](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
