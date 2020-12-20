@@ -24,6 +24,6 @@ In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Campagnetypologieën](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
