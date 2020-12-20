@@ -1,5 +1,5 @@
 ---
-title: Doelen verfijnen door queryresultaten te combineren
+title: Targets verfijnen door queryresultaten te combineren
 description: Leer hoe te om uw doel te verfijnen door vraagresultaten in een werkschema te combineren gebruikend de doorsnede of de vakbondsactiviteiten.
 feature: Workflows
 topics: Targeting Activities
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 36%
 
 ---
 
 
-# Doelen verfijnen door queryresultaten te combineren
+# Targets verfijnen door queryresultaten te combineren
 
-Leer hoe te om uw doel te verfijnen door vraagresultaten in een werkschema te combineren gebruikend of de **[!UICONTROL intersection]** **[!UICONTROL union]** activiteiten.
+Leer hoe te om uw doel te verfijnen door vraagresultaten in een werkschema te combineren gebruikend **[!UICONTROL intersection]** of **[!UICONTROL union]** activiteiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -33,6 +33,6 @@ Documentatie:
 
 Tutorials:
 
-* [Doelprofielen in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Doelen verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [De activiteit van de updatelijst gebruiken om een lijst met een werkschema tot stand te brengen](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [Targets verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
