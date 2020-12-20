@@ -1,6 +1,6 @@
 ---
-title: IP-adressen toevoegen aan lijsten van gewenste personen
-seo-title: IP-adressen toevoegen aan lijsten van gewenste personen
+title: IP-adressen toevoegen aan lijsten met gewenste adressen
+seo-title: IP-adressen toevoegen aan lijsten met gewenste adressen
 description: Leer hoe u een IP-bereik toevoegt aan de lijsten van gewenste personen van Campaign Classic-instanties en hoe u deze verwijdert uit de lijst van gewenste personen via het bedieningspaneel.
 seo-description: In de onderstaande video wordt uitgelegd hoe u nieuwe verbindingen met uw instanties kunt maken door IP-adressen aan de lijst met toegestane adressen toe te voegen.
 feature: instance settings
@@ -14,12 +14,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
 
-# IP-adressen toevoegen aan lijsten van gewenste personen
+# IP-adressen toevoegen aan lijsten met gewenste adressen
 
 In het Configuratiescherm kunt u nieuwe verbindingen met uw instanties maken door IP-adressen aan de lijst met toegestane adressen toe te voegen. Standaard is een Adobe Campaign Classic-instantie niet toegankelijk via verschillende IP-adressen. Daarom moet een IP adres als toegestaan worden vermeld:
 
