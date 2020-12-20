@@ -1,5 +1,5 @@
 ---
-title: E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken
+title: E-mails personaliseren met dynamische contentblokken
 description: Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 48%
+ht-degree: 67%
 
 ---
 
 
-# E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken
+# E-mails personaliseren met dynamische contentblokken
 
 In Adobe Campaign kunt u content of de weergave van berichten personaliseren en deze combineren met criteria uit de profielen van ontvangers.
 
@@ -27,7 +27,7 @@ Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken o
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 Documentatie:
 
@@ -36,5 +36,5 @@ Documentatie:
 
 Video-Tutorials:
 
-* [E-mailberichten aanpassen met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
