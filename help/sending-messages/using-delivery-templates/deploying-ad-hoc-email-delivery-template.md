@@ -23,7 +23,7 @@ In deze video wordt uitgelegd hoe u een sjabloon voor ad-hoc e-maillevering kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## Aanvullende resources {#additional-resources}
+## Aanvullende bronnen {#additional-resources}
 
 Instructievideo’s
 * [Een leveringssjabloon configureren](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
