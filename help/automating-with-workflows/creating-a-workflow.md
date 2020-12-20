@@ -24,9 +24,9 @@ Workflows vinden plaats in verschillende contexten en fasen van het campagnebehe
 
 Adobe Campaign gebruikt workflows om:
 
-* Voer gerichte campagnes uit. For more on this, refer to [Implementation steps](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* Campagnes opbouwen: voor elke campagne, laat het lusje van het **Werkschema** u het doel bouwen en de leveringen tot stand brengen. For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* Technische Adobe Campaign-processen uitvoeren: opschonen, trackinggegevens verzamelen of voorlopige berekeningen maken. For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
+* Voer gerichte campagnes uit. Raadpleeg [Implementatiestappen](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_) voor meer informatie.
+* Campagnes opbouwen: voor elke campagne, laat **Workflow** lusje u het doel bouwen en de leveringen tot stand brengen. Raadpleeg [Workflows voor campagne](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows) voor meer informatie.
+* Technische Adobe Campaign-processen uitvoeren: opschonen, trackinggegevens verzamelen of voorlopige berekeningen maken. Raadpleeg [Technische workflows](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows) voor meer informatie.
 
 In deze video wordt uitgelegd hoe u een workflow maakt in Adobe Campaign Classic.
 
