@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # E-mailleveringsactiviteit versus leveringsactiviteit
 
-Met een [!UICONTROL Delivery-type activity] pictogram kunt u een leveringsactie maken. Het kan worden geconstrueerd met behulp van inputelementen.
+Met een [!UICONTROL Delivery-type activity] kunt u een leveringsactie maken. Het kan worden geconstrueerd met behulp van inputelementen.
 
 In deze video wordt uitgelegd hoe u een sjabloon voor e-maillevering kunt implementeren. Het verklaart het verschil tussen een e-maillevering en een leveringswerkschema.
 
