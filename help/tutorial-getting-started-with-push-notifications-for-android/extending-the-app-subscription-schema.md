@@ -17,9 +17,9 @@ ht-degree: 2%
 ---
 
 
-# Het [!UICONTROL app subscription] schema uitbreiden om pushmeldingen aan te passen
+# Het schema [!UICONTROL app subscription] uitbreiden om pushberichten aan te passen
 
-Leer hoe u het [!UICONTROL app subscription] schema kunt uitbreiden om de waarden voor personalisatie op te slaan die u van een mobiele app [!DNL Campaign] ontvangt.
+Leer hoe u het schema [!UICONTROL app subscription] kunt uitbreiden om aanpassingswaarden op te slaan die [!DNL Campaign] van een mobiele app ontvangt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
