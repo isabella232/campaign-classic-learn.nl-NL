@@ -32,7 +32,7 @@ Dankzij het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Segmentering van klant  {#customer-segmentation}
+## Klantsegmentatie {#customer-segmentation}
 
 Zodra u de profielen hebt begrepen, bent u bereid om geavanceerde segmentatie door diepe vragen van de gemeenschappelijke consumentenattributen en andere gegevensbronnen te doen. Als u lijsten kunt maken die u opnieuw kunt gebruiken, kunt u lijsten dynamisch bijwerken op basis van realtime wijzigingen in gegevens en zelfs complexere activiteiten uitvoeren, zoals het testen met meerdere varianten op een van deze gegevenspunten.
 
@@ -40,7 +40,7 @@ Opmerking: Deze video is opgenomen in Adobe Campaign Classic V6. De functionalit
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
-## Aanvullende resources {#additional-resources}
+## Aanvullende bronnen {#additional-resources}
 
 * [Doelgegevens](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
 * [Best practices voor workflow](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
