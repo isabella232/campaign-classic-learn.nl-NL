@@ -17,15 +17,15 @@ ht-degree: 1%
 ---
 
 
-# Een [!DNL Android] service configureren en een [!DNL Android] mobiele toepassing maken in Campagne
+# Een [!DNL Android]-service configureren en een [!DNL Android] mobiele toepassing maken in Campagne
 
-Leer hoe u een [!DNL Android] service configureert en een [!DNL Android] mobiele toepassing maakt in Campagne. Deze stap is vereist, zodat u de mobiele doeltoepassing voor de pushmelding kunt definiëren.
+Leer hoe u een [!DNL Android]-service configureert en een [!DNL Android] mobiele toepassing maakt in Campagne. Deze stap is vereist, zodat u de mobiele doeltoepassing voor de pushmelding kunt definiëren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **Vorige stap**
 
-Stap 1: [Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Stap 1: [Het schema van het app-abonnement uitbreiden om pushmeldingen aan te passen](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Volgende stap**
 
