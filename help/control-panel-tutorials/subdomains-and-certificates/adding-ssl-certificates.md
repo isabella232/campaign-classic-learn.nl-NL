@@ -58,7 +58,7 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 
 *SSL-certificaten installeren (01:25 min)*
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Volledige subdomeindelegatie (video)](./subdomain-delegation.md)
 * [Subdomeinen en certificaten (documentatie)](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
