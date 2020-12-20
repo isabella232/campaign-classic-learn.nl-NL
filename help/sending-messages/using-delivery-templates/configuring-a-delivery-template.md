@@ -34,7 +34,7 @@ In de volgende video ziet u hoe u een sjabloon voor een ad-hoclevering configure
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
-## Aanvullende resources {#additional-resources}
+## Aanvullende bronnen {#additional-resources}
 
 Instructievideo’s
 
