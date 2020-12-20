@@ -22,6 +22,6 @@ In deze video wordt uitgelegd hoe u profielen in Adobe Campaign Classic kunt imp
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 - [Profielen exporteren en importeren](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
