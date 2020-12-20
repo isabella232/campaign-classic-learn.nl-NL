@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Groot gegevensbeheer op Snowflake
 
-In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake] connector in Adobe Campaign Classic kunt benutten.
+In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake]-connector in Adobe Campaign Classic kunt benutten.
 U leert hoe u
 
 * Verbinden met Snowflake
@@ -32,6 +32,6 @@ U leert hoe u
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [Specifieke configuraties per databasetype](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/accessing-external-database/specific-configuration-database.html)
