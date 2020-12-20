@@ -20,7 +20,7 @@ ht-degree: 31%
 
 # Een beschrijvend analyserapport genereren
 
-Leer hoe u een [!UICONTROL descriptive analysis report] workflow genereert.
+Leer hoe u een [!UICONTROL descriptive analysis report] genereert op basis van een workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
