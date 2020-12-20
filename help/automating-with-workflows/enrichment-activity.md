@@ -28,6 +28,6 @@ Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de inf
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 - [Data verrijken](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/enriching-data.html)
