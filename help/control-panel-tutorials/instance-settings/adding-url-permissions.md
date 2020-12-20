@@ -19,8 +19,8 @@ ht-degree: 11%
 
 # URL-machtigingen toevoegen
 
-Leer hoe u een verbinding tot stand brengt tussen uw [!UICONTROL Adobe Campaign Classic] instantie en een externe URL.
+Leer hoe u een verbinding tot stand brengt tussen uw [!UICONTROL Adobe Campaign Classic]-instantie en een externe URL.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
+Zie [URL-machtigingen](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html) voor meer informatie.
