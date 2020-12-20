@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 25%
+ht-degree: 37%
 
 ---
 
@@ -25,7 +25,7 @@ Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhou
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 Documentatie:
 
@@ -34,5 +34,5 @@ Documentatie:
 
 Tutorials:
 
-* [E-mailberichten aanpassen met gebruik van dynamische inhoudsblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
