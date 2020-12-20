@@ -7,9 +7,9 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ Voordat u kunt beginnen, hebt u het volgende nodig:
 
    Het [!DNL Mobile App channel]-pakket moet op uw [!DNL Campaign]-instantie zijn geïnstalleerd. In de volgende video wordt uitgelegd hoe u kunt controleren of het [!DNL Mobile App channel] op uw installatie is geïnstalleerd en, indien dit niet het geval is, hoe u dit installeert.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Overzicht van tutorial
 
