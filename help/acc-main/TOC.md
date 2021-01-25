@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -28,9 +28,10 @@ ht-degree: 95%
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
-   + [Een marketingplan, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Een marketingplan, -programma&#39;s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Een campagne en een e-mail maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=nl)
-   + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Doelprofielen in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Gebeurtenisgetriggerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/data-management/importing-profiles.md)
