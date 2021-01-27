@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
    + [Een marketingplan, -programma&#39;s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Een campagne en een e-mail maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=nl)
+   + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Doelprofielen in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Gebeurtenisgetriggerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
 + Profielbeheer {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [Een lijst met ontvangers maken met een workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Berichten verzenden{#sending-messages}
    + E-mailkanaal{#email-channel}
-      + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [E-mailleveringen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Dynamische inhoud configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Aan de slag met pushmeldingen voor Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=nl)
+   + Direct mail {#direct-mail}
+      + [Direct-mailleveringen maken](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Leveringssjablonen gebruiken{#using-delivery-templates}
       + [Een leveringssjabloon configureren](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Direct mail {#direct-mail}
-      + [Direct-mailleveringen maken](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Beheer van moeheidsregels{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
