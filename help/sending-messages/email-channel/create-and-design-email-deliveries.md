@@ -1,15 +1,15 @@
 ---
 title: E-mailleveringen maken en ontwerpen
 description: Begrijp het proces van het maken van een e-maillevering en leer hoe u e-mailinhoud ontwerpt en personaliseert.
-feature: Dynamic Content, Personalization, Email
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
-thumbnail: 329936.jpg
+thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: e83e6225cd7312c95dabe44f994f797a7b165226
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 12%
