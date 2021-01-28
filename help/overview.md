@@ -4,10 +4,10 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* ** [E-mails ontwerpen voor te leveren items](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*Leer hoe u een proefdruk verzendt en valideert.*
+
+* **[E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Leer hoe u best practices voor de prestaties toepast.*
 
@@ -29,10 +33,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 * **[Aan de slag met pushmeldingen voor Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign naar een Android-app.*
-
-* **[Subdomeinen delegeren met CNAME-records (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Leer hoe u een subdomein instelt en verzendt met behulp van CNAME-records in het Configuratiescherm.*
 
 ## Personeelsselectie
 
