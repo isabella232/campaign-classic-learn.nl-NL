@@ -12,7 +12,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
+source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 86%
@@ -41,7 +41,7 @@ ht-degree: 86%
    + E-mailkanaal{#email-channel}
       + [E-mailleveringen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs)
+      + [Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Dynamische inhoud configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
