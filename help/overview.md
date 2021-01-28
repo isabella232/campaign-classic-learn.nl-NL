@@ -4,7 +4,7 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 * **[Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*Leer hoe u een proefdruk verzendt en valideert.*
+   *Leer hoe u een proefdruk verzendt en valideert.*
 
 * **[E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
