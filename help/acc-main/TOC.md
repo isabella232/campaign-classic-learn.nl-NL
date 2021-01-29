@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
+source-git-commit: 30c86539ae3b543b29f4929c45da32b5751ea40b
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '375'
 ht-degree: 85%
 
 ---
@@ -51,6 +51,8 @@ ht-degree: 85%
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Problemen met de levering van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+   + SMS-kanaal {#sms-channel}
+      + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery)
    + Pushkanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
