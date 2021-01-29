@@ -4,10 +4,10 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic.
 
 ## Nieuwe functies
+
+* **[Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *Begrijp het concept controlegroepen en leer hoe te om een controlegroep voor uw levering te gebruiken.*
 
 * **[Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
    *Begrijp het proces van het maken van een e-maillevering en leer hoe u e-mailinhoud ontwerpt en personaliseert.*
 
-* **[Aan de slag met pushmeldingen voor Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign naar een Android-app.*
 
 ## Personeelsselectie
 
