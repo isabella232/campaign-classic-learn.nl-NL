@@ -4,10 +4,10 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van kanaalover
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 72%
+source-wordcount: '251'
+ht-degree: 69%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 72%
 Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic.
 
 ## Nieuwe functies
+
+* **[Kanaaloverschrijdende campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+
+   *Leer hoe u een campagne voor meerdere kanalen maakt en uitvoert.*
 
 * **[Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)**
 
