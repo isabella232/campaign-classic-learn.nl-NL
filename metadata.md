@@ -1,16 +1,17 @@
 ---
 cloud: experience-cloud
 product: adobe campaign
-type: Tutorial
+type: Zelfstudie
 solution: Campaign, Campaign Classic
+feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.nl-NL
 index: true
-translation-type: ht
-source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
-workflow-type: ht
-source-wordcount: '130'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: be175160ae9ac2097d1da22e77a42a653cb9b36e
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +32,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de repository die worde
 
 In TOC.md-bestand
 
-| metadata | wat het doet |
+| metagegevens | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |
