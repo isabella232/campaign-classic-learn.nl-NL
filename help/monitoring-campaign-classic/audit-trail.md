@@ -1,17 +1,19 @@
 ---
 title: De audittrail gebruiken
 description: 'Met Audittrail wordt in real time een uitgebreide lijst met acties en gebeurtenissen in Adobe Campaign vastgelegd. '
-feature: Audit Trail
+feature: Audittrail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 98%
 
 ---
 
