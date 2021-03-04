@@ -1,20 +1,22 @@
 ---
 title: Validatieworkflows configureren in Adobe Campaign Classic
 seo-title: Validatieworkflows configureren in Adobe Campaign Classic
-description: Adobe Campaign biedt verschillende mogelijkheden voor marketers om inhoud, campagnedoel, gegevensextractie en begrotingsgoedkeuring te beoordelen en te leveren. In deze zelfstudie wordt uitgelegd hoe u verschillende workflows voor goedkeuringsvalidatie kunt configureren.
+description: Leer hoe u verschillende workflows voor goedkeuringsvalidatie configureert.
 seo-description: In deze video wordt uitgelegd hoe u een leveringssjabloon kunt configureren en gebruiken in ACCAdobe Campaign. Deze video biedt verschillende opties voor marketers om de leveringsinhoud, het campagnedoel, de gegevensextractie en begrotingsgoedkeuringen te beoordelen en te leveren. In deze zelfstudie wordt uitgelegd hoe u verschillende workflows voor goedkeuringsvalidatie kunt configureren.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: Werkstromen, uitgaven
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: Zakelijke praktiserer
+level: Geavanceerd
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
