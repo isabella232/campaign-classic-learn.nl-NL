@@ -1,17 +1,19 @@
 ---
 title: Workflow HeatMap
-description: De Adobe Campaign Workflow HeatMap bestaat uit een grafische voorstelling met kleurcodes van alle workflows die momenteel worden uitgevoerd. Door een snel overzicht te geven van het aantal gelijktijdige workflows kunnen de beheerders van het Adobe Campaign-platform de belasting op de instantie controleren en de workflows dienovereenkomstig plannen.
-feature: Workflow Heatmap
+description: Leer hoe u de belasting op uw exemplaar kunt controleren en de workflows dienovereenkomstig kunt plannen.
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
