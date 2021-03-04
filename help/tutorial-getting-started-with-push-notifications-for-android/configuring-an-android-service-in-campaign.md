@@ -1,17 +1,19 @@
 ---
 title: Een Android-service configureren en een mobiele Android-toepassing maken in Campagne
 description: Leer hoe u Android Services configureert en een mobiele Android-toepassing maakt in Campagne. Dat is nodig om de Neotrip-app te definiëren als het doel voor de pushmelding.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Beheerder, ontwikkelaar
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
