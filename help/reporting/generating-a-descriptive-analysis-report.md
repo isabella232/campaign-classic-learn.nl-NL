@@ -8,12 +8,13 @@ thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 32%
+source-wordcount: '67'
+ht-degree: 31%
 
 ---
 
