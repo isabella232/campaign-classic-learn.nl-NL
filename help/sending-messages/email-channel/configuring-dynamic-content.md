@@ -1,18 +1,20 @@
 ---
 title: Dynamische inhoud configureren
 description: Begrijp de verschillende soorten dynamische inhoud en leer hoe creeer en pas verpersoonlijkingsblokken en voorwaardelijke verklaringen op een levering toe.
-feature: Dynamic Content, Personalization, Email
+feature: Dynamische inhoud, persoonlijke instellingen, e-mail
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 22%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
