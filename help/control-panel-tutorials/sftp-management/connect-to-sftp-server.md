@@ -1,19 +1,21 @@
 ---
 title: Verbinding maken met een SFTP-server
-description: In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen.
-feature: SFTP Management
+description: Leer hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-toepassing, met de sleutels die u hebt opgeslagen in het Configuratiescherm.
+feature: 'Configuratiescherm '
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Beheerder
+level: Ervaren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 83%
 
 ---
 
