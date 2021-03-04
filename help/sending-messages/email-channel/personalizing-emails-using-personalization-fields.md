@@ -1,18 +1,20 @@
 ---
 title: E-mails aanpassen met velden voor personalisatie
 description: Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
-feature: Dynamic Content Blocks
+feature: Dynamische-inhoudblokken
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 37%
+source-wordcount: '130'
+ht-degree: 36%
 
 ---
 
