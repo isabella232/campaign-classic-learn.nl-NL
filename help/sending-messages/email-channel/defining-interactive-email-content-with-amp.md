@@ -1,18 +1,20 @@
 ---
 title: Interactieve e-mailcontent definiëren met AMP
-description: In deze video wordt uitgelegd hoe u de e-mailcontent van Adobe Campaign Classic (ACC) configureert in AMP-indeling.
-feature: Email, Email Design
+description: Leer hoe u de e-mailinhoud configureert in AMP-indeling.
+feature: E-mail, e-mailontwerp
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+role: Bedrijfs Praktijk, Ontwikkelaar
+level: Geavanceerd
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 88%
 
 ---
 
