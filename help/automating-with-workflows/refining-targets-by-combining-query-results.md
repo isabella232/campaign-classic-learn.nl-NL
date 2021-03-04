@@ -1,18 +1,20 @@
 ---
 title: Targets verfijnen door queryresultaten te combineren
 description: Leer hoe te om uw doel te verfijnen door vraagresultaten in een werkschema te combineren gebruikend de doorsnede of de vakbondsactiviteiten.
-feature: Workflows
+feature: Workflows, doelactiviteit, Query-editor
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 36%
+source-wordcount: '119'
+ht-degree: 34%
 
 ---
 
