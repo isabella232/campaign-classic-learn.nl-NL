@@ -1,18 +1,21 @@
 ---
 title: Aan de slag met het Configuratiescherm
-description: In dit artikel wordt uitgelegd hoe u toegang krijgt tot het Configuratiescherm en wat de voorwaarden zijn om met het Configuratiescherm te kunnen werken.
-feature: Control Panel
+description: Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
+feature: 'Configuratiescherm '
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: Beheerder
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '219'
+ht-degree: 66%
 
 ---
 
