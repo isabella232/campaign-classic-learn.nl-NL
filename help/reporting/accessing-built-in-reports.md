@@ -1,19 +1,20 @@
 ---
 title: Toegang tot ingebouwde rapporten
-description: Begrijpen  ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren.
-feature: Reporting
+description: Begrijp ingebouwde rapportering en analyse en leer hoe te om een leveringsrapport te produceren.
+feature: Rapporten
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
