@@ -1,17 +1,19 @@
 ---
 title: Aan de slag met pushmeldingen voor Android - Inleiding
 description: Deze tutorial begeleidt u door de stappen voor het verzenden van pushmeldingen vanuit Adobe Campaign en het ontvangen van deze meldingen in uw Android-app.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6438
 doc-type: article
 activity: setup
 team: TM
+role: Beheerder, ontwikkelaar
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '369'
+ht-degree: 98%
 
 ---
 
