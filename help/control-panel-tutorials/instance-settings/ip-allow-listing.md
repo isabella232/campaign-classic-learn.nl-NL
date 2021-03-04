@@ -3,19 +3,21 @@ title: IP-adressen toevoegen aan lijsten met gewenste adressen
 seo-title: IP-adressen toevoegen aan lijsten met gewenste adressen
 description: Leer hoe u een IP-bereik toevoegt aan de lijsten van gewenste personen van Campaign Classic-instanties en hoe u deze verwijdert uit de lijst van gewenste personen via het bedieningspaneel.
 seo-description: In de onderstaande video wordt uitgelegd hoe u nieuwe verbindingen met uw instanties kunt maken door IP-adressen aan de lijst met toegestane adressen toe te voegen.
-feature: instance settings
+feature: 'Configuratiescherm '
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Beheerder
+level: Ervaren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 72%
 
 ---
 
