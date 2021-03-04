@@ -1,17 +1,19 @@
 ---
 title: Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen
 description: Leer hoe u het schema voor app-abonnementen kunt uitbreiden om aanpassingswaarden op te slaan Campagne ontvangt van een mobiele app.
-feature: push, data management
+feature: Push, Schema Extension
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Beheerder, ontwikkelaar
+level: Ervaren
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
