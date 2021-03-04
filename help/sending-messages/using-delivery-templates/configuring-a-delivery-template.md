@@ -1,19 +1,21 @@
 ---
 title: Een leveringssjabloon configureren in Adobe Campaign Classic
-description: Een malplaatje kan systematisch typologieën, afzender en antwoord-aan adressen, en basisverpersoonlijkingsblokken zoals spiegelpagina en unsubscription verbindingen omvatten. Het kan ook inhoud, een bedrijfslogo of handtekening, en andere leveringseigenschappen, zoals hulpmiddelgeldigheid, partijhoeveelheden, enz. omvatten. In de volgende video ziet u hoe u een sjabloon voor een ad-hoclevering configureert.
-feature: Delivery Templates
+description: Leer hoe u een sjabloon voor een ad-hoclevering configureert.
+feature: Leveringssjablonen
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Beheerder
+level: Begin
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 16%
 
 ---
 
