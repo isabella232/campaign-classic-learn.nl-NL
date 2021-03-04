@@ -1,18 +1,20 @@
 ---
 title: Abonnementsservices configureren en beheren
 description: Leer hoe u abonnementen en doelabonnees kunt instellen en beheren.
-feature: Subscriptions
+feature: 'Abonnementen     '
 topics: null
 kt: 5088
 thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Bedrijfs Praktijk, Beheerder, Ontwikkelaar
+level: Geavanceerd
 translation-type: tm+mt
-source-git-commit: c8ff73f69db65c2a5d3582a7925c470684a014cd
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 3%
 
 ---
 
