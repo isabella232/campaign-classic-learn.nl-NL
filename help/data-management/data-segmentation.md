@@ -1,16 +1,18 @@
 ---
 title: Gegevenssegmentatie in Adobe Campaign Classic
-description: 'Adobe Campaign staat u toe om geavanceerde segmentatie door diepe vragen van de gemeenschappelijke consumentenattributen en andere gegevensbronnen te doen toe u om herbruikbare lijsten tot stand te brengen, dynamisch lijsten bij te werken die op veranderingen in real time aan gegevens worden gebaseerd, en zelfs complexere activiteiten zoals multi-variate het testen op om het even welk van die gegevenspunten. In deze zelfstudie wordt uitgelegd hoe u het geïntegreerde klantprofiel kunt maken en bijwerken en hoe u klantsegmenten kunt maken op basis van deze profielen. '
-feature: Data segmentation
+description: 'Begrijp het geïntegreerde klantenprofiel, om de profielen tot stand te brengen en bij te werken en hoe te om klantensegmenten tot stand te brengen die op deze profielen worden gebaseerd. '
+feature: Profielen, activiteiten voor gegevensbeheer
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
