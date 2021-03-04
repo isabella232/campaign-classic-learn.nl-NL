@@ -1,17 +1,19 @@
 ---
 title: Het mobiele toepassingskanaal installeren
 description: Leer hoe u kunt controleren of het Mobile App-kanaal op uw exemplaar is geïnstalleerd en hoe u het kunt installeren.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '72'
 ht-degree: 2%
 
 ---
