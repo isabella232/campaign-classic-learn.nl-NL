@@ -1,18 +1,20 @@
 ---
 title: Een ad-hocsjabloon voor e-maillevering gebruiken in Adobe Campaign Classic
-description: 'In deze video wordt uitgelegd hoe u een sjabloon voor ad-hoc e-maillevering kunt implementeren. In deze video wordt het verschil tussen een e-maillevering en een leveringsworkflow uitgelegd. '
-feature: Delivery Templates
+description: 'Leer hoe u een sjabloon voor ad-hoce-maillevering kunt implementeren en het verschil tussen een e-maillevering en een leveringsworkflow kunt begrijpen. '
+feature: Leveringssjablonen
 topics: Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 20%
+source-wordcount: '146'
+ht-degree: 19%
 
 ---
 
