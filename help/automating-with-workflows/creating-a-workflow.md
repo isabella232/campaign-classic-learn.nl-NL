@@ -1,14 +1,16 @@
 ---
 title: Een workflow maken
-description: In deze video wordt uitgelegd hoe u een workflow maakt in Adobe Campaign Classic.
-feature: Workflow
+description: In deze video wordt uitgelegd hoe u een workflow kunt maken.
+feature: Workflows
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
+role: Zakelijke praktiserer
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 28%
