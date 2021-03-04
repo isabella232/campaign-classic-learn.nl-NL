@@ -1,18 +1,20 @@
 ---
 title: Eigenschappen van leveringssjablonen instellen in Adobe Campaign Classic
-description: In de volgende video ziet u hoe u de eigenschappen van de leveringssjabloon in Adobe Campaign Classic instelt en wordt elke eigenschap in detail uitgelegd.
-feature: Delivery Templates
+description: Leer hoe te om de eigenschappen van het leveringsmalplaatje te vormen.
+feature: Leveringssjablonen
 topics: Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Beheerder
+level: Begin
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 21%
+source-wordcount: '124'
+ht-degree: 23%
 
 ---
 
