@@ -9,13 +9,13 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 18%
+ht-degree: 20%
 
 ---
 
