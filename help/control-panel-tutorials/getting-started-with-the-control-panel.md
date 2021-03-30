@@ -10,7 +10,7 @@ team: TM
 role: Beheerder
 level: Ervaren
 translation-type: tm+mt
-source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
+source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 36%
@@ -23,7 +23,8 @@ ht-degree: 36%
 >[!NOTE]
 >
 > Het Configuratiescherm is toegankelijk voor alle beheergebruikers. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
-Merk op dat uw instantie op AWS moet worden ontvangen en met de recentste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) bouwstijl moet worden bevorderd. Leer hoe u uw versie kunt controleren in [deze sectie](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Als u wilt controleren of uw instantie wordt gehost op AWS, voert u de stappen uit die worden beschreven in [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>
+> Merk op dat uw instantie op AWS moet worden ontvangen en met de recentste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) bouwstijl moet worden bevorderd. Leer hoe u uw versie kunt controleren in [deze sectie](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Als u wilt controleren of uw instantie wordt gehost op AWS, voert u de stappen uit die worden beschreven in [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-toetsen of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
