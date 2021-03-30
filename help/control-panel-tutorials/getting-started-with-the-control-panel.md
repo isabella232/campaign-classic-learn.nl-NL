@@ -12,10 +12,10 @@ topic: null
 role: Beheerder
 level: Ervaren
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 66%
+source-wordcount: '275'
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->De termen ‘[!UICONTROL whitelist]’ en ‘[!UICONTROL blacklist]’ zijn vervangen door ‘[!UICONTROL allowlist]’ en ‘[!UICONTROL denylist]’ in de documentatie van Adobe Campaign. Sommige van deze termen staan nog steeds in de gebruikersinterface van het product, optienamen, interne code en de tutorialvideo’s. Deze worden vervangen in toekomstige versies van het Configuratiescherm.
+>Het Configuratiescherm is toegankelijk voor alle beheergebruikers. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in (productdocumentatie)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel].
+Merk op dat uw instantie op AWS moet worden ontvangen en met de recentste (Gouden Standaard) [https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html] bouwstijl moet worden bevorderd. Leer hoe u uw versie kunt controleren in (deze sectie)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]. Om te controleren of uw instantie wordt gehost op AWS, voert u de stappen uit die worden beschreven in (deze pagina)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html].
 
 Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-toetsen of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
