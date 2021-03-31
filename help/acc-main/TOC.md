@@ -11,11 +11,11 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -28,10 +28,10 @@ ht-degree: 80%
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
-   + [Een marketingplan, -programma&#39;s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [ Marketingplannen, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Doelprofielen in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Gebeurtenisgetriggerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Door gebeurtenis geactiveerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
 + Profielbeheer {#profile-management}
    + [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
    + [Profielen importeren](/help/data-management/importing-profiles.md)
@@ -39,21 +39,21 @@ ht-degree: 80%
    + [Een lijst met ontvangers maken met een workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Berichten verzenden{#sending-messages}
    + E-mailkanaal{#email-channel}
-      + [E-mailleveringen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [E-mailverzendingen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Dynamische inhoud configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Dynamische content configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Problemen met de levering van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Handleiding voor best practices op het gebied van prestaties](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
-   + SMS-kanaal {#sms-channel}
-      + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+      + [Problemen met de verzending van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [E-mails ontwerpen voor verzending](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Gids met best practices voor verzending](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
+   + Sms-kanaal {#sms-channel}
+      + [Een sms-verzending maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Pushkanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
@@ -67,13 +67,13 @@ ht-degree: 80%
    + Beheer van moeheidsregels{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + [Abonnementsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
+   + [Lidmaatschapsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campagnes orkestreren {#orchestration}
    + [Een campagne uitvoeren](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Inleiding tot multikanaalcampagnes en kanaalcampagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Multikanaalcampagnes maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Kanaaloverschrijdende campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapporten {#reporting}
+   + [Inleiding tot multi-channel campagnes en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Multi-channel campagnes maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)
++ Rapportage {#reporting}
    + [Toegang tot ingebouwde rapporten](/help/reporting/accessing-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
