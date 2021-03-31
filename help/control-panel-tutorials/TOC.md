@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
-user-guide-title: Adobe Campaign Configuratiescherm - tutorials
-user-guide-description: Leer hoe u de belangrijkste elementen van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren in het Configuratiescherm.
+user-guide-title: Tutorials over het Adobe Campaign-configuratiescherm
+user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste assets van uw Adobe Campaign-instanties kunt controleren en beheertaken kunt uitvoeren.
 breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -14,11 +14,11 @@ index: true
 feature: 'Configuratiescherm '
 role: Beheerder
 level: Ervaren
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
