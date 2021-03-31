@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: Overzicht
 topic: null
-role: Bedrijfs Praktijk, Beheerder, Ontwikkelaar
-level: Begin
-translation-type: tm+mt
+role: Business Practitioner, beheerder, ontwikkelaar
+level: Beginner
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -22,25 +22,25 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 
 ## Nieuwe functies
 
-* **[Kanaaloverschrijdende campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Leer hoe u een campagne voor meerdere kanalen maakt en uitvoert.*
+   *Leer hoe u een cross-channel campagne maakt en uitvoert.*
 
 * **[Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Begrijp het concept controlegroepen en leer hoe te om een controlegroep voor uw levering te gebruiken.*
+   *Krijg inzicht in het concept van controlegroepen en leer hoe u een controlegroep voor uw verzending kunt gebruiken.*
 
-* **[Proefdrukken verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *Leer hoe u een proefdruk verzendt en valideert.*
+   *Leer hoe u een proef verzendt en valideert.*
 
-* **[E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[E-mails ontwerpen voor verzending](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Leer hoe u best practices voor de prestaties toepast.*
+   *Leer hoe u best practices voor verzending toepast.*
 
-* **[E-mailleveringen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[E-mailverzendingen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Begrijp het proces van het maken van een e-maillevering en leer hoe u e-mailinhoud ontwerpt en personaliseert.*
+   *Krijg inzicht in hoe een e-mailverzending wordt gemaakt en leer hoe u e-mailcontent ontwerpt en personaliseert.*
 
 
 ## Personeelsselectie
