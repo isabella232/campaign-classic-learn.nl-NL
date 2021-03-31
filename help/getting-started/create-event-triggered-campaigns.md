@@ -1,25 +1,25 @@
 ---
-title: Gebeurtenisgetriggerde campagnes maken
-description: Leer hoe u een campagne kunt maken die door een gebeurtenis wordt geactiveerd en hoe u het gebruik ervan kunt begrijpen.
-feature: Workflows, gerichte activiteit
+title: Door gebeurtenis geactiveerde campagnes maken
+description: Leer hoe u een campagne maakt die door een gebeurtenis wordt geactiveerd en krijg inzicht in het gebruik ervan.
+feature: Workflows, activiteit targeten
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Zakelijke praktiserer
-level: Intermediair
-translation-type: tm+mt
+role: Business Practitioner
+level: Gemiddeld
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Gebeurtenisgetriggerde campagnes maken
+# Door gebeurtenis geactiveerde campagnes maken
 
-Leer hoe u een campagne kunt maken die door een gebeurtenis wordt geactiveerd en hoe u het gebruik ervan kunt begrijpen.
+Leer hoe u een campagne maakt die door een gebeurtenis wordt geactiveerd en krijg inzicht in het gebruik ervan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12)
