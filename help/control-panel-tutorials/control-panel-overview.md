@@ -1,7 +1,7 @@
 ---
 title: Overzicht van het Configuratiescherm
-description: Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of subdomeinen en certificaten.
-landing-page-description: Met het Configuratiescherm kunnen campagnebeheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
+description: Met het Adobe Campaign-configuratiescherm kunnen Adobe Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag per instantie, het beheren van GPG-sleutels of het beheren van subdomeinen en certificaten.
+landing-page-description: Met het configuratiescherm kunnen Campaign-beheerders belangrijke assets controleren en beheertaken uitvoeren, zoals het beheren van de SFTP-opslag, GPG-sleutels of subdomeinen en certificaten.
 feature: 'Configuratiescherm '
 topics: Control Panel
 kt: 3262
@@ -11,11 +11,11 @@ team: PM
 role: Beheerder
 level: Ervaren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -69,8 +69,8 @@ Met het Adobe Campaign Configuratiescherm kunnen Adobe Campaign-beheerders belan
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Verbinding maken met een SFTP-server</strong>
-    </a>
+    <strong>Verbinding maken met een SFTP-server</strong>
+    </a>
     </div>
     <p>
     <em>Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen. </em>
