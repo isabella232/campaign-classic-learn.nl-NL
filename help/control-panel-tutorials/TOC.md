@@ -12,12 +12,12 @@ getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 feature: 'Configuratiescherm '
-role: Beheerder
-level: Ervaren
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: ht
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
