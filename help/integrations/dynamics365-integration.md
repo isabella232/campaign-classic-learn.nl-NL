@@ -8,16 +8,16 @@ kt: 1869
 doc-type: feature video
 activity: setup
 team: DOC
-role: Beheerder, ontwikkelaar
-level: Geavanceerd
+role: Administrator, Developer
+level: Experienced
+exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 36%
+source-wordcount: '41'
+ht-degree: 39%
 
 ---
-
 
 # Dynamics 365 integreren met Adobe Campaign Classic
 
