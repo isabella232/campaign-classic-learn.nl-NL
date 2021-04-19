@@ -5,22 +5,22 @@ description: Leer hoe u verschillende workflows voor goedkeuringsvalidatie confi
 seo-description: In deze video wordt uitgelegd hoe u een leveringssjabloon kunt configureren en gebruiken in ACCAdobe Campaign. Deze video biedt verschillende opties voor marketers om de leveringsinhoud, het campagnedoel, de gegevensextractie en begrotingsgoedkeuringen te beoordelen en te leveren. In deze zelfstudie wordt uitgelegd hoe u verschillende workflows voor goedkeuringsvalidatie kunt configureren.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Werkstromen, uitgaven
+feature: Workflows, goedkeuringen
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
-role: Zakelijke praktiserer
-level: Geavanceerd
+role: Business Practitioner
+level: Experienced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Validatieworkflows configureren in Adobe Campaign Classic
 
