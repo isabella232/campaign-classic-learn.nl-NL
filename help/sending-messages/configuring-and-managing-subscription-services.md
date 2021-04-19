@@ -1,5 +1,5 @@
 ---
-title: Abonnementsservices configureren en beheren
+title: Lidmaatschapsservices configureren en beheren
 description: Leer hoe u abonnementen en doelabonnees kunt instellen en beheren.
 feature: 'Abonnementen     '
 topics: null
@@ -8,18 +8,18 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Bedrijfs Praktijk, Beheerder, Ontwikkelaar
-level: Geavanceerd
+role: Business Practitioner, Administrator, Developer
+level: Experienced
+exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '47'
+ht-degree: 25%
 
 ---
 
-
-# Abonnementsservices configureren en beheren
+# Lidmaatschapsservices configureren en beheren
 
 Leer hoe u abonnementen en doelabonnees kunt instellen en beheren.
 
@@ -28,4 +28,3 @@ Leer hoe u abonnementen en doelabonnees kunt instellen en beheren.
 ## Aanvullende bronnen
 
 * [Informatie over services en abonnementen (productdocumentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html)
-
