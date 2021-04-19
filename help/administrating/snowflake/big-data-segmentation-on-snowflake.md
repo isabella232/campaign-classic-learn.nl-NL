@@ -7,16 +7,16 @@ kt: 4405
 doc-type: feature video
 activity: use
 team: PM
-role: Beheerder, ontwikkelaar
-level: Geavanceerd
+role: Administrator, Developer
+level: Experienced
+exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 6%
 
 ---
-
 
 # Groot gegevensbeheer op Snowflake
 
