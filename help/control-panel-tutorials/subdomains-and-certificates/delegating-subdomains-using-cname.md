@@ -1,15 +1,15 @@
 ---
 title: Subdomeinen delegeren met CNAME
 description: Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
-feature: 'Configuratiescherm '
+feature: Control Panel
 topics: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Beheerder
-level: Ervaren
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

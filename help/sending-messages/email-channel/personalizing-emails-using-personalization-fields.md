@@ -1,7 +1,7 @@
 ---
 title: E-mails aanpassen met velden voor personalisatie
 description: Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
-feature: Dynamische inhoud
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

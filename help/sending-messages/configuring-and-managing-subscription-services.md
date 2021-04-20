@@ -1,7 +1,7 @@
 ---
 title: Lidmaatschapsservices configureren en beheren
 description: Leer hoe u abonnementen en doelabonnees kunt instellen en beheren.
-feature: 'Abonnementen     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

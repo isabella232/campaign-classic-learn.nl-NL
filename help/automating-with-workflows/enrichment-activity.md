@@ -5,7 +5,7 @@ description: Leer hoe te om een verrijkingsactiviteit te vormen die op de inform
 seo-description: Een verrijkingsactiviteit is een werkschemavoorwerp dat de gebruiker toestaat om gegevens aan de het werk lijst toe te voegen. Met een verrijking, kunt u kolommen aan die lijst toevoegen om extra gegevens te houden OF nieuwe verbindingen van die het werken lijst aan andere bestaande gegevens te bepalen.   Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Werkstromen, verrijkingsactiviteiten
+feature: Workflows, Enrichment Activity
 topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video

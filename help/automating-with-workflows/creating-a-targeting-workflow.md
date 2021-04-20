@@ -1,14 +1,14 @@
 ---
 title: Een doelworkflow maken
 description: Leer hoe u verschillende leveringsdoelen definieert met behulp van een doelworkflows.
-feature: Workflows, doelactiviteit, Query-editor
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

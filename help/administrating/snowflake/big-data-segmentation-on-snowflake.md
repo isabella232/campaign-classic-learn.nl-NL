@@ -1,7 +1,7 @@
 ---
 title: Groot gegevensbeheer op Snowflake
 description: Leer hoe u de Snowflake-connector in Adobe Campaign Classic kunt gebruiken
-feature: Federale gegevenstoegang
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video

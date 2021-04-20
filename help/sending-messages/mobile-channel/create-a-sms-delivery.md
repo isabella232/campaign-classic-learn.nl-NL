@@ -1,7 +1,7 @@
 ---
 title: Hoe te om een levering van SMS te creëren
 description: Klik hier als je wilt weten hoe je een SMS-verzending maakt.
-feature: Sms
+feature: SMS
 kt: 5083
 thumbnail: 330982.jpg
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: Gegevenssegmentatie in Adobe Campaign Classic
 description: 'Begrijp het geïntegreerde klantenprofiel, om de profielen tot stand te brengen en bij te werken en hoe te om klantensegmenten tot stand te brengen die op deze profielen worden gebaseerd. '
-feature: Profielen, activiteiten voor gegevensbeheer
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

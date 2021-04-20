@@ -1,15 +1,15 @@
 ---
 title: De Adobe Campaign Classic-gebruikersinterface verkennen
 description: Lees de Adobe Campaign Classic-hoofdgebruikersinterface en laat zien hoe u door de hoofdfunctionaliteit kunt navigeren.
-feature: Overzicht
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

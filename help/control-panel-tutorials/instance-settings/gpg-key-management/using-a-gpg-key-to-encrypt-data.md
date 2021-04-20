@@ -1,15 +1,15 @@
 ---
 title: 'Gegevens versleutelen met een GPG-sleutel '
 description: Ontdek hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm.
-feature: 'Configuratiescherm '
+feature: Control Panel
 topics: GPG Key Management
 kt: 5793
 thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Beheerder
-level: Ervaren
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

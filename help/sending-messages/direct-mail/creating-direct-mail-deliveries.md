@@ -1,7 +1,7 @@
 ---
 title: Direct-mailleveringen maken
 description: Leer hoe u direct-maillevering maakt, opmaakt en uitvoert.
-feature: Direct mail
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

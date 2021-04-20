@@ -1,7 +1,7 @@
 ---
 title: E-mailverzendingen maken en ontwerpen
 description: Begrijp het proces van het maken van een e-mailverzending en leer e-mailcontent ontwerpen en personaliseren.
-feature: E-mail, e-mailontwerp, personalisatie
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

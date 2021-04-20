@@ -1,7 +1,7 @@
 ---
 title: 'Een IP-bereik toevoegen aan de lijst van gewenste personen '
 description: Leer hoe u een IP adreswaaier aan de lijst van gewenste personen kunt toevoegen.
-feature: 'Configuratiescherm '
+feature: Control Panel
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Beheerder
-level: Ervaren
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

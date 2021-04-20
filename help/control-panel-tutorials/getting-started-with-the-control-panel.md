@@ -1,14 +1,14 @@
 ---
 title: Aan de slag met het Configuratiescherm
 description: Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Beheerder
-level: Ervaren
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt

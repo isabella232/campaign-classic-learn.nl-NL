@@ -1,7 +1,7 @@
 ---
 title: Interactieve e-mailcontent definiëren met AMP
 description: Leer de e-mailinhoud in AMP-formaat configureren.
-feature: E-mail, e-mailontwerp
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

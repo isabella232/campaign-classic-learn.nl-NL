@@ -1,15 +1,15 @@
 ---
 title: Een campagne uitvoeren
 description: Leer hoe u een campagne uitvoert, een e-maillevering en de leveringseigenschappen bekijkt.
-feature: Campagnes, e-mail
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

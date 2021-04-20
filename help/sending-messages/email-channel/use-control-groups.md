@@ -1,7 +1,7 @@
 ---
 title: Controlegroepen gebruiken
 description: Begrijp het concept van controlegroepen en leer een controlegroep voor uw verzending gebruiken.
-feature: Controlegroepen
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

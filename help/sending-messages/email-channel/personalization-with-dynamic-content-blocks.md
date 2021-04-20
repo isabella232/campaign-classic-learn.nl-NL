@@ -1,7 +1,7 @@
 ---
 title: E-mails personaliseren met dynamische contentblokken
 description: Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
-feature: Dynamische inhoud
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

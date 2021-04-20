@@ -1,7 +1,7 @@
 ---
 title: Inleiding tot Adobe Campaign Classic
 description: Begrijp hoe Adobe Campaign Classic in de Adobe Digital Experience-portfolio past en bekijk een overzicht van de belangrijkste functies en mogelijkheden.
-feature: Overzicht
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

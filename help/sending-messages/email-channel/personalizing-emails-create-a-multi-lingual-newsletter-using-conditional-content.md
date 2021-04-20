@@ -1,7 +1,7 @@
 ---
 title: E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content
 description: Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbeeld van een meertalige nieuwsbrief.
-feature: Dynamische inhoud
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

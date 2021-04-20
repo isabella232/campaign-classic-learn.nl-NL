@@ -1,7 +1,7 @@
 ---
 title: Profielen importeren
 description: Meer informatie over het importeren van profielen in Adobe Campaign Classic
-feature: Profielen
+feature: Profiles
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video

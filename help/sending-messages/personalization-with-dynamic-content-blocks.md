@@ -1,7 +1,7 @@
 ---
 title: E-mails personaliseren met behulp van dynamische contentblokken
 description: Deze tutorial laat zien hoe u de content van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en contentblokken kunt standaardiseren en delen in verschillende leveringssjablonen.
-feature: Dynamische inhoud
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: Verkoopcampagnes beheren
 description: Krijg inzicht in de belangrijkste concepten van Adobe Campaign die helpen bij het efficiënt plannen, uitvoeren en meten van kanaaloverschrijdende marketingcampagnes.
-feature: Campagnes
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: Zakelijke praktiserer
-level: Begin
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

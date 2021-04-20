@@ -4,7 +4,7 @@ user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste as
 breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: 'Configuratiescherm '
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

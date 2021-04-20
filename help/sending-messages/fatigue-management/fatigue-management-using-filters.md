@@ -1,7 +1,7 @@
 ---
 title: Vermoediging van het op de markt brengen met drukregels beheren
 description: Leer hoe u moeheidsbeheer in Adobe Campaign Classic implementeert met behulp van filters.
-feature: Beheer van moeheidsregels
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

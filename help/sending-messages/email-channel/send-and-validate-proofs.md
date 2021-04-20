@@ -1,7 +1,7 @@
 ---
 title: Een proef verzenden en valideren
 description: Leer een proef verzenden en valideren.
-feature: E-mail, proeven
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video
