@@ -2,7 +2,6 @@
 title: Profielen in een workflow als doel instellen
 description: Begrijp het gebruik van campagneworkflows en leer hoe u een workflow en doelprofielen maakt in een workflow met filtervoorwaarden.
 feature: Workflows
-topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 30%
+source-wordcount: '132'
+ht-degree: 31%
 
 ---
-
 
 # Doelprofielen in een workflow
 
