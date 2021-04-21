@@ -1,8 +1,7 @@
 ---
 title: SSL-certificaten toevoegen
 description: Leer hoe u SSL-certificaten toevoegt om uw subdomeinen te beveiligen.
-feature: Control Panel
-topics: Control Panel
+feature: 'Configuratiescherm '
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
+exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 90%
+source-wordcount: '212'
+ht-degree: 93%
 
 ---
-
 
 # SSL-certificaten toevoegen
 
@@ -63,5 +62,5 @@ In de onderstaande video ziet u hoe u SSL-certificaten kunt installeren in [!UIC
 
 ## Aanvullende bronnen
 
-* [Volledige subdomeindelegatie (video)](./subdomain-delegation.md)
+* [ Subdomeinen volledig delegeren (video)](./subdomain-delegation.md)
 * [Subdomeinen en certificaten (documentatie)](https://docs.adobe.com/content/help/nl-NL/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
