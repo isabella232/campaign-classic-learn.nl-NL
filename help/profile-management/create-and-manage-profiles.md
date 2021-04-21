@@ -2,8 +2,7 @@
 title: Profielen maken en beheren
 description: Leer hoe u toegang krijgt tot profielgegevens, profielen kunt sorteren en filteren en profielen handmatig kunt maken en beheren. Begrijp naleving van Algemene Verordening van de Bescherming van Gegevens (GDPR) en de Wet van de Consumentenprivacy van Californië (CCPA).
 landing-page-description: Begrijp het concept profielen. Leer hoe u toegang krijgt tot profielgegevens, profielen kunt sorteren en filteren en profielen handmatig kunt maken en beheren. Leer over GDPR en CCPA.
-feature: Profiles
-topics: null
+feature: Profielen
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,10 +12,10 @@ role: Business Practitioner
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 19%
 
 ---
 
