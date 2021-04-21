@@ -1,17 +1,16 @@
 ---
 title: E-mailleveringsactiviteiten versus leveringsactiviteiten in Adobe Campaign Classic
 description: Deze video, verklaart hoe te om een leveringsmalplaatje te vormen en te gebruiken.
-feature: Delivery Templates
-topics: Templates
+feature: Leveringssjablonen
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
