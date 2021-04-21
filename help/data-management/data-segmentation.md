@@ -1,22 +1,21 @@
 ---
 title: Gegevenssegmentatie in Adobe Campaign Classic
 description: 'Begrijp het geïntegreerde klantenprofiel, om de profielen tot stand te brengen en bij te werken en hoe te om klantensegmenten tot stand te brengen die op deze profielen worden gebaseerd. '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: Profielen, activiteiten voor gegevensbeheer
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
-
 
 # Gegevenssegmentatie
 
@@ -45,4 +44,4 @@ Opmerking: Deze video is opgenomen in Adobe Campaign Classic V6. De functionalit
 ## Aanvullende bronnen {#additional-resources}
 
 * [Doelgegevens](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [Best practices voor workflow](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [Best practices voor workflow](https://docs.adobe.com/content/help/nl/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
