@@ -1,8 +1,7 @@
 ---
 title: Een beschrijvend analyserapport genereren
 description: Leer hoe u een beschrijvend analyserapport kunt genereren op basis van een workflow in Adobe Campaign Classic.
-feature: Reporting
-topics: null
+feature: Rapportage
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 31%
+source-wordcount: '64'
+ht-degree: 32%
 
 ---
-
 
 # Een beschrijvend analyserapport genereren
 
