@@ -2,7 +2,6 @@
 title: Seeds en proeven in een e-mail beheren
 description: Leer hoe u zaden en proefdrukken toevoegt aan een bestaande e-mail en hoe u deze verzendt.
 feature: Email
-topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 32%
+source-wordcount: '78'
+ht-degree: 33%
 
 ---
-
 
 # Seeds en proeven in een e-mail beheren
 
