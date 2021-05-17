@@ -7,11 +7,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 95%
 
 ---
 
@@ -27,4 +26,4 @@ In de volgende video’s wordt uitgelegd hoe u een openbaar/privé sleutelpaar k
 
 ## Aanvullende resources
 
-* [GPG-sleutelbeheer (documentatie)](https://docs.adobe.com/content/help/nl-NL/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
