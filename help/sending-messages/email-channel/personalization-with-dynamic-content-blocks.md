@@ -1,6 +1,6 @@
 ---
 title: E-mails personaliseren met dynamische contentblokken
-description: Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
+description: Leer hoe u dynamische inhoudblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
 feature: Dynamische inhoud
 kt: 1559
 thumbnail: 24924
@@ -10,21 +10,18 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 67%
+source-wordcount: '124'
+ht-degree: 34%
 
 ---
 
-# E-mails personaliseren met dynamische contentblokken
+# E-mails aanpassen met velden voor personalisatie
 
-In Adobe Campaign kunt u content of de weergave van berichten personaliseren en deze combineren met criteria uit de profielen van ontvangers.
+Personalisatievelden worden gebruikt voor personalisatie op het eerste niveau van de content van geleverde berichten. De velden die u in een hoofdinhoud invoegt, geven de positie aan waar de gegevens uit een geselecteerde gegevensbron moeten worden ingevoegd.
 
-Een personalisatieblok is dynamisch en gepersonaliseerd en bevat specifieke renderingcode die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
-
-Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
+Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,8 +29,8 @@ Leer hoe u dynamische inhoudsblokken hebt gemaakt en hoe u deze kunt gebruiken o
 
 Documentatie:
 
-* [Personalisatie](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Personalisatieblokken](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Personalisatieblokken](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Videotutorials:
 
