@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 34%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# E-mails aanpassen met velden voor personalisatie
 
-Personalisatievelden worden gebruikt voor personalisatie op het eerste niveau van de content van geleverde berichten. De velden die u in een hoofdinhoud invoegt, geven de positie aan waar de gegevens uit een geselecteerde gegevensbron moeten worden ingevoegd.
+# E-mails personaliseren met dynamische contentblokken
 
-Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
+In Adobe Campaign kunt u content of de weergave van berichten personaliseren en deze combineren met criteria uit de profielen van ontvangers.
+
+Een verpersoonlijkingsblok is dynamisch, gepersonaliseerd, en bevat specifieke het teruggeven code die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
+
+Leer hoe u dynamische inhoudblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
