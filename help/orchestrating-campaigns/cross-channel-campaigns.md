@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: cfe6c54e84e4c48e6c281c820d2ea09149f781bd
+source-git-commit: cc90f176ee62f01610cc696c227585cfe4081278
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 76%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 75%
 
 In een cross-channel campagne worden voor één marketingcommunicatie meerdere kanalen gebruikt om een grotere doelgroep te bereiken op basis van het voorkeurskanaal voor ontvangers.
 
-Leer hoe u een campagne voor meerdere kanalen kunt maken met gebruik van e-mail, SMS en een direct mail.
+Leer hoe u een campagne voor meerdere kanalen kunt maken met e-mail, SMS en direct mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
