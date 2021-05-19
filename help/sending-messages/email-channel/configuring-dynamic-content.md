@@ -10,11 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 21f91848ff9df215b733dc7a45b274668aee59b1
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 28%
+ht-degree: 22%
 
 ---
 
@@ -33,4 +32,4 @@ Productdocumentatie:
 Videozelfstudies:
 
 * [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E-mails aanpassen met velden voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
