@@ -4,12 +4,11 @@ user-guide-description: Leer hoe u in het configuratiescherm de belangrijkste as
 breadcrumb-title: Tutorials voor het Configuratiescherm
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Control Panel
+feature: 'Configuratiescherm '
 role: Administrator
 level: Experienced
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -37,7 +36,7 @@ ht-degree: 100%
       + [GPG-sleutelbeheer - Overzicht](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [GPG-sleutels voor gegevensversleuteling genereren en installeren](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Gegevens versleutelen met een GPG-sleutel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Gegevens decoderen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Gegevens ontsleutelen](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Prestatiebewaking {#performance-monitoring}
    + [Databases controleren](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Problemen met het Configuratiescherm oplossen](/help/control-panel-tutorials/trouble-shooting.md)
