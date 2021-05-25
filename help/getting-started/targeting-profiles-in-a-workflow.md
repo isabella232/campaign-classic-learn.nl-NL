@@ -10,15 +10,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 80718da6eb0fd4be5a26b9b6cd591ee90c41f871
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 31%
+ht-degree: 34%
 
 ---
 
-# Doelprofielen in een workflow
+# Profielen targeten in een workflow
 
 Begrijp het gebruik van campagneworkflows en leer hoe u een workflow en doelprofielen maakt in een workflow met filtervoorwaarden.
 
