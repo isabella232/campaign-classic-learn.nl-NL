@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
 # Hoe te om verrijkingsactiviteiten te vormen
 
-Een verrijkingsactiviteit is een werkschemavoorwerp dat de gebruiker toestaat om gegevens aan de het werk lijst toe te voegen. Met een verrijking, kunt u kolommen aan die lijst toevoegen om extra gegevens te houden of nieuwe verbindingen van die het werken lijst aan andere bestaande gegevens te bepalen.
+De verrijkingsactiviteit is een werkschemavoorwerp dat gegevens aan de het werk lijst toevoegt. Met behulp van de verrijkingsactiviteit kunt u kolommen toevoegen aan een tabel die aanvullende gegevens opslaat of nieuwe koppelingen naar andere bestaande gegevens definieert.
 
-Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
+Leer hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
