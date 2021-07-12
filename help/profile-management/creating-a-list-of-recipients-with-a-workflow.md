@@ -7,11 +7,10 @@ thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 50%
