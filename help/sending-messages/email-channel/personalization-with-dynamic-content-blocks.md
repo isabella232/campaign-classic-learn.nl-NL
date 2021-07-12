@@ -1,19 +1,19 @@
 ---
 title: E-mails personaliseren met dynamische contentblokken
-description: Leer hoe u dynamische inhoudblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
-feature: Dynamische inhoud
+description: Leer hoe u dynamische contentblokken maakt en hoe u deze kunt gebruiken om de content van uw e-maillevering te personaliseren.
+feature: Dynamische content
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 43%
+ht-degree: 82%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 43%
 
 In Adobe Campaign kunt u content of de weergave van berichten personaliseren en deze combineren met criteria uit de profielen van ontvangers.
 
-Een verpersoonlijkingsblok is dynamisch, gepersonaliseerd, en bevat specifieke het teruggeven code die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
+Een personalisatieblok is dynamisch, gepersonaliseerd en bevat specifieke renderingcode die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
 
-Leer hoe u dynamische inhoudblokken hebt gemaakt en hoe u deze kunt gebruiken om de inhoud van uw e-maillevering aan te passen.
+Leer hoe u dynamische contentblokken maakt en hoe u deze kunt gebruiken om de content van uw e-maillevering te personaliseren.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
