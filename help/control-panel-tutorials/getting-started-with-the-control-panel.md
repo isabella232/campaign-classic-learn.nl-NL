@@ -1,30 +1,29 @@
 ---
-title: Aan de slag met het Configuratiescherm
+title: Aan de slag met het configuratiescherm
 description: Leer hoe u toegang krijgt tot het Configuratiescherm en welke voorwaarden u nodig hebt om met het Configuratiescherm te kunnen werken.
-feature: Control Panel
+feature: 'Configuratiescherm '
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
+exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 34%
+source-wordcount: '286'
+ht-degree: 52%
 
 ---
 
-
-# Aan de slag met [!UICONTROL Control Panel] {#control-panel}
+# Aan de slag met de [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
-> Het Configuratiescherm is toegankelijk voor alle beheergebruikers. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
+> Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om Admin toegang tot een gebruiker te verlenen zijn gedetailleerd in [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
 >
-> Merk op dat uw instantie op AWS moet worden gehost en moet worden geüpgraded met de nieuwste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)-build of de nieuwste [GA-build (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Leer hoe u uw versie kunt controleren in [deze sectie](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Als u wilt controleren of uw instantie wordt gehost op AWS, voert u de stappen uit die worden beschreven in [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+> Merk op dat uw instantie op AWS moet worden gehost en moet worden geüpgraded met de nieuwste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=nl)-build of de nieuwste [GA-build (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Met [!UICONTROL Control Panel] kunnen Adobe Campaign-beheerders belangrijke elementen controleren en beheertaken uitvoeren, zoals het beheren van de [!DNL SFTP]-opslag per instantie, het beheren van [!DNL GPG]-toetsen of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
@@ -63,4 +62,3 @@ De volgende video laat zien hoe u een beheerder aan een Campaign-instantie kunt 
 ## Aanvullende resources
 
 * [Help Center voor het Configuratiescherm](https://docs.adobe.com/content/help/nl-NL/control-panel/using/control-panel-home.html)
-
