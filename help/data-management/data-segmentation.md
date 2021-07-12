@@ -6,11 +6,10 @@ kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 4%
@@ -33,7 +32,7 @@ Dankzij het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Klantsegmentatie {#customer-segmentation}
+## Segmentering van klant  {#customer-segmentation}
 
 Zodra u de profielen hebt begrepen, bent u bereid om geavanceerde segmentatie door diepe vragen van de gemeenschappelijke consumentenattributen en andere gegevensbronnen te doen. Als u lijsten kunt maken die u opnieuw kunt gebruiken, kunt u lijsten dynamisch bijwerken op basis van realtime wijzigingen in gegevens en zelfs complexere activiteiten uitvoeren, zoals het testen met meerdere varianten op een van deze gegevenspunten.
 
