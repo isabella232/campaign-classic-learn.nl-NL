@@ -1,28 +1,27 @@
 ---
 title: E-mails aanpassen met velden voor personalisatie
-description: Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
-feature: Dynamische inhoud
+description: Leer hoe u een personalisatieveld toevoegt aan de onderwerpregel en de content van een e-maillevering.
+feature: Dynamische content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 37%
+ht-degree: 84%
 
 ---
 
 # E-mails aanpassen met velden voor personalisatie
 
-Personalisatievelden worden gebruikt voor personalisatie op het eerste niveau van de content van geleverde berichten. De velden die u in een hoofdinhoud invoegt, geven de positie aan waar de gegevens uit een geselecteerde gegevensbron moeten worden ingevoegd.
+Personalisatievelden worden gebruikt voor personalisatie op het eerste niveau van de content van geleverde berichten. De velden die u in hoofdcontent invoegt, geven de positie aan waar de gegevens uit de geselecteerde databron moeten worden ingevoegd.
 
-Leer hoe u een verpersoonlijkingsveld toevoegt aan de onderwerpregel en de inhoud van een e-maillevering.
+Leer hoe u een personalisatieveld toevoegt aan de onderwerpregel en de content van een e-maillevering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
