@@ -1,27 +1,26 @@
 ---
 title: Procedure voor het instellen van vermoeidheidsbeheer met behulp van typologische regels in Adobe Campaign Classic
 description: Leer hoe u vermoeidheidsbeheer kunt implementeren door typologische regels te gebruiken.
-feature: Beheer van moeheidsregels
+feature: Moeheidsbeheer
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 3%
+ht-degree: 29%
 
 ---
 
-# Hoe stelt u vermoeidheidsbeheer in met behulp van typologische regels
+# Vermoeidheidsbeheer instellen met behulp van typologische regels
 
-Het beheer van de vermoeidheid controleert frequentie en hoeveelheid overseinen om te vermijden overbevraging van ontvangers en wordt vaak toegepast gebruikend een typologieregel.
+Vermoeidheidsbeheer bepaalt de frequentie en hoeveelheid berichten om overmatige verzoeken van ontvangers te voorkomen en wordt vaak toegepast met behulp van een typologieregel.
 
-De regels van de typologie staan marketers toe om bedrijfspraktijken over alle leveringen efficiënter te standaardiseren om campagneoverseinen aan klanten te controleren. Zij doen dit door de noodzaak om uitzonderingen of algemeen gebruikte regels op elke afzonderlijke campagne toe te passen te elimineren. Ontvangers die voldoen aan criteria binnen een *typologieregel* zullen tijdens de analysefase van de aflevering worden uitgesloten.
+Met typologieregels kunnen marketeers om bedrijfspraktijken over alle leveringen efficiënter standaardiseren om campagneberichten aan klanten te bepalen. Zij doen dit door de noodzaak om uitzonderingen of algemeen gebruikte regels op elke afzonderlijke campagne toe te passen te elimineren. Ontvangers die voldoen aan criteria binnen een *typologieregel* zullen tijdens de analysefase van de aflevering worden uitgesloten.
 
 Gewoonlijk wordt een set *typologieregels* gegroepeerd binnen een *typologie* om eenvoudig veelvoudige het filtreren regels op een levering in één keer toe te passen.
 
@@ -34,4 +33,4 @@ In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classi
 ## Aanvullende bronnen
 
 * [Campagnetypologieën](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [Vermoediging van het op de markt brengen met drukregels beheren](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [Marketingmoeheid beheren met regels voor druk](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
