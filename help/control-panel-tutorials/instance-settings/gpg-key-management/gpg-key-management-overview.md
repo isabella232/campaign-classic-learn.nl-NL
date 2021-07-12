@@ -3,11 +3,11 @@ title: GPG-sleutelbeheer - Overzicht
 description: In de volgende video’s wordt uitgelegd hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een gespecificeerde instantie van Campaign voor de versleuteling van uitgaande gegevens en hoe u een openbare sleutel kunt importeren en installeren op een instantie van Campaign voor de ontsleuteling van binnenkomende gegevens.
 feature: 'Configuratiescherm '
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 95%
