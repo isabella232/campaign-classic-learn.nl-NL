@@ -1,25 +1,24 @@
 ---
 title: Problemen met de verzending van e-mail oplossen
-description: Leer hoe u problemen met de levering van e-mail kunt oplossen in Campagne.
-feature: E-mail, afleverbaarheid
+description: Leer hoe u problemen met de levering van e-mail kunt oplossen in Campaign.
+feature: E-mail, leverbaarheid
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
 # Problemen met de verzending van e-mail oplossen
 
-Leer hoe u problemen met de levering van e-mail kunt oplossen in Campagne.
+Leer hoe u problemen met de levering van e-mail kunt oplossen in Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12)
