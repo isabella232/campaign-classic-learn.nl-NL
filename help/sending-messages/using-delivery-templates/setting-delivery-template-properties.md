@@ -1,20 +1,19 @@
 ---
 title: Eigenschappen van leveringssjablonen instellen in Adobe Campaign Classic
-description: Leer hoe te om de eigenschappen van het leveringsmalplaatje te vormen.
+description: Leer de eigenschappen van het leveringssjabloon configureren.
 feature: Leveringssjablonen
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 23%
+ht-degree: 79%
 
 ---
 
@@ -33,7 +32,7 @@ Instructievideo’s
 
 Documentatie:
 
-* [Informatie over sjablonen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Een leveringssjabloon maken](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Een doeltoewijzing selecteren](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Een levering maken vanaf een sjabloon](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Sjablonen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=nl)
+* [Een leveringssjabloon maken](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=nl)
+* [Een doeltoewijzing selecteren](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=nl)
+* [Een levering maken vanaf een sjabloon](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=nl)
