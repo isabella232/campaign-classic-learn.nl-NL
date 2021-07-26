@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 73%
@@ -34,10 +34,10 @@ Begrijp het gebruik van campagneworkflows en leer hoe u een workflow maakt en pr
 Documentatie:
 
 * [Info over Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
 * [Targetingactiviteiten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 Tutorials:
 
 * [Profielen maken en beheren](/help/profile-management/create-and-manage-profiles.md)
 * [Profielen importeren](/help/data-management/importing-profiles.md)
+* [Een workflow maken](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html)
