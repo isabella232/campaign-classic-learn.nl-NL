@@ -9,10 +9,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 337da1cf74535e99d4b1b51ce7900054e6b3cb4b
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 50%
+source-wordcount: '199'
+ht-degree: 51%
 
 ---
 
@@ -34,4 +34,4 @@ In deze video wordt uitgelegd hoe u een workflow maakt in Adobe Campaign Classic
 
 ## Aanvullende bronnen
 
-* [Aan de slag met workflows (documentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Workflows (documentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
