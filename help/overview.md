@@ -1,21 +1,26 @@
 ---
 title: Adobe Campaign Classic-tutorials - Overzicht
-description: Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overzicht
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 226eee423845302431044fc0cff44f30651a0791
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 80%
 
 ---
 
 # Adobe Campaign Classic V7-tutorials - overzicht
 
-Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende klantervaringen en biedt een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen. Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic V7.
+Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic V7.
+
+>[!INFO]
+> 
+> Heb je vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leerinhoud voor het Adobe-team?
+Sluit u aan bij het gesprek in de [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 ## Nieuwe functies
 
@@ -86,6 +91,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van kanaaloverschrijdende k
 </tr>
 </table>
 
-## Aanvullende resources
+## Aanvullende bronnen
 
-* [Documentatie](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
+* [Documentatie](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
