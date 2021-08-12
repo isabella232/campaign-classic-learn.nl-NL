@@ -6,10 +6,10 @@ feature: Overzicht
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
+source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,8 +18,7 @@ ht-degree: 80%
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic V7.
 
 >[!INFO]
-> Heb je vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leerinhoud voor het Adobe-team?
-Sluit u aan bij het gesprek in de [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Heb je vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leerinhoud voor het Adobe-team? Sluit u aan bij het gesprek in de [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 ## Nieuwe functies
 
