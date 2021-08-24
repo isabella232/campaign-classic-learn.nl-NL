@@ -10,10 +10,10 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,6 @@ In de volgende video wordt uitgelegd hoe u de Adobe Campaign-clientconsole kunt 
 
 ## Aanvullende resources
 
-* [Compatibiliteitsmatrix](https://helpx.adobe.com/nl/campaign/kb/compatibility-matrix.html)
-* [De clientconsole installeren](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/installing-campaign-classic/installing-campaign-in-windows-/installing-the-client-console.html)
-* [Handleiding voor Campaign Classic-implementatie](https://helpx.adobe.com/nl/campaign/kb/acc-implementation.html)
+* [Compatibiliteitsmatrix](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
+* [De clientconsole installeren](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
+* [Handleiding voor Campaign Classic-implementatie](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html)
