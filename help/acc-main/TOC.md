@@ -11,16 +11,15 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl
 getting-started-title: Documentatie
 getting-started-url: https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: ht
+source-git-commit: d7cfbad42f559f87a20c5580e3d7279140bf32e1
+workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
 
-# Adobe Campaign Classic-tutorials{#tutorials}
+# Adobe Campaign Classic-tutorials {#tutorials}
 
 + [Overzicht](/help/overview.md)
 + Aan de slag {#getting-started}
@@ -28,7 +27,7 @@ ht-degree: 100%
    + [De Adobe Campaign-client installeren en instellen](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [De Adobe Campaign Classic-gebruikersinterface verkennen](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Marketingcampagnes beheren](/help/getting-started/managing-marketing-campaigns.md)
-   + [ Marketingplannen, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Marketingplannen, -programma’s en -campagnes maken](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Een campagne en een e-mail maken](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Profielen targeten in een workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Door gebeurtenis geactiveerde campagnes maken](/help/getting-started/create-event-triggered-campaigns.md)
@@ -50,10 +49,10 @@ ht-degree: 100%
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Problemen met de verzending van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [E-mails ontwerpen voor verzending](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Gids met best practices voor verzending](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
+      + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
    + Sms-kanaal {#sms-channel}
-      + [Een sms-verzending maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+      + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Pushkanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Pushkanaal configureren met de Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
@@ -64,21 +63,21 @@ ht-degree: 100%
       + [Een leveringssjabloon configureren](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Eigenschappen van leveringssjablonen instellen](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Een ad-hocsjabloon voor e-maillevering implementeren](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Beheer van moeheidsregels{#fatigue-management}
+   + Vermoeidheidsbeheer{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Lidmaatschapsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campagnes orkestreren {#orchestration}
    + [Een campagne uitvoeren](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Inleiding tot multi-channel campagnes en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Inleiding tot multi-channel en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Multi-channel campagnes maken](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Rapportage {#reporting}
++ Rapporteren {#reporting}
    + [Toegang tot ingebouwde rapporten](/help/reporting/accessing-built-in-reports.md)
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
    + [Een workflow maken](/help/automating-with-workflows/creating-a-workflow.md)
-   + [Een doelworkflow maken](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Een targetinglworkflow maken](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Targets verfijnen door queryresultaten te combineren](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Targets verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
@@ -86,14 +85,14 @@ ht-degree: 100%
    + [Verrijkingsactiviteiten configureren](/help/automating-with-workflows/enrichment-activity.md)
    + [Gegevenssegmentatie](/help/data-management/data-segmentation.md)
    + [Goedkeuringen beheren](/help/automating-with-workflows/managing-approvals.md)
-+ Content ontwerpen{#designing-content}
++ Ontwerpinhoud{#designing-content}
    + [Landingspagina’s configureren](/help/designing-content/configure-landingpages.md)
-+ Controle {#monitoring}
-   + [Workflow HeatMap](/help/monitoring-campaign-classic/workflow-heatmap.md)
-   + [Audittrail](/help/monitoring-campaign-classic/audit-trail.md)
-+ Integreren {#integrating}
++ Monitor {#monitoring}
+   + [Workflow heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
+   + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
++ {#integrating} integreren
    + [Dynamics 365 integreren met Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
-+ Beheer {#administrating}
++ Beheren {#administrating}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
