@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 22%
+source-wordcount: '293'
+ht-degree: 16%
 
 ---
 # Bijdragen
@@ -29,13 +29,14 @@ consensus over de richting van projecten en het uitwerken van oplossingen binnen
 ## Licentieovereenkomst voor contribuant
 
 Alle bijdragen van derden aan dit project moeten vergezeld gaan van een ondertekende contribuant
-licentieovereenkomst. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onderteken onze CLA](http://opensource.adobe.com/cla.html). U
+licentieovereenkomst. Dit geeft Adobe de toestemming om uw bijdragen als deel van het project opnieuw te verdelen. [Onderteken onze CLA](https://opensource.adobe.com/cla.html). U
 slechts één keer een Adobe CLA moet voorleggen, zodat als u eerder hebt voorgelegd,
 je bent klaar om te gaan !
 
 ## Codebeoordelingen
 
-Alle inzendingen moeten in de vorm van pull-aanvragen gebeuren en moeten door projectcommitters worden gecontroleerd. Lees de documentatie [over pull-aanvragen van GitHub](https://help.github.com/articles/about-pull-requests/) voor meer informatie over het indienen van pull-aanvragen.
+Alle inzendingen moeten de vorm aannemen van intrekkingsverzoeken en moeten worden herzien
+door projectbevrachters. Lees de documentatie [over pull-aanvragen van GitHub](https://help.github.com/articles/about-pull-requests) voor meer informatie over het indienen van pull-aanvragen.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
