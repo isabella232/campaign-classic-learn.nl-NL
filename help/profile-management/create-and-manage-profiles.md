@@ -11,10 +11,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 63%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,6 @@ In deze video wordt ook uitgelegd of Adobe Campaign Classic voldoet aan de Gener
 
 **Documentatie:**
 
-* [Profielen](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/getting-started/profile-management/about-profiles.html)
-* [Een profiel bewerken](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/editing-a-profile.html)
-* [Profielen beheren](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
+* [Profielen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
+* [Een profiel bewerken](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=en)
+* [Profielen beheren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)
