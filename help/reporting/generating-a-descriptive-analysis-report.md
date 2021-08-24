@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 32%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,5 +27,5 @@ Leer hoe u een [!UICONTROL descriptive analysis report] genereert op basis van e
 
 **Documentatie:**
 
-* [Aan de slag met rapportage](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [Beschrijvende analyse](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html)
+* [Aan de slag met rapportage](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en)
+* [Beschrijvende analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en)
