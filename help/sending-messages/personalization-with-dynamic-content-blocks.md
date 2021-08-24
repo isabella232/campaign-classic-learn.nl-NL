@@ -1,16 +1,15 @@
 ---
 title: E-mails personaliseren met behulp van dynamische contentblokken
-description: Deze tutorial laat zien hoe u de content van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en contentblokken kunt standaardiseren en delen in verschillende leveringssjablonen.
-feature: Dynamische inhoud
+description: Deze zelfstudie laat zien hoe u de inhoud van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en inhoudsblokken in verschillende leveringssjablonen kunt standaardiseren en delen.
+feature: Dynamische content
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,11 +23,11 @@ In Adobe Campaign kunt u content of de weergave van berichten personaliseren en 
 3 - Dynamische personalisatievelden invoegen\
 4 - Voorwaardelijke content maken
 
-Deze tutorial laat zien hoe u de content van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en contentblokken kunt standaardiseren en delen in verschillende leveringssjablonen.
+Deze zelfstudie laat zien hoe u de inhoud van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en inhoudsblokken in verschillende leveringssjablonen kunt standaardiseren en delen.
 
 ## Een personalisatieblok maken en toevoegen aan een levering
 
-Een personalisatieblok is dynamisch en gepersonaliseerd en bevat specifieke renderingcode die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
+Een verpersoonlijkingsblok is dynamisch en bevat specifieke renderingcode die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 ## Aanvullende resources
 
-* [Personalisatie](https://docs.adobe.com/content/help/nl-NL/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
