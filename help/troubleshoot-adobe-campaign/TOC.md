@@ -7,7 +7,7 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Workflows filteren op voorwaarde dat het resultaat behouden blijft](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + Leveringen en kanalen {#deliveries-and-channels}
    + [Foutopsporingsbericht geannuleerd tijdens levering](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [Levering via SMS loopt in behandeling](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [Levering via sms verloopt in behandeling](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [De status van het lange logboek is onjuist wanneer een SMS-bericht naar een onjuist nummer wordt verzonden](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + Systeembeheer {#administration}
    + [Alle IP-adressen toestaan om SOAP API-aanroepen te maken](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
