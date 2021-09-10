@@ -4,15 +4,15 @@ description: Leer hoe u XML-leveringsgegevens kunt ophalen vanuit een workflow
 feature: Task Management
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8418
-source-git-commit: 75c5e2709dd6043198fbaeab3fc96e34dcb502f0
+exl-id: 2e753b90-5e1a-498d-8cac-835791fc8be5
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '25'
 ht-degree: 0%
 
 ---
-
 
 # XML-gegevens van levering ophalen
 
