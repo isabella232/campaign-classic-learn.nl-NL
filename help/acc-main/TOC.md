@@ -1,25 +1,18 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic-tutorials
+user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
+source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign Classic-tutorials {#tutorials}
+# Adobe Campaign Classic - Tutorials {#tutorials}
 
 + [Overzicht](/help/overview.md)
 + Aan de slag {#getting-started}
@@ -44,7 +37,7 @@ ht-degree: 95%
       + [Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)
       + [Dynamische content configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
@@ -77,7 +70,7 @@ ht-degree: 95%
    + [Een beschrijvend analyserapport genereren](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatiseren met workflow{#automating-with-workflows}
    + [Een workflow maken](/help/automating-with-workflows/creating-a-workflow.md)
-   + [Een targetinglworkflow maken](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Een targetingworkflow maken](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Targets verfijnen door queryresultaten te combineren](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Targets verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
@@ -85,15 +78,15 @@ ht-degree: 95%
    + [Verrijkingsactiviteiten configureren](/help/automating-with-workflows/enrichment-activity.md)
    + [Gegevenssegmentatie](/help/data-management/data-segmentation.md)
    + [Goedkeuringen beheren](/help/automating-with-workflows/managing-approvals.md)
-+ Ontwerpinhoud{#designing-content}
++ Ontwerpcontent{#designing-content}
    + [Landingspagina’s configureren](/help/designing-content/configure-landingpages.md)
 + Monitor {#monitoring}
    + [Workflow heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
-+ {#integrating} integreren
++ Integreren {#integrating}
    + [Dynamics 365 integreren met Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Beheren {#administrating}
    + [Configuratiescherm](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Problemen met Adobe Campaign oplossen](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
