@@ -7,13 +7,13 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign Classic V7-tutorials - overzicht
+# Adobe Campaign Classic V7-tutorials - Overzicht
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Dit handboek bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Classic V7.
 
@@ -91,4 +91,4 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Aanvullende bronnen
 
-* [Documentatie](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=nl)
