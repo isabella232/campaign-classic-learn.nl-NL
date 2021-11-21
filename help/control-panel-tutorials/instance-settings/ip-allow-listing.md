@@ -1,9 +1,9 @@
 ---
 title: IP-adressen toevoegen aan lijsten met gewenste adressen
-seo-title: IP-adressen toevoegen aan lijsten met gewenste adressen
+seo-title: Adding IP addresses to allow lists
 description: Leer hoe u een IP-bereik toevoegt aan de lijsten van gewenste personen van Campaign Classic-instanties en hoe u deze verwijdert uit de lijst van gewenste personen via het bedieningspaneel.
-seo-description: In de onderstaande video wordt uitgelegd hoe u nieuwe verbindingen met uw instanties kunt maken door IP-adressen aan de lijst met toegestane adressen toe te voegen.
-feature: 'Configuratiescherm '
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -41,4 +41,4 @@ Leer hoe u een IP-bereik toevoegt aan de lijsten van gewenste personen van Campa
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html) voor meer informatie over het toevoegen van IP-adressen aan de lijst met toegestane IP-adressen.
+Raadpleeg de [gedetailleerde productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl) voor meer informatie over het toevoegen van IP-adressen aan de lijst met gewenste IP-adressen.

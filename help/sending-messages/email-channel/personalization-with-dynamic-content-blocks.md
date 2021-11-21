@@ -1,7 +1,7 @@
 ---
 title: E-mails personaliseren met dynamische contentblokken
 description: Leer hoe u dynamische contentblokken maakt en hoe u deze kunt gebruiken om de content van uw e-maillevering te personaliseren.
-feature: Dynamische content
+feature: Dynamic Content
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 82%
 
 ---
@@ -38,5 +38,5 @@ Documentatie:
 
 Videotutorials:
 
-* [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
 * [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)

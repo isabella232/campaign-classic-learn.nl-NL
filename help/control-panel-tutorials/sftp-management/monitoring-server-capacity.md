@@ -1,7 +1,7 @@
 ---
 title: Servercapaciteit controleren
 description: Leer om uw opslag van SFTP door instantie te controleren en te beheren en IP adressen aan lijsten van gewenste personen toe te voegen.
-feature: 'Configuratiescherm '
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -14,14 +14,14 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 53%
+source-wordcount: '90'
+ht-degree: 80%
 
 ---
 
 # Servercapaciteit controleren
 
-Met het Configuratiescherm kunt u uw SFTP-opslag per instantie controleren en beheren.
+Met het Configuratiescherm kunt u uw SFTP-opslag per versie controleren en beheren.
 
 ## Toegang tot subdomeinbeheer op het [!UICONTROL Control Panel]
 
@@ -34,6 +34,6 @@ Om toegang te krijgen tot subdomeinbeheer in het [!UICONTROL Control Panel] gaat
 
 ## Servercapaciteit controleren, IP-adressen [!UICONTROL allow list] en SSH-sleutels toevoegen
 
-Leer hoe u de opslagcapaciteit van uw SFTP-servers kunt controleren.
+Ontdek hoe u de opslagcapaciteit van uw SFTP-servers kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)

@@ -1,7 +1,7 @@
 ---
 title: 'Een IP-bereik toevoegen aan de lijst van gewenste personen '
 description: Leer hoe u een IP adreswaaier aan de lijst van gewenste personen kunt toevoegen.
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 20%
+source-wordcount: '94'
+ht-degree: 31%
 
 ---
 
@@ -28,4 +28,4 @@ Leer hoe u een IP adreswaaier aan de lijst van gewenste personen kunt toevoegen.
 
 ## Aanvullende bronnen
 
-* [IP-bereik staat aanbieding toe (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [Het IP-bereik van een lijst met gewenste personen (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=nl)

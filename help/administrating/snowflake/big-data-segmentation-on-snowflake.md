@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 63%
+source-wordcount: '107'
+ht-degree: 62%
 
 ---
 
 # Beheer van big data in Snowflake
 
-In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake]-connector in Adobe Campaign Classic kunt benutten.
+In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake] -aansluiting in Adobe Campaign Classic.
 U leert hoe u het volgende kunt doen:
 
 * Verbinden met Snowflake

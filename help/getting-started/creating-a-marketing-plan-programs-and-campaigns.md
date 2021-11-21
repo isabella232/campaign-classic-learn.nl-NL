@@ -1,7 +1,7 @@
 ---
 title: Marketingplannen, -programma’s en -campagnes maken
 description: Krijg inzicht in de belangrijkste concepten van Adobe Campaign die helpen bij het efficiënt plannen, uitvoeren en meten van cross-channel marketingcampagnes.
-feature: Campagnes
+feature: Campaigns
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---

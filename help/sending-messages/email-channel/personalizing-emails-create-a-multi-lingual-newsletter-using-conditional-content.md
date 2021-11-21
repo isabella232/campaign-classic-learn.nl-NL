@@ -1,7 +1,7 @@
 ---
 title: E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud
 description: Leer hoe u voorwaardelijke inhoud aan een levering kunt toevoegen op het voorbeeld van een meertalige nieuwsbrief.
-feature: Dynamische content
+feature: Dynamic Content
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 38%
 
 ---
 
@@ -35,4 +35,4 @@ Documentatie:
 Videotutorials:
 
 * [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [E-mailberichten personaliseren met het veld voor personalisatie](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)

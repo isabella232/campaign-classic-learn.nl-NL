@@ -1,7 +1,7 @@
 ---
 title: SSL-certificaten toevoegen
 description: Leer hoe u SSL-certificaten toevoegt om uw subdomeinen te beveiligen.
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 89%
 
 ---

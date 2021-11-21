@@ -1,7 +1,7 @@
 ---
 title: Toegang tot ingebouwde rapporten
 description: Begrijp ingebouwde rapportage en analyse en leer hoe u een leveringsrapport kunt genereren.
-feature: Rapportage
+feature: Reporting
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '70'
 ht-degree: 30%
 
 ---
 
 # Toegang tot ingebouwde rapporten
 
-Begrijpen  ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren.
+Begrijp ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 

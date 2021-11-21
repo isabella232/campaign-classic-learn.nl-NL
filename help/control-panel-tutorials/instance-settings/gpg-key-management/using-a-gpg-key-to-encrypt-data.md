@@ -1,7 +1,7 @@
 ---
 title: 'Gegevens versleutelen met een GPG-sleutel '
 description: Ontdek hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd in het Configuratiescherm.
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 5793
 thumbnail: 36399.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 88%
+source-wordcount: '57'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Ontdek hoe u gegevens exporteert met een GPG-sleutel die is geïnstalleerd in he
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [GPG-sleutelbeheer (video’s)](./gpg-key-management-overview.md)
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=nl)

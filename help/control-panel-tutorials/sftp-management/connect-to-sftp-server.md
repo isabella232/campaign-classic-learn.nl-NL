@@ -1,6 +1,6 @@
 ---
 title: '     Verbinding maken met een SFTP-server     '
-description: Leer hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-toepassing, met de sleutels die u hebt opgeslagen in het Configuratiescherm.
+description: Ontdek hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het configuratiescherm hebt opgeslagen.
 feature: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
@@ -14,7 +14,7 @@ exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -34,9 +34,9 @@ Om toegang te krijgen tot SFTP-beheer in het Configuratiescherm gaat u naar:
 Voor verbinding met SFTP-servers is het volgende vereist:
 
 * Het op de acceptatielijst plaatsen van het IP adres waarvan u met de SFTP-server verbindt
-* Persoonlijke/openbare sleutelparen die bij Adobe Campaign moeten worden geregistreerd
+* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign moet zijn geregistreerd
 * Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
-In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het Configuratiescherm hebt opgeslagen.
+In deze video wordt uitgelegd hoe u verbinding maakt met uw SFTP-server met behulp van een client-SFTP-applicatie. Hierbij worden de sleutels gebruikt die u in het configuratiescherm hebt opgeslagen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)

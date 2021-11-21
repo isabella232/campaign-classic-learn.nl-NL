@@ -1,7 +1,7 @@
 ---
 title: Targets verfijnen door queryresultaten te combineren
 description: Leer hoe u uw doel kunt verfijnen door queryresultaten te combineren in een workflow met behulp van de activiteiten voor doorsnede en unie.
-feature: Workflows, doelactiviteit, query-editor
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 60%
+source-wordcount: '105'
+ht-degree: 58%
 
 ---
 
 # Targets verfijnen door queryresultaten te combineren
 
-Leer hoe te om uw doel te verfijnen door vraagresultaten in een werkschema te combineren gebruikend **[!UICONTROL intersection]** of **[!UICONTROL union]** activiteiten.
+Leer hoe u uw doel kunt verfijnen door queryresultaten te combineren in een workflow met de opdracht **[!UICONTROL intersection]** of de **[!UICONTROL union]** activiteiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 

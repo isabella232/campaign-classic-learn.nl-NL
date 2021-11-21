@@ -1,7 +1,7 @@
 ---
 title: Beheren van marketingmoeheid met drukregels
 description: Leer hoe u moeheidsbeheer in Adobe Campaign Classic implementeert met behulp van filters.
-feature: Moeheidsbeheer
+feature: Fatigue Management
 kt: 2148
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 41%
 
 ---
 

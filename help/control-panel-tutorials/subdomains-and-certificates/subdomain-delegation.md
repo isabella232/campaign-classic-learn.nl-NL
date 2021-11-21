@@ -1,7 +1,7 @@
 ---
 title: Volledige subdomeindelegatie
-description: Ontdek hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
-feature: 'Configuratiescherm '
+description: Leer hoe u een subdomein volledig kunt delegeren aan Adobe Campaign.
+feature: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 74%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
-> De subdomeindelegatie van [!UICONTROL Control Panel] is in bèta en onderworpen aan regelmatige updates en wijzigingen zonder bericht.
+> Subdomeindelegatie van de [!UICONTROL Control Panel] is in bèta en kan regelmatig worden bijgewerkt en zonder voorafgaande kennisgeving worden aangepast.
 
 Met het [!UICONTROL Control Panel] van Adobe Campaign kunt u een subdomein volledig delegeren aan Adobe Campaign.
 

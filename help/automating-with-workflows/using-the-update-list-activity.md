@@ -1,7 +1,7 @@
 ---
 title: De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow
 description: Leer hoe u uw doel kunt verfijnen door een standaarduitsluiting toe te passen op een workflow. U leert ook hoe u vooraf gedefinieerde filters maakt en hoe u problemen kunt oplossen met uw workflow.
-feature: Workflows, doelactiviteit, query-editor
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 64%
+source-wordcount: '119'
+ht-degree: 63%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: E-mails aanpassen met velden voor personalisatie
 description: Leer hoe u een personalisatieveld toevoegt aan de onderwerpregel en de content van een e-maillevering.
-feature: Dynamische content
+feature: Dynamic Content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 68%
 
 ---
 

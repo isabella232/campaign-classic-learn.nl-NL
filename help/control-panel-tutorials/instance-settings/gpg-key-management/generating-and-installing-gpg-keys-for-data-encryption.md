@@ -1,7 +1,7 @@
 ---
 title: GPG-sleutels voor gegevensversleuteling genereren en installeren
 description: Met het Configuratiescherm kunt u gegevens versleutelen die afkomstig zijn van uw Adobe Campaign-instantie. Ontdek hoe u een openbaar/privé sleutelpaar kunt genereren en installeren op een opgegeven Campaign-instantie voor de versleuteling van uitgaande gegevens.
-feature: 'Configuratiescherm '
+feature: Control Panel
 kt: 5240
 thumbnail: 36386.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 93%
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Met het Configuratiescherm kunt u gegevens versleutelen die afkomstig zijn van u
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-## Aanvullende resources
+## Aanvullende bronnen
 
 * [GPG-sleutelbeheer (video’s)](./gpg-key-management-overview.md)
-* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-sleutelbeheer (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=nl)

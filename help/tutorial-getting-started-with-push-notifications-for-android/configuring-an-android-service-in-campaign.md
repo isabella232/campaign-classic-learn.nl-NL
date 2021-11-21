@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 26%
+source-wordcount: '139'
+ht-degree: 25%
 
 ---
 
-# Een [!DNL Android]-service configureren en een [!DNL Android] mobiele toepassing maken in Campagne
+# Een [!DNL Android] service en het maken van een [!DNL Android] mobiele toepassing in campagne
 
 Leer hoe u een [!DNL Android]-service configureert en een mobiele [!DNL Android]-applicatie maakt in Campaign. Deze stap is vereist, zodat u de mobiele doelapplicatie voor de pushmelding kunt bepalen.
 
@@ -25,7 +25,7 @@ Leer hoe u een [!DNL Android]-service configureert en een mobiele [!DNL Android]
 
 **Vorige stap**
 
-Stap 1: [Het schema van het app-abonnement uitbreiden om pushmeldingen aan te passen](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Stap 1: [Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te passen](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **Volgende stap**
 

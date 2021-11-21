@@ -1,7 +1,7 @@
 ---
 title: Landingspagina's configureren in Adobe Campaign Classic
 description: Leer hoe u door de webapplicatie-editor kunt navigeren door een voorkeurscentrum te maken.
-feature: Landingspagina's
+feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 34%
 
 ---
 
@@ -25,4 +25,4 @@ In deze video ziet u hoe u door de webapplicatie-editor van Adobe Campaign kunt 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Zie voor meer informatie de gedetailleerde documentatie op [Een landingspagina maken](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Zie voor meer informatie de gedetailleerde documentatie over [Een openingspagina maken](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

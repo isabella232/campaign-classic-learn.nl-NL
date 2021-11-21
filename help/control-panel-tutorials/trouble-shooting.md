@@ -1,7 +1,7 @@
 ---
-title: Problemen met het Configuratiescherm oplossen
-description: Leer hoe u het Configuratiescherm problemen kunt oplossen.
-feature: 'Configuratiescherm '
+title: Problemen met het configuratiescherm oplossen
+description: Ontdek hoe u problemen met het configuratiescherm kunt oplossen.
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -12,8 +12,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -21,26 +21,26 @@ ht-degree: 0%
 
 ## Aanmelding en startpagina
 
-### Symptoom: Kan niet aanmelden bij Experience Cloud
+### Probleem: kan niet aanmelden bij Experience Cloud
 
-**Wat te doen:**
-de gebruiker moet van hun IMS Org ID (xxx) de plaats bepalen. De beheerder moet de gebruiker aan het Profiel van het Product &quot;Campagne-xxx-Admins&quot;voor elke instantie toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als gebruikers.
+**Wat moet u doen:**
+De gebruiker moet de IMS-organisatie-id (xxx) zoeken. De beheerder moet de gebruiker toevoegen aan het productprofiel ‘Campaign-xxx-Admins’ voor elke versie die deze wil beheren. Als de gebruiker een beheerder van alle versies is, moet deze ook zichzelf toevoegen als gebruiker.
 
 ### Symptoom: Koppelingen in de Experience Cloud Home voor toegang tot [!UICONTROL Control Panel] worden niet weergegeven voor een gebruiker
 
 **Oorzaak:**
-Gebruikers zien de koppelingen pas nadat ze als gebruikers aan de  _campagne-xxx-beheerders/Admin_ voor productprofielen zijn toegevoegd.
+Gebruikers zien de koppelingen pas wanneer ze als gebruikers zijn toegevoegd aan het productprofiel _Campaign-xxx-Administrators/Admin_.
 
-**Wat te doen:**
-De beheerder moet de gebruiker aan de Campagne-xxx- _Adminsfor van het Profiel van het Product_  toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als gebruikers.
+**Wat moet u doen:**
+De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Admins_ voor elke versie die deze wil beheren. Als de gebruiker een beheerder van alle versies is, moet deze ook zichzelf toevoegen als gebruiker.
 
 ### Symptoom: Een instantie wordt niet vermeld in het [!UICONTROL Control Panel]
 
 **Oorzaak:**
-Meest waarschijnlijke gebruiker moet worden toegevoegd als  ** userProduct Profile  _Campaign-xxx-Administrators/_ Adminfor de instantie die mist
+Waarschijnlijk moet de gebruiker worden toegevoegd als *gebruiker* voor het productprofiel _Campaign-xxx-Administrators/Admin_ voor de ontbrekende versie
 
-**Wat te doen:**
-De beheerder moet de gebruiker aan de Campagne-xxx- _Adminsfor van het Profiel van het Product_  toevoegen die zij zouden willen leiden. Als de gebruiker een beheerder van alle instanties is, moeten zij toevoegen als &quot;gebruikers&quot;.
+**Wat moet u doen:**
+De beheerder moet de gebruiker toevoegen aan het productprofiel _Campaign-xxx-Admins_ voor elke versie die deze wil beheren. Als de gebruiker een beheerder van alle versies is, moet deze ook zichzelf toevoegen als &#39;gebruiker&#39;.
 
 ### Nuttige video’s
 
@@ -62,8 +62,8 @@ De beheerder moet de gebruiker aan de Campagne-xxx- _Adminsfor van het Profiel v
 Voor verbinding met SFTP-servers is het volgende vereist:
 
 * [!UICONTROL Allow listing] het IP-adres waarvan u verbinding maakt met de SFTP-server
-* Persoonlijke/openbare sleutelparen die bij Adobe Campaign moeten worden geregistreerd
-* Als u rechtstreeks verbinding wilt maken met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
+* Persoonlijk/openbaar sleutelpaar dat bij Adobe Campaign moet zijn geregistreerd
+* Als u rechtstreeks verbinding maakt met de SFTP-server, hebt u ook SFTP-clientsoftware nodig
 
 ### Nuttige documentatie {#helpful-docs}
 

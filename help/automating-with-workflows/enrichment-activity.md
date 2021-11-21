@@ -1,11 +1,11 @@
 ---
 title: Hoe te om verrijkingsactiviteiten te vormen
-seo-title: Verrijkingsactiviteiten in Adobe Campaign Classic configureren
+seo-title: How to configure enrichment activities in Adobe Campaign Classic
 description: Leer hoe u een verrijkingsactiviteit kunt configureren op basis van het leveringslogboek.
-seo-description: Een verrijkingsactiviteit is een werkschemavoorwerp dat de gebruiker toestaat om gegevens aan de het werk lijst toe te voegen. Met een verrijking, kunt u kolommen aan die lijst toevoegen om extra gegevens te houden OF nieuwe verbindingen van die het werken lijst aan andere bestaande gegevens te bepalen.   Deze video verklaart hoe te om een verrijkingsactiviteit te vormen die op de informatie van het leveringslogboek wordt gebaseerd.
+seo-description: An enrichment activity is a workflow object that allows the user to add data to the working table. With an enrichment, you can add columns to that table to hold additional data OR define new links from that working table to other existing data.   This video explains how to configure an enrichment activity based on delivery log information.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Workflows, verrijkingsactiviteit
+feature: Workflows, Enrichment Activity
 kt: KT-1561
 doc-type: feature video
 activity: use
@@ -15,8 +15,8 @@ level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 44%
+source-wordcount: '83'
+ht-degree: 78%
 
 ---
 
