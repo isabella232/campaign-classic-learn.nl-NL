@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 73%
+source-wordcount: '257'
+ht-degree: 72%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 73%
 
 >[!NOTE]
 >
-> Het configuratiescherm is toegankelijk voor alle beheerders. De stappen om beheerderstoegang aan een gebruiker te verlenen worden gedetailleerd beschreven in de [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
+>Het Configuratiescherm is alleen toegankelijk voor Admin-gebruikers. Meer informatie over machtigingen in [deze sectie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
 >
-> Uw exemplaar moet worden gehost op AWS en worden bijgewerkt met de nieuwste [Gouden standaard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=nl) bouwen of de nieuwste [GA-build (21,1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>Voor Campaign Classic v7 moet uw exemplaar worden gehost op Amazon Web Services (AWS) en worden bijgewerkt naar de nieuwste [Stabiele build campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=nl#rn-statuses) (of om 9032 of hoger te bouwen). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=nl#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](faq.md#hosted-aws).
 
 De [!UICONTROL Control Panel] staat Adobe Campaign-beheerders toe om belangrijke elementen te controleren en beheertaken uit te voeren, zoals het beheren van de [!DNL SFTP] opslag per instantie, beheren [!DNL GPG] toetsen, of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
