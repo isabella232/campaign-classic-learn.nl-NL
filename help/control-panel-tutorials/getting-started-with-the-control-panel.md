@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
+source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 72%
+source-wordcount: '266'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 72%
 >
 >Het Configuratiescherm is alleen toegankelijk voor Admin-gebruikers. Meer informatie over machtigingen in [deze sectie](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=nl#discover-control-panel).
 >
->Voor Campaign Classic v7 moet uw exemplaar worden gehost op Amazon Web Services (AWS) en worden bijgewerkt naar de nieuwste [Stabiele build campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=nl#rn-statuses) (of om 9032 of hoger te bouwen). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=nl#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](faq.md#hosted-aws).
+>Voor Campaign Classic v7 moet uw exemplaar worden gehost op Amazon Web Services (AWS) en worden bijgewerkt naar de nieuwste [Stabiele build campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=nl#rn-statuses) (of om 9032 of hoger te bouwen). Leer hoe u uw versie kunt controleren in [dit gedeelte](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=nl#getting-your-campaign-version). Controleer of uw versie wordt gehost op AWS door de volgende stappen te volgen op [deze pagina](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws).
 
 De [!UICONTROL Control Panel] staat Adobe Campaign-beheerders toe om belangrijke elementen te controleren en beheertaken uit te voeren, zoals het beheren van de [!DNL SFTP] opslag per instantie, beheren [!DNL GPG] toetsen, of [!UICONTROL subdomains] en [!UICONTROL certificates].
 
