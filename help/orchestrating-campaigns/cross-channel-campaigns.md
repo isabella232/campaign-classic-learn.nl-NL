@@ -1,16 +1,16 @@
 ---
 title: Cross-channel campagnes maken
 description: Leer hoe u een cross-channel campagne kunt maken met gebruik van e-mail en directe-mailleveringen op basis van de reactie van de klant op de eerste levering.
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: ac74fffaaf15bced07212d0df4b631944f15f742
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ In een cross-channel campagne wordt één marketingmededeling verzonden via vers
 Leer hoe u een cross-channel campagne kunt maken met gebruik van e-mail en directe-mailleveringen op basis van de reactie van de klant op de eerste levering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
-
-## Aanvullende bronnen
-
-* [Inleiding tot multi-channel en cross-channel campagnes](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

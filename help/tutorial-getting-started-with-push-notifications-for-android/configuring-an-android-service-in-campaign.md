@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 25%
+source-wordcount: '104'
+ht-degree: 32%
 
 ---
 
@@ -30,8 +30,3 @@ Stap 1: [Het schema voor app-abonnementen uitbreiden om pushmeldingen aan te pas
 **Volgende stap**
 
 Stap 3: [Pushmeldingen configureren en verzenden](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
-
-## Aanvullende bronnen
-
-* [De Android-service configureren (productdocumentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#configuring-android-service)
-* [Een mobiele Android-toepassing maken (productdocumentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-app)

@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Leer hoe u een proef verzendt en valideert.*
-
-* **[E-mails ontwerpen voor verzending](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *Leer hoe u best practices voor verzending toepast.*
-
-* **[E-mailverzendingen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *Krijg inzicht in hoe een e-mailverzending wordt gemaakt en leer hoe u e-mailcontent ontwerpt en personaliseert.*
 
 
 ## Personeelsselectie

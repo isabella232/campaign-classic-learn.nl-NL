@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 90%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,3 @@ Om hoge inboxpercentages en lage spampercentages te waarborgen vereisen sommige 
 In de onderstaande video ziet u hoe u [!UICONTROL Google TXT]-records voor de siteverificatie kunt toevoegen aan al uw subdomeinen die worden gebruikt om e-mails naar [!DNL GMAIL]-adressen te verzenden met het [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Aanvullende resources
-
-* [TXT-records beheren (documentatie)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

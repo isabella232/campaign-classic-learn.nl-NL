@@ -1,7 +1,7 @@
 ---
 title: E-mails personaliseren met dynamische contentblokken
 description: Leer hoe u dynamische contentblokken maakt en hoe u deze kunt gebruiken om de content van uw e-maillevering te personaliseren.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 82%
+source-wordcount: '122'
+ht-degree: 86%
 
 ---
 
@@ -26,17 +26,6 @@ Een personalisatieblok is dynamisch, gepersonaliseerd en bevat specifieke render
 
 Leer hoe u dynamische contentblokken maakt en hoe u deze kunt gebruiken om de content van uw e-maillevering te personaliseren.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## Aanvullende bronnen
-
-Documentatie:
-
-* [Personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Personalisatieblokken](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
-
-Videotutorials:
-
-* [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [E-mails aanpassen - Een meertalige nieuwsbrief maken met voorwaardelijke inhoud](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+Als u meer wilt weten over personalisatie, raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).

@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 30%
+source-wordcount: '35'
+ht-degree: 54%
 
 ---
 
@@ -22,9 +22,3 @@ ht-degree: 30%
 Begrijp ingebouwde rapportering en analyse in Campaign Classic en leer hoe te om een leveringsrapport te produceren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
-
-## Aanvullende bronnen
-
-* [Een beschrijvend analyserapport genereren (video)](/help/reporting/generating-a-descriptive-analysis-report.md)
-* [Aan de slag met rapportage (productdocumentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [Rapportage van beste praktijken (productdocumentatie)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/best-practices.html)

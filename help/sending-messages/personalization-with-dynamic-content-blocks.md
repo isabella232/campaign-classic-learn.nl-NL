@@ -1,15 +1,15 @@
 ---
 title: E-mails personaliseren met behulp van dynamische contentblokken
 description: Deze zelfstudie laat zien hoe u de inhoud van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en inhoudsblokken in verschillende leveringssjablonen kunt standaardiseren en delen.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personali
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Aanvullende resources
-
-* [Personalisatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+Voor meer informatie over Personalisatie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

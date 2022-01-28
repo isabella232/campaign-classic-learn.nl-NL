@@ -1,7 +1,7 @@
 ---
 title: 'Pushkanaal configureren met de Experience Platform Mobile SDK '
 description: 'Leer hoe u het Pushkanaal kunt configureren met de mobiele SDK van Experience Cloud. '
-feature: Push
+feature: Push, Mobile SDK Integration
 kt: 2683
 doc-type: feature video
 activity: setup
@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: e4d647150bad188430046abf1067244f922a45b9
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 54%
 
 ---
 
@@ -22,8 +22,4 @@ In deze video wordt uitgelegd hoe u de Adobe Experience Platform Mobile SDK kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
-*De Adobe Experience Platform Mobile SDK configureren en installeren (07:04 min)*
-
-## Aanvullende bronnen
-
-* [Campaign Classic-extensie in Launch configureren](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+Meer leren op hoe te om de uitbreiding van de Campaign Classic in Mobiele SDK te vormen, zie [productdocumentatie](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

@@ -1,6 +1,6 @@
 ---
 title: Databases controleren
-description: Ontdek hoe u het databasegebruik van uw instanties kunt controleren.
+description: Leer hoe u het databasegebruik van uw instanties kunt controleren.
 feature: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -11,10 +11,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
@@ -22,10 +22,8 @@ ht-degree: 100%
 
 De assets, workflows en gegevens van al uw Campaign-instanties worden opgeslagen in de database. Als de database de maximale capaciteit bereikt, kan dit leiden tot problemen met uw instantie (niet kunnen aanmelden, geen e-mails kunnen verzenden, enz.). Het is daarom van essentieel belang om regelmatig de databases van uw instanties te controleren om optimale prestaties te garanderen.
 
-Leer hoe u het databasegebruik van uw instanties controleert met [!DNL Control Panel].
+Leer hoe u het databasegebruik van uw instanties kunt controleren met de [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## Aanvullende bronnen
-
-* [Databases controleren (handleiding)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=nl#performance-monitoring)
+Zie voor meer informatie over databasebewaking [productdocumentatie](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=nl#performance-monitoring).
