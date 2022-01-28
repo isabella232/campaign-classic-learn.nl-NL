@@ -1,7 +1,7 @@
 ---
 title: Beheren van marketingmoeheid met drukregels
 description: Leer hoe u moeheidsbeheer in Adobe Campaign Classic implementeert met behulp van filters.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 2148
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 813ef6f94d02c25f7b241eaaf30a7488d06b74b7
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 41%
+source-wordcount: '104'
+ht-degree: 34%
 
 ---
 
@@ -24,6 +24,4 @@ In deze video wordt uitgelegd hoe u vermoeidheidsbeheer in Adobe Campaign Classi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
-## Aanvullende bronnen
-
-* [Campagnetypologieën](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=nl)
+Bezoek de productdocumentatie voor meer informatie over [campagneretypen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=nl).
