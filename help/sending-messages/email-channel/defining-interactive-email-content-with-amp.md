@@ -11,9 +11,9 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ AMP for Email is een nieuwe opensource-indeling waarmee ontwikkelaars dynamische
 
 Momenteel ondersteunen alleen Gmail, Outlook en Mail.ru de AMP-indeling.
 
-In de onderstaande video wordt uitgelegd hoe u AMP kunt activeren in Adobe Campaign Classic en wordt u het gebruik ervan voorgesteld.
+De onderstaande video legt uit hoe u AMP activeert in Adobe Campaign Classic en laat het gebruik ervan zien.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-U kunt de [AMP-editor](https://playground.amp.dev/) om uw eigen AMP-code te maken.
+U kunt de [AMP-editor](https://playground.amp.dev/) gebruiken om uw eigen AMP-code te maken.
 
-Zie de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=nl#about-amp-for-email) voor meer informatie .
+Raadpleeg de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=nl#about-amp-for-email) voor meer informatie.
