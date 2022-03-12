@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
+* **[Integreren met Adobe Target](/help/integrations/target-integration.md)**
+
+   *Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.*
+
 * **[Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *Leer hoe u een cross-channel campagne maakt en uitvoert.*
@@ -30,11 +34,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *Krijg inzicht in het concept van controlegroepen en leer hoe u een controlegroep voor uw verzending kunt gebruiken.*
-
-* **[Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *Leer hoe u een proef verzendt en valideert.*
-
 
 ## Personeelsselectie
 
