@@ -9,7 +9,7 @@ mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-classic-learn.nl-NL
 index: true
 source-git-commit: e796bfd13785c869b0ffe039fa899cb887ce2bdf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Het bestand metadata.md bevat metagegevens op niveau van de repository die worde
 
 In TOC.md-bestand
 
-| metagegevens | wat het doet |
+| metadata | wat het doet |
 |--- |--- |
 | user-guide-title | Gebruikt in artikelkoptekst als koppeling |
 | user-guide-url | Opent helpx-hubpagina |
