@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
    + [Een SSH-sleutel genereren](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Verbinding maken met een SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomeinen en certificaten {#subdomains-and-certificates}
-   + [Volledige subdomeindelegatie (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Subdomeinen delegeren met CNAME (bèta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Volledige subdomeindelegatie](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Subdomeinen delegeren met CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL-certificaten toevoegen](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Beheer van Google-TXT-records](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instantie-instellingen {#instance-settings}
