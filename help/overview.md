@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,21 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Integreren met Adobe Target](/help/integrations/target-integration.md)**
+* **[Inleiding tot SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
-   *Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.*
+   *Meer informatie over hoe SMS werkt en hoe Adobe Campaign SMS verzendt*
 
-* **[Cross-channel campagnes maken](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Een SMS-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-   *Leer hoe u een cross-channel campagne maakt en uitvoert.*
+   *Leer hoe u de SMS-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
-* **[Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[Pas de SMS-aansluiting aan op uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-   *Krijg inzicht in het concept van controlegroepen en leer hoe u een controlegroep voor uw verzending kunt gebruiken.*
+   *Leer hoe u uw SMS-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
+
+* **[Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.*
 
 ## Personeelsselectie
 
