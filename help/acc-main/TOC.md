@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 90%
       + [Problemen met de verzending van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Sms-kanaal {#sms-channel}
-      + [SMS instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
       + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Pushkanaal {#push-channel}
       + [Het mobiele-appkanaal installeren](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -92,5 +92,5 @@ ht-degree: 90%
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
-   + [Maximaliseer e-mailROI en beste praktijken voor abonneeherbetrokkenheid](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Maximaliseer de ROI van e-mail en best practices voor hernieuwde betrokkenheid van abonnees](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
    + [Gids voor best practices inzake leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
