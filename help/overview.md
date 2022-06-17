@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '371'
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
-* **[Inleiding tot SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Inleiding tot sms](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=nl)**
 
-   *Meer informatie over hoe SMS werkt en hoe Adobe Campaign SMS verzendt*
+   *Meer informatie over hoe sms werkt en hoe Adobe Campaign een sms verzendt*
 
-* **[Een SMS-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[Een sms-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=nl)**
 
-   *Leer hoe u de SMS-connector aanpast aan uw SMPP-provider. Pas uw SMS-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
+   *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
-* **[Pas de SMS-aansluiting aan op uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[Pas de sms-aansluiting aan op uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=nl)**
 
-   *Leer hoe u uw SMS-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
+   *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
 
-* **[Maximaliseer uw ROI voor e-mail en leer beste praktijken voor abonneeherbetrokkenheid](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[De ROI van uw e-mail maximaliseren en praktische tips leren voor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)**
 
-   *Leer hoe u uw e-mailrendement kunt maximaliseren en de beste werkwijzen voor herbetrokkenheid van abonnees leert. Ontdek de strategieën om uw betrokkenheid van abonnees te verbeteren en het algemene succes van uw e-mailcampagnes te begrijpen.*
+   *Leer hoe u uw e-mailrendement kunt maximaliseren en aanbevolen methoden voor herbetrokkenheid van leden leert. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en begrijp het algehele succes van uw e-mailcampagnes.*
 
 ## Personeelsselectie
 
