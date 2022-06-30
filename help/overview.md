@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 83%
 
 ---
 
@@ -23,6 +23,14 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 ## Nieuwe functies
 
+* **[Workflows bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+
+   *Leer hoe u het tijdelijke opslaggebruik van uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw exemplaar te voorkomen.*
+
+* **[Doorvoereenheden en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Leer hoe te om leveringsproductie en transactionele berichtlatentie van uw campagneinstantie te controleren.*
+
 * **[Inleiding tot sms](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=nl)**
 
    *Meer informatie over hoe sms werkt en hoe Adobe Campaign een sms verzendt*
@@ -30,14 +38,6 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Een sms-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=nl)**
 
    *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
-
-* **[Pas de sms-aansluiting aan op uw SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=nl)**
-
-   *Leer hoe u uw sms-instellingen kunt verfijnen om verbindingsgrenzen af te handelen, de maximale doorvoer, het verzendende venster en codering met TLS in te stellen.*
-
-* **[De ROI van uw e-mail maximaliseren en praktische tips leren voor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)**
-
-   *Leer hoe u uw e-mailrendement kunt maximaliseren en aanbevolen methoden voor herbetrokkenheid van leden leert. Ontdek de strategieën om de betrokkenheid van uw leden te verbeteren en begrijp het algehele succes van uw e-mailcampagnes.*
 
 ## Personeelsselectie
 
