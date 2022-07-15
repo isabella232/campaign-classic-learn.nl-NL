@@ -6,8 +6,8 @@ user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaalovers
 breadcrumb-title: Tutorials
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 97%
    + [Integreren met Adobe Target](/help/integrations/target-integration.md)
    + [Integreren met Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Beheren {#administrating}
-   + [Deelvenster Beheer](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Deelvenster Beheer](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target=&quot;_blank&quot;}
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
