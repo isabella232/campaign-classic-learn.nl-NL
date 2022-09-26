@@ -1,5 +1,5 @@
 ---
-title: Terugkerende en doorlopende e-mailcampagnes instellen
+title: Terugkerende en doorlopende e-mailcampagnes configureren
 description: Leer hoe u een terugkerende, continue levering instelt en begrijp de verschillen tussen de twee benaderingen.
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 51%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Terugkerende en doorlopende e-mailcampagnes instellen
+# Terugkerende en doorlopende e-mailcampagnes configureren
 
 In deze tutorial wordt uitgelegd hoe u een terugkerende en continue levering instelt en wat de verschillen tussen de twee benaderingen zijn.
 
