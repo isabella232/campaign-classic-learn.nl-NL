@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
+source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
 workflow-type: ht
-source-wordcount: '420'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,8 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 
 >[!INFO]
 > Hebt u vragen? Wilt u uw ervaring delen of gedachten uitwisselen met uw collega&#39;s? Of hebt u feedback over de leercontent voor het Adobe-team? Neem deel aan het gesprek in de [Adobe Campaign Learning Community-discussie](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+
+<div id="whats-new-section">
 
 ## Nieuwe functies
 
@@ -46,6 +48,17 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 * **[Een sms-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=nl)**
 
    *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personeelsselectie
 
@@ -92,6 +105,8 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Aanvullende bronnen
 
