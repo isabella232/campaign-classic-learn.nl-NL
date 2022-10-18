@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
 ht-degree: 100%
 
