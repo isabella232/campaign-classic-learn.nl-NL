@@ -1,15 +1,15 @@
 ---
 title: Adobe Campaign Classic-tutorials - Overzicht
-description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
+description: Adobe Campaign biedt een platform voor het ontwerpen van interkanaalklantervaringen en biedt een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en Cross-channel Execution. Deze gebruikershandleiding bevat video’s en tutorials over de vele functies en mogelijkheden van Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
+source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 98%
+source-wordcount: '417'
+ht-degree: 92%
 
 ---
 
