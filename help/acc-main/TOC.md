@@ -6,8 +6,8 @@ user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaalovers
 breadcrumb-title: Tutorials
 source-git-commit: 4439abdb7ea767951bb2469835f4f60b0804477f
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
