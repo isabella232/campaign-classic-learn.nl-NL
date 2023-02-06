@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -87,12 +87,12 @@ ht-degree: 97%
    + [Integreren met Adobe Target](/help/integrations/target-integration.md)
    + [Integreren met Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Beheren {#administrating}
-   + [Configuratiescherm ](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
+   + [Configuratiescherm](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=nl){target="_blank"}
    + [Sms instellen voor Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=nl)
    + Toegang tot een externe database (FDA) {#fda}
       + [Beheer van big data op [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Problemen oplossen in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=nl)
 + Strategie en leiderschap{#strategy}
-   + [Tien beste praktijken voor Adobe Campaign succes voor marketers](/help/strategy/10-best-practices-for-marketers.md)
+   + [Tien best practices voor succes met Adobe Campaign voor marketeers](/help/strategy/10-best-practices-for-marketers.md)
    + [De ROI van e-mail en aanbevolen methoden maximaliserenvoor hernieuwde betrokkenheid van leden](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=nl)
    + [Gids voor aanbevolen methoden voor leverbaarheid](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=nl)
