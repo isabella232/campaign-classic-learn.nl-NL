@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
+source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 98%
 
 ---
 
@@ -35,7 +35,8 @@ ht-degree: 100%
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Dynamische content configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Leveringen configureren voor A/B-tests](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Dynamische inhoud configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [E-mails personaliseren - Een meertalige nieuwsbrief maken met voorwaardelijke content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
