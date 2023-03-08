@@ -4,9 +4,9 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-source-git-commit: 88fcb42094f247173bb03ee5a180fd1b4c1a41db
+source-git-commit: 13fea9184efd6b8bacedda44aba5e37a63f92e05
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 98%
 
 ---
@@ -74,6 +74,7 @@ ht-degree: 98%
    + [Targets verfijnen door queryresultaten te combineren](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Targets verfijnen door queryresultaten uit te sluiten](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [De activiteit Lijstupdate gebruiken om een lijst te maken met een workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [Tijdzones beheren](/help/automating-with-workflows/manage-time-zones.md)
    + [Validatieworkflows configureren](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Verrijkingsactiviteiten configureren](/help/automating-with-workflows/enrichment-activity.md)
    + [Gegevenssegmentatie](/help/data-management/data-segmentation.md)
