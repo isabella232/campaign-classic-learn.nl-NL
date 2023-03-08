@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-source-git-commit: 13fea9184efd6b8bacedda44aba5e37a63f92e05
+source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 97%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 98%
    + [Tijdzones beheren](/help/automating-with-workflows/manage-time-zones.md)
    + [Validatieworkflows configureren](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Verrijkingsactiviteiten configureren](/help/automating-with-workflows/enrichment-activity.md)
+   + [Planningsactiviteiten configureren](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Gegevenssegmentatie](/help/data-management/data-segmentation.md)
    + [Goedkeuringen beheren](/help/automating-with-workflows/managing-approvals.md)
    + [Leer van uw collega&#39;s - best practices voor workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
