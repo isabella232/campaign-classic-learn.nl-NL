@@ -2,6 +2,7 @@
 title: Profielen maken en beheren
 description: Leer hoe u toegang krijgt tot profielgegevens, profielen kunt sorteren en filteren en profielen handmatig kunt maken en beheren. Krijg inzicht in de naleving van de Algemene Verordening Gegevensbescherming (AVG) en de California Consumer Privacy Act (CCPA).
 landing-page-description: Begrijp het concept van profielen. Leer hoe u toegang krijgt tot profielgegevens, profielen kunt sorteren en filteren en profielen handmatig kunt maken en beheren. Leer meer over AVG en CCPA.
+short-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
 kt: 5081
 thumbnail: 35611.jpg
@@ -11,7 +12,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: fbf37d803677743773e675faa6b66c3a0998d11d
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 72%
