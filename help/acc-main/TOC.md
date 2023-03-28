@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,6 +59,8 @@ ht-degree: 100%
    + Vermoeidheidsbeheer{#fatigue-management}
       + [Typologieregels gebruiken](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Vooraf gedefinieerde filters gebruiken](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + Monitoringberichten {#monitoring-messages}
+      + [Quarantainebeheer begrijpen](/help/sending-messages/quarantine-management.md)
    + [Lidmaatschapsservices configureren en beheren](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campagnes orkestreren {#orchestration}
    + [Een campagne uitvoeren](/help/orchestrating-campaigns/executing-a-campaign.md)
