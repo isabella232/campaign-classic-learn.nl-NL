@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Leveringen configureren voor A/B-tests](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Leveringen configureren voor A/B-test](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [Dynamische inhoud configureren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [E-mails personaliseren met dynamische contentblokken](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [E-mailberichten personaliseren met het personalisatieveld](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -83,12 +83,12 @@ ht-degree: 96%
    + [Leer van uw collega&#39;s - best practices voor workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Landingspagina’s configureren {#landing-pages}
    + [Landingspagina’s configureren](/help/designing-content/configure-landingpages.md)
-   + [Een voorkeurscentrum maken](/help/designing-content/create-a-preference-center.md)
+   + [Voorkeurscentrum maken](/help/designing-content/create-a-preference-center.md)
 + Monitor {#monitoring}
    + [Workflow heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
 + Data management {#data-management}
-   + [Query-gegevens](/help/data-management/query-data.md)
+   + [Querygegevens](/help/data-management/query-data.md)
 + Integreren {#integrating}
    + [Integreren met Adobe Target](/help/integrations/target-integration.md)
    + [Integreren met Dynamics 365](/help/integrations/dynamics365-integration.md)
