@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
-source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+source-git-commit: d91185009803755731f07a0b187dd60cf9141699
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -43,6 +43,7 @@ ht-degree: 0%
       + [Terugkerende en doorlopende e-mailcampagnes configureren](/help/sending-messages/recurring-deliveries.md)
       + [Interactieve e-mailcontent definiëren met AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Problemen met de verzending van e-mail oplossen](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Bijlagen toevoegen aan een e-maillevering](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [E-mails ontwerpen voor leverbaarheid](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Sms-kanaal {#sms-channel}
       + [Een sms-levering maken](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
