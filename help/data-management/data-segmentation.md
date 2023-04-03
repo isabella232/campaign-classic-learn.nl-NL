@@ -1,6 +1,6 @@
 ---
 title: Gegevenssegmentatie in Adobe Campaign Classic
-description: 'Begrijp het geïntegreerde klantenprofiel, om de profielen tot stand te brengen en bij te werken en hoe te om klantensegmenten tot stand te brengen die op deze profielen worden gebaseerd. '
+description: Begrijp het geïntegreerde klantenprofiel, om de profielen tot stand te brengen en bij te werken en hoe te om klantensegmenten tot stand te brengen die op deze profielen worden gebaseerd.
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -9,7 +9,7 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Klanten genereren gegevens met elk kanaal op hun vingertoppen, net zoals ze alle
 
 Dankzij het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze gegevens op grote schaal vastleggen en beheren. alles, van profielkenmerken zoals demografische details &quot;zip code&quot; &quot;address&quot; gender&quot; enz., tot interactiegegevens, &quot;opening van een bericht&quot;, &quot;click on an email&quot;, &quot;website visit&quot;, tot conversiegegevens en zelfs offline gegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## Klantprofiel maken en bijwerken {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## Segmentering van klant  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Zodra u de profielen hebt begrepen, bent u bereid om geavanceerde segmentatie do
 
 Opmerking: Deze video is opgenomen in Adobe Campaign Classic V6. De functionaliteit is precies hetzelfde, maar de werkstroompictogrammen zijn gewijzigd.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

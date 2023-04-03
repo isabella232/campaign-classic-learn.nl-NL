@@ -1,6 +1,6 @@
 ---
 title: De audittrail gebruiken
-description: 'Audit trail legt in real time een uitgebreide lijst vast met acties en gebeurtenissen die plaatsvinden binnen Adobe Campaign. '
+description: Audit trail legt in real time een uitgebreide lijst vast met acties en gebeurtenissen die plaatsvinden binnen Adobe Campaign.
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -41,6 +41,6 @@ De [!UICONTROL Audit Trail] logs en lijstoperatoracties, zoals het maken, wijzig
 
 In de onderstaande video wordt beschreven waar u toegang kunt krijgen tot de logboeken van de audittrail en welke instellingen u kunt configureren.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 Voor meer informatie raadpleegt u de [Audit trail-documentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=nl).

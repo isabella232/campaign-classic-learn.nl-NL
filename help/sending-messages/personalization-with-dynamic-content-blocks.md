@@ -6,7 +6,7 @@ kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%
@@ -29,18 +29,18 @@ Deze zelfstudie laat zien hoe u de inhoud van de levering kunt aanpassen, JavaSc
 
 Een verpersoonlijkingsblok is dynamisch en bevat specifieke renderingcode die aan leveringen kan worden toegevoegd. U kunt bijvoorbeeld afbeeldingen, e-mailkopteksten, e-mailvoetteksten, spiegelpaginakoppelingen, uitschrijvingskoppelingen en nog veel meer toevoegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
 ## Een personalisatieveld toevoegen aan een levering
 
 Personalisatievelden worden gebruikt voor personalisatie op het eerste niveau van de content van geleverde berichten. De velden die u in hoofdcontent invoegt, geven de positie aan waar de gegevens uit de geselecteerde gegevensbron moeten worden ingevoegd.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
 ## Voorwaardelijke content aan een levering toevoegen
 
 Door voorwaardelijke-contentvelden te configureren kunt u geavanceerde personalisatie tot stand brengen. Volledige tekstblokken en/of afbeeldingen worden vervangen wanneer aan een bepaalde voorwaarde wordt voldaan. Deze video laat zien hoe u voorwaardelijke content aan een levering kunt toevoegen, bijvoorbeeld aan een meertalige nieuwsbrief.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
 Voor meer informatie over Personalisatie raadpleegt u de [productdocumentatie](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
