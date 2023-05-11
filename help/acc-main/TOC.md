@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic - Tutorials
 user-guide-description: Met Adobe Campaign Classic kunnen marketeers kanaaloverschrijdende klantervaringen ontwerpen. Het biedt ook een omgeving voor visuele campagneorkestratie, realtime-interactiebeheer en uitvoering via meerdere kanalen.
 breadcrumb-title: Tutorials
 source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '459'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 + Berichten verzenden{#sending-messages}
    + E-mailkanaal{#email-channel}
       + [E-mailverzendingen maken en ontwerpen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [E-mailleveringsinhoud ontwerpen](/help/sending-messages/email-channel/design-email-delivery-content.md)
+      + [Content voor e-maillevering ontwerpen](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Seeds en proeven in een e-mail beheren](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Proeven verzenden en valideren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Controlegroepen gebruiken](/help/sending-messages/email-channel/use-control-groups.md)
