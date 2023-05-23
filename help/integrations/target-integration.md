@@ -1,22 +1,22 @@
 ---
 title: Integreren met Adobe Target
-description: Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.
+description: Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 9601
 thumbnail: 341030.jpg
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+exl-id: 1338427d-d75e-4480-9377-f8e68e067364
+source-git-commit: 818dc5bb697ce70182ecee936c22a26730201337
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 61%
 
 ---
 
-
 # Integreren met Adobe Target
 
-Leer hoe u een levering kunt personaliseren met dynamische inhoud van Adobe Target.
+Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Interactieve e-mailcontent definiëren met AMP
-description: Leer de e-mailinhoud in AMP-formaat configureren.
+description: Leer hoe u e-mailcontent in AMP-indeling configureert.
 feature: Email, Email Design
 kt: 3475
 thumbnail: 29940.jpg
@@ -11,7 +11,7 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
