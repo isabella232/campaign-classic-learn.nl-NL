@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: 087a7836a7ab748f8bad797c748cab3c2440fd91
+source-git-commit: e58718f17703d220281089e940413b762479fb7e
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 50%
+source-wordcount: '74'
+ht-degree: 44%
 
 ---
 
@@ -22,4 +22,4 @@ In deze video wordt uitgelegd hoe u de Adobe Experience Platform Mobile SDK kunt
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-Meer leren op hoe te om de uitbreiding van de Campaign Classic in Mobiele SDK te vormen, zie [productdocumentatie](hhttps://github.com/Adobe-Marketing-Cloud/aep-sdks-documentation/blob/master/using-mobile-extensions/adobe-campaignclassic/README.md).
+Meer leren op hoe te om de uitbreiding van de Campaign Classic in Mobiele SDK te vormen, zie [productdocumentatie](https://github.com/Adobe-Marketing-Cloud/aep-sdks-documentation/blob/master/using-mobile-extensions/adobe-campaignclassic/README.md).
