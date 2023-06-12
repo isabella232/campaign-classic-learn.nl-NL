@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
+source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 48%
+source-wordcount: '109'
+ht-degree: 38%
 
 ---
 
@@ -23,8 +23,7 @@ Begrijp het concept van controlegroepen en leer een controlegroep gebruiken voor
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
-Raadpleeg de productdocumentatie voor meer informatie over:
-
-* [Hoe te om een controlegroepen te bepalen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-* [Hoe definieert u de doelpopulatie voor de levering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
-
+>[!IMPORTANT]
+>Als er veelvoudige leveringen in het richten werkschema zijn, moet u de montages van de controlegroep op het leveringsniveau en in campagnemontages toelaten.
+>Raadpleeg de productdocumentatie voor meer informatie over [hoe te om een controlegroepen te bepalen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+en [de streefpopulatie voor levering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
