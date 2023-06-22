@@ -5,11 +5,11 @@ feature: SMS
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8429
+jira: KT-8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
-source-wordcount: '52'
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
