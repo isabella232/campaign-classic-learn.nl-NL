@@ -2,11 +2,11 @@
 title: E-mails personaliseren met behulp van dynamische contentblokken
 description: Deze zelfstudie laat zien hoe u de inhoud van de levering kunt aanpassen, JavaScript-code kunt gebruiken in leveringssjablonen en inhoudsblokken in verschillende leveringssjablonen kunt standaardiseren en delen.
 feature: Personalization
-kt: 1559
+jira: KT-1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%

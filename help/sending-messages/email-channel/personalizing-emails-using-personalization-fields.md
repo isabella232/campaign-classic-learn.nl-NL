@@ -2,7 +2,7 @@
 title: E-mails aanpassen met velden voor personalisatie
 description: Leer hoe u een personalisatieveld toevoegt aan de onderwerpregel en de content van een e-maillevering.
 feature: Personalization
-kt: 5921
+jira: KT-5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 89%

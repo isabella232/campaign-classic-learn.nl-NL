@@ -2,14 +2,14 @@
 title: Een targetingworkflow maken
 description: Leer hoe u verschillende leveringsdoelen definieert met behulp van targetingworkflows.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 2174
+jira: KT-2174
 doc-type: feature video
 activity: use
 team: DOC
 role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 43%

@@ -2,7 +2,7 @@
 title: Targets verfijnen door queryresultaten uit te sluiten
 description: Leer hoe u uw doel kunt verfijnen door een standaarduitsluiting toe te passen op een workflow. U leert ook hoe u vooraf gedefinieerde filters maakt en hoe u problemen kunt oplossen met uw workflow.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 5548
+jira: KT-5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 82%
