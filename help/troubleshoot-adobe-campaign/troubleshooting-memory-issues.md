@@ -4,11 +4,11 @@ description: Leer een geheugenfout voor on-premise installaties op te lossen.
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8386
+jira: KT-8386
 exl-id: 36332542-5647-4485-a73a-c0c8b5229494
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
-source-wordcount: '36'
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
