@@ -2,15 +2,16 @@
 title: Tien best practices voor succes met Adobe Campaign voor marketeers
 description: Leer de tien best practices om Adobe Campaign-gebruikers te helpen de transformatie van de digitale consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Net als uw klanten hebt u een dagelijkse routine. Het verzenden en orkestreren v
 
 Als uw klanten bijvoorbeeld &#39;s ochtends op hun telefoon kijken voor de beste deals, overweeg dan om hun een promotie te sms&#39;en. Als ze &#39;s nachts op zoek zijn naar de volgende populaire trend, overweeg dan om een vervolgmail te sturen met een promotiecode voor gratis verzending. Het is ook belangrijk om de heatmap-tool in [!DNL Campaign] te gebruiken om bij te houden wanneer uw workflows en verzendingen worden uitgevoerd. Het coördineren en faciliteren van communicatie tussen meerdere merken kan een uitdaging zijn. Het is van onschatbare voor de algehele stabiliteit en kracht van uw boodschap en campagne waarde om [het ritme, de cadans en de timing van uw e-mails in de gaten te houden en te kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554).
 
-## 4. Gebruik personalisatie waar dat belangrijk is.
+## 4. Persoonlijkheid gebruiken waar dat belangrijk is
 
 Tegenwoordig verwachten consumenten een zekere mate van personalisatie in de berichten die ze ontvangen. [80% van de klanten zal waarschijnlijk meer kopen van een merk dat persoonlijke ervaringen biedt](https://us.epsilon.com/power-of-me). Hun naam in de onderwerpregel is geweldig. Personalisatie kan echter veel verder gaan. U kunt de producten opnemen die ze hebben bekeken, ze in contact brengen met vergelijkbare producten of een geïntegreerde ervaring en look-and-feel van uw merk steeds verder versterken. Elk klein detail telt en stimuleert betrokkenheid en de openingspercentages van uw berichten.
 
