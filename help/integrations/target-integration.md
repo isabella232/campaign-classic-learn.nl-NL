@@ -1,5 +1,5 @@
 ---
-title: Integreren met Adobe Target
+title: Campaign Classic V7 integreren met Adobe Target
 description: Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 feature: Target Integration
 role: User
@@ -7,14 +7,15 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+badgeIntegration: label="Integratie" type="positive"
+source-git-commit: 3e2746e371c381f303a7b39fbea1f9c9a2444c63
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 61%
+source-wordcount: '62'
+ht-degree: 41%
 
 ---
 
-# Integreren met Adobe Target
+# Campaign Classic V7 integreren met Adobe Target
 
 Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 
