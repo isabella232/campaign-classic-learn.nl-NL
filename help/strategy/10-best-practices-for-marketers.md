@@ -50,7 +50,7 @@ Net als uw klanten hebt u een dagelijkse routine. Het verzenden en orkestreren v
 
 Als uw klanten bijvoorbeeld &#39;s ochtends op hun telefoon kijken voor de beste deals, overweeg dan om hun een promotie te sms&#39;en. Als ze &#39;s nachts op zoek zijn naar de volgende populaire trend, overweeg dan om een vervolgmail te sturen met een promotiecode voor gratis verzending. Het is ook belangrijk om de heatmap-tool in [!DNL Campaign] te gebruiken om bij te houden wanneer uw workflows en verzendingen worden uitgevoerd. Het coördineren en faciliteren van communicatie tussen meerdere merken kan een uitdaging zijn. Het is van onschatbare voor de algehele stabiliteit en kracht van uw boodschap en campagne waarde om [het ritme, de cadans en de timing van uw e-mails in de gaten te houden en te kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554).
 
-## 4. Persoonlijkheid gebruiken waar dat belangrijk is
+## 4. Gebruik personalisatie waar dat van belang is
 
 Tegenwoordig verwachten consumenten een zekere mate van personalisatie in de berichten die ze ontvangen. [80% van de klanten zal waarschijnlijk meer kopen van een merk dat persoonlijke ervaringen biedt](https://us.epsilon.com/power-of-me). Hun naam in de onderwerpregel is geweldig. Personalisatie kan echter veel verder gaan. U kunt de producten opnemen die ze hebben bekeken, ze in contact brengen met vergelijkbare producten of een geïntegreerde ervaring en look-and-feel van uw merk steeds verder versterken. Elk klein detail telt en stimuleert betrokkenheid en de openingspercentages van uw berichten.
 
