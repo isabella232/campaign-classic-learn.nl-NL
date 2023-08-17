@@ -24,7 +24,7 @@ Adobe Campaign staat u toe om geavanceerde segmentatie door diepe vragen van de 
 
 Klanten genereren gegevens met elk kanaal op hun vingertoppen, net zoals ze alles doen wat mensen doen wanneer ze een aankoopbeslissing nemen of gewoon met uw merk communiceren.
 
-Dankzij het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze gegevens op grote schaal vastleggen en beheren. alles, van profielkenmerken zoals demografische details &quot;zip code&quot; &quot;address&quot; gender&quot; enz., tot interactiegegevens, &quot;opening van een bericht&quot;, &quot;click on an email&quot;, &quot;website visit&quot;, tot conversiegegevens en zelfs offline gegevens.
+Met het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze gegevens op grote schaal vastleggen en beheren, van profielkenmerken zoals demografische details &quot;zip code&quot; &quot;address&quot; &quot;gender&quot; enz. tot interactiegegevens, &quot;opening van een bericht&quot;, &quot;click on an email&quot;, &quot;website visit&quot;, tot conversiegegevens en zelfs offline gegevens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
@@ -36,7 +36,7 @@ Dankzij het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze
 
 Zodra u de profielen hebt begrepen, bent u bereid om geavanceerde segmentatie door diepe vragen van de gemeenschappelijke consumentenattributen en andere gegevensbronnen te doen. Als u lijsten kunt maken die u opnieuw kunt gebruiken, kunt u lijsten dynamisch bijwerken op basis van realtime wijzigingen in gegevens en zelfs complexere activiteiten uitvoeren, zoals het testen met meerdere varianten op een van deze gegevenspunten.
 
-Opmerking: Deze video is opgenomen in Adobe Campaign Classic V6. De functionaliteit is precies hetzelfde, maar de werkstroompictogrammen zijn gewijzigd.
+Opmerking: deze video is opgenomen in Adobe Campaign Classic V6, de functionaliteit is precies hetzelfde, maar de werkstroompictogrammen zijn gewijzigd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

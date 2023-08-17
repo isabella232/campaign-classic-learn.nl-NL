@@ -1,6 +1,6 @@
 ---
 title: Beheer van big data in Snowflake
-description: Leer hoe u de Snowflake-connector in Adobe Campaign Classic kunt gebruiken
+description: Leer hoe u de Snowflake-aansluiting in Adobe Campaign Classic kunt gebruiken
 feature: Federated Data Access, Data Management
 jira: KT-4405
 doc-type: feature video
@@ -18,7 +18,7 @@ ht-degree: 56%
 
 # Beheer van big data in Snowflake
 
-In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake] -aansluiting in Adobe Campaign Classic.
+In deze zelfstudie wordt uitgelegd hoe u de [!DNL Snowflake] in Adobe Campaign Classic.
 U leert hoe u het volgende kunt doen:
 
 * Verbinden met Snowflake

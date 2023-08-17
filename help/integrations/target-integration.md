@@ -11,7 +11,7 @@ badgeIntegration: label="Integratie" type="positive"
 source-git-commit: 3e2746e371c381f303a7b39fbea1f9c9a2444c63
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 41%
+ht-degree: 43%
 
 ---
 
@@ -22,4 +22,4 @@ Leer hoe u een levering kunt personaliseren met dynamische content die wordt gel
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 
 >[!NOTE]
-> De video is opgenomen in Campagne V8. De functionaliteit is hetzelfde voor zowel Campaign Classic V7 als Campagne V8.
+> De video is opgenomen in campagne V8, de functionaliteit is hetzelfde voor zowel Campaign Classic V7 als Campagne V8.

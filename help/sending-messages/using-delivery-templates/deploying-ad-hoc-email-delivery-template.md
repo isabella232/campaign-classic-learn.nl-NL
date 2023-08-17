@@ -19,6 +19,6 @@ ht-degree: 9%
 
 # Een ad-hocsjabloon voor e-maillevering implementeren {#deploying-a-delivery-template}
 
-In deze video wordt uitgelegd hoe u een sjabloon voor ad-hoc e-maillevering kunt implementeren. In deze video wordt het verschil tussen een e-maillevering en een leveringsworkflow uitgelegd.
+In deze video wordt uitgelegd hoe u een sjabloon voor ad-hoce-maillevering kunt implementeren. In deze video wordt het verschil tussen een e-maillevering en een leveringsworkflow uitgelegd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)

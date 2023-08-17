@@ -17,7 +17,7 @@ ht-degree: 32%
 
 ---
 
-# Een [!DNL Android] service en het maken van een [!DNL Android] mobiele toepassing in campagne
+# Een [!DNL Android] een service en een [!DNL Android] mobiele toepassing in campagne
 
 Leer hoe u een [!DNL Android]-service configureert en een mobiele [!DNL Android]-applicatie maakt in Campaign. Deze stap is vereist, zodat u de mobiele doelapplicatie voor de pushmelding kunt bepalen.
 

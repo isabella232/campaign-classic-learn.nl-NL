@@ -1,5 +1,5 @@
 ---
-title: Hoe stelt u vermoeidheidsbeheer in met behulp van typologische regels in Adobe Campaign Classic
+title: Procedure voor het instellen van vermoeidheidsbeheer met behulp van typologische regels in Adobe Campaign Classic
 description: Leer hoe u vermoeidheidsbeheer implementeert door typologische regels toe te passen.
 feature: Fatigue Management, Typology Rules
 jira: KT-1564

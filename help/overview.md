@@ -25,28 +25,22 @@ Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klanterva
 ## Nieuwe functies
 
 * **[SMPP-protocol: meer details en probleemoplossing](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=nl)**
-
-   *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
+  *Leer hoe SMPP-verbindingen tot stand worden gebracht en hoe SMPP gegevens uitwisselt via PDU&#39;s. Begrijp hoe u problemen met verbindingen kunt oplossen.*
 
 * **[Configuratiescherm voor hybride hostingmodellen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=nl)**
-
-   *Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Adobe Campaign, toegang krijgt tot het configuratiescherm en de belangrijkste functies ontgrendelt.*
+  *Leer hoe u het configuratiescherm inschakelt voor hybride hostingmodellen van Adobe Campaign, toegang krijgt tot het configuratiescherm en de belangrijkste functies ontgrendelt.*
 
 * **[Configuratiescherm - Workflows controleren](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=nl){target="_blank"}**
-
-   *Leer hoe u het gebruik van tijdelijke opslag voor uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
+  *Leer hoe u het gebruik van tijdelijke opslag voor uw workflows kunt controleren en waar u workflowinstellingen kunt configureren om database- of workflowproblemen voor uw instantie te voorkomen.*
 
 * **[Configuratiescherm - Doorvoer en latentie bewaken](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=nl){target="_blank"}**
-
-   *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
+  *Leer leveringsdoorvoer en transactionele berichtlatentie van uw Campaign-instantie te controleren.*
 
 * **[Inleiding tot sms](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=nl)**
-
-   *Meer informatie over hoe sms werkt en hoe Adobe Campaign een sms verzendt*
+  *Meer informatie over hoe sms werkt en hoe Adobe Campaign een sms verzendt*
 
 * **[Een sms-account instellen voor een standaard SMPP-provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=nl)**
-
-   *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
+  *Leer hoe u de sms-connector aanpast aan uw SMPP-provider. Pas uw sms-instellingen aan om verbindingsgrenzen af te handelen, stel de maximale doorvoer, het verzendende venster en codering in met TLS.*
 
 </div>
 

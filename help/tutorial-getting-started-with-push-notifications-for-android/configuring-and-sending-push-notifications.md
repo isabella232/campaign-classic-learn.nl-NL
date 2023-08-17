@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # Pushmeldingen configureren en verzenden
 
-Leer hoe u een [!DNL push] kennisgeving aan gebruikers van een [!DNL Android] toepassingen.
+Leer hoe u een [!DNL push] gebruikers van een [!DNL Android] toepassingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
