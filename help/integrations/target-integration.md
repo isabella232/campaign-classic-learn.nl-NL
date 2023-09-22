@@ -8,10 +8,10 @@ jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 3e2746e371c381f303a7b39fbea1f9c9a2444c63
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 43%
+source-wordcount: '64'
+ht-degree: 42%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 43%
 
 Leer hoe u een levering kunt personaliseren met dynamische content die wordt geleverd door Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
 
 >[!NOTE]
 > De video is opgenomen in campagne V8, de functionaliteit is hetzelfde voor zowel Campaign Classic V7 als Campagne V8.

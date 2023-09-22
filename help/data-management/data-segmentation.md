@@ -9,9 +9,9 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Klanten genereren gegevens met elk kanaal op hun vingertoppen, net zoals ze alle
 
 Met het geïntegreerde klantprofiel van Adobe Campaign kunnen marketers deze gegevens op grote schaal vastleggen en beheren, van profielkenmerken zoals demografische details &quot;zip code&quot; &quot;address&quot; &quot;gender&quot; enz. tot interactiegegevens, &quot;opening van een bericht&quot;, &quot;click on an email&quot;, &quot;website visit&quot;, tot conversiegegevens en zelfs offline gegevens.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
 
 ## Klantprofiel maken en bijwerken {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){transcript=true}
 
 ## Segmentering van klant  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Zodra u de profielen hebt begrepen, bent u bereid om geavanceerde segmentatie do
 
 Opmerking: deze video is opgenomen in Adobe Campaign Classic V6, de functionaliteit is precies hetzelfde, maar de werkstroompictogrammen zijn gewijzigd.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
 

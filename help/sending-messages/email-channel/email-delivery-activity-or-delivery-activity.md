@@ -6,10 +6,10 @@ jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 88%
+source-wordcount: '65'
+ht-degree: 86%
 
 ---
 
@@ -20,4 +20,4 @@ A [!UICONTROL Delivery-type activity] Hiermee kunt u een leveringsactie maken. D
 
 In deze video wordt uitgelegd hoe u een sjabloon voor e-maillevering kunt distribueren. Het verschil tussen een e-maillevering en een leveringsworkflow wordt uitgelegd.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}

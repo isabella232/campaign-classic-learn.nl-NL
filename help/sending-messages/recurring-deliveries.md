@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 50%
+source-wordcount: '243'
+ht-degree: 49%
 
 ---
 
@@ -38,10 +38,10 @@ De terugkomende en ononderbroken leveringen verschillen in de manier waarop cont
 
 Deze video verklaart hoe te om een terugkomende levering en een planneractiviteit te vormen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
 
 ## Een doorlopende levering instellen {#how-to-set-up-a-continuous-delivery}
 
 Deze video laat zien hoe u een doorlopende levering configureert met een stapsgewijze query.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}

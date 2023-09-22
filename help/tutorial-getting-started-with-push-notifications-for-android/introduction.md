@@ -10,10 +10,10 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '367'
+ht-degree: 99%
 
 ---
 
@@ -41,7 +41,7 @@ Voordat u kunt beginnen, hebt u het volgende nodig:
 
    Het [!DNL Mobile App channel]-pakket moet op uw [!DNL Campaign]-instantie zijn geïnstalleerd. In de volgende video wordt uitgelegd hoe u kunt controleren of het [!DNL Mobile App channel] op uw installatie is geïnstalleerd en, indien dit niet het geval is, hoe u dit installeert.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Overzicht van tutorial
 

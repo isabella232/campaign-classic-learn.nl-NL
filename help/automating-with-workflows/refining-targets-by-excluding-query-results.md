@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 82%
+source-wordcount: '72'
+ht-degree: 80%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 82%
 
 Leer hoe u uw doel kunt verfijnen door een **[!UICONTROL standard exclusion]** naar een workflow. U leert ook hoe u vooraf gedefinieerde filters maakt en hoe u problemen kunt oplossen met uw workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
