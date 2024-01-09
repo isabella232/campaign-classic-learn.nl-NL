@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic v7-Tutorials
-user-guide-description: Met Adobe Campaign Classic v7 kunnen marketers klanten met meerdere kanalen ervaringen ontwerpen en beschikken ze over een omgeving voor visuele campagneorchestratie, realtime interactiebeheer en uitvoering via meerdere kanalen.
+user-guide-description: Video's en zelfstudies voor Adobe Campaign Classic v7.
 breadcrumb-title: Campaign Classic v7 Tutorials
 auto-video-transcripts: true
-source-git-commit: 11fa8be0e1ea218fa46647b2bee30adbd3352e7f
+source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 89%
+source-wordcount: '415'
+ht-degree: 93%
 
 ---
 
